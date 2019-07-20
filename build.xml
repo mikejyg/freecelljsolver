@@ -9,7 +9,7 @@
                 <attribute name="Class-Path" value="."/>
             </manifest>
             <fileset dir="bin"/>
-            <zipfileset excludes="META-INF/*.SF" src="C:/javalibs/je-4.0.92/lib/je-4.0.92.jar"/>
+            <zipfileset excludes="META-INF/*.SF" src="libs/je-6.4.9.jar"/>
         </jar>
     </target>
 </project>
