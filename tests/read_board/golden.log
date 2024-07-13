@@ -1,0 +1,26 @@
+using auto config solve
+
+__ 3D 4D 8C  __ 2H 2C AS 
+
+2D 5D 5H 7H 7C 9H JD JC 
+KC AD 3H QC KH 9S KD 5S 
+KS JS 3C JH __ 9D 2S QD 
+5C 4H 7S TC __ TS 4C QH 
+TD __ 7D __ __ 4S 3S TH 
+8S __ 6C __ __ 8D 6D QS 
+9C __ __ __ __ __ 6S 6H 
+8H __ __ __ __ __ __ __ 
+
+5a 56 a5 86 48(2) 45 85(2) 34 3a 31 
+3h 3h 2h 3h 23 2h 6h 24 a2 72 
+76 7a 7h 7h ah 1a 87 42 83 a1 
+38(2) 18(3) 13 1a 1h 4h 4h 14 68 6h 
+dh 86(2) 8h 8h 3d 13 1h bh ch 2h 
+61(3) 6h 1h 83(3) 8b 8h 2h 1h 2h 1h 
+5h dh 6c 6h 6h 6h 3h 5h 8h ah 
+5h ch 3h 3h 5h 7h 71 7h 3h 4h 
+bh 1h 
+
+solver result : solved at move : 78, total boards : 510, outstanding candidates : 314, tried candidates : 195, max depth : 77
+miliseconds used : 29
+

@@ -32,7 +32,7 @@ import java.util.Properties;
  */
 public class FreecellSolver implements FCSolverIntf
 {
-	public static final String VERSION_STRING="1.3.1";
+	public static final String VERSION_STRING="1.3.2";
 	
 	////////////////////
 	// output settings
@@ -40,6 +40,9 @@ public class FreecellSolver implements FCSolverIntf
 	// print out boards along with moves
 	static boolean printBoards = false;
 
+	// if the move consists of more than 1 card, print out the annotation of the number of cards.
+	static boolean printMoveAnnotation = true;
+	
 	///////////////////
 	// debug settings 
 	
@@ -200,6 +203,7 @@ public class FreecellSolver implements FCSolverIntf
 		limitBoards = fcs.limitBoards;
 		maxBoardsSize = fcs.maxBoardsSize;
 		useBoardRevisions = fcs.useBoardRevisions;
+		
 	}	
 
 	public void clear() {
@@ -1256,7 +1260,12 @@ public class FreecellSolver implements FCSolverIntf
 	private ArrayList<String> getStdString(int prevBoardId, int move) {
 		if (FCMove.getMoveType(move) == FCMove.MOVE_TYPE_STANDARD) {
 			ArrayList<String> strs = new ArrayList<String>();
-			strs.add( FCMove.toStdString(move));
+			
+			if (isPrintMoveAnnotation())
+				strs.add( FCMove.toStdStringWithAnnotation(move));
+			else
+				strs.add( FCMove.toStdString(move));
+			
 			return strs;
 		}
 		// expand meta move
@@ -1356,13 +1365,6 @@ public class FreecellSolver implements FCSolverIntf
 	
 	public void storeProperties(String propertiesFileName) throws FileNotFoundException, IOException {
 		Properties properties = new Properties();
-		////////////////////
-		// output settings
-
-		// print out boards along with moves
-//		static boolean printBoards = false;
-		properties.setProperty("PRINT_BOARDS", Boolean.toString(printBoards));
-
 		///////////////////
 		// debug settings 
 		
@@ -1425,13 +1427,6 @@ public class FreecellSolver implements FCSolverIntf
 	public void loadProperties() throws FileNotFoundException, IOException, ParseException {
 		Properties properties = new Properties();
 		properties.load(new FileInputStream(propertiesFileName));
-
-		////////////////////
-		// output settings
-
-		// print out boards along with moves
-//		static boolean printBoards = false;
-		printBoards = Boolean.parseBoolean( properties.getProperty("PRINT_BOARDS") );
 
 		///////////////////
 		// debug settings 
@@ -1515,6 +1510,14 @@ public class FreecellSolver implements FCSolverIntf
 
 	public int getSolvedMove() {
 		return solvedMove;
+	}
+
+	public static boolean isPrintMoveAnnotation() {
+		return printMoveAnnotation;
+	}
+
+	public static void setPrintMoveAnnotation(boolean printMoveAnnotation) {
+		FreecellSolver.printMoveAnnotation = printMoveAnnotation;
 	}
 
 

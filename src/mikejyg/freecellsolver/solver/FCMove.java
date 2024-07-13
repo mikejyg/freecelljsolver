@@ -128,4 +128,15 @@ public class FCMove {
 		str += getLocationStr(getDestLocation(move), getDestId(move));
 		return str;
 	}
+	
+	public static String toStdStringWithAnnotation(int move) {
+		String str=toStdString(move);
+		int moveLen = getMoveLength(move);
+		if ( moveLen != 1 ) {
+			str += "(" + moveLen + ")";
+		}
+		return str;
+	}
+
+	
 }

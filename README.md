@@ -5,12 +5,9 @@ Freecell Java Solver
 
 freecelljsolver is a java package that solves freecell games.
 
-The goal is to design a smart solver, not just a brute force one.
+While the original goal was to design a smart solver, it has not materialized. As of today, it is a brute force solver, albeit with optimizations and heuristics.
 
-Smart, as it is taught to play the game like a human would do. 
-
-Of course, it also need to be efficient and capable, so we can actually use it to solve games. 
-
+**NOTE: When moving to an empty column, this solver always moves the longest column possible.  No case of this rule causing a solvable deal unsolvable has been discovered. Please keep this in mind when it comes to the standard move notation.**
 
 ## STATUS
 
@@ -36,30 +33,31 @@ A stand alone application is provided (test\FCSolve.java) as a usage example. Th
 
 	java -jar freecelljsolver.jar
 
-A few example tests are provided under the directory tests, showing how to use the stand alone application in various ways.
+A few example tests are provided under the directory *tests/*, showing how to use the stand alone application in various ways.
 
-Note, when using the Berkeley DB backed option, a directory named "dbEnv" must be present in the directory where the program is run.
+**Note, when using the Berkeley DB backed option, a directory named "dbEnv" must be present in the directory where the program is run.**
 
+Options of running the solver are provided by command line options and a properties file. Please use the -h option to see the help, and the file *freecell-default.properties* for info on properties.
 
 ## TECHNICAL
 
 The solver uses a few techniques to speed up the search and uses less memory, they are summarized below,
 
-1. Use heuristic algorithm to evaluate each candidate within a common ancestor, and pick the most likely winner among them.
+* Use heuristic algorithm to evaluate each candidate within a common ancestor, and pick the most likely winner among them.
 
 Since it is difficult, if possible at all, to find a single algorithm to best suit all situations, the solver provides two formulas, termed cautious and aggressive, to maximize chance of good guessing.
 
 In dual-threaded mode, this solver actually tries both algorithms at the same time, and gets the earliest the answer.
 
-2. Use equivalent board for comparison, by reducing some suit to color only for some cards, to minimize possible boards, and thus reduce search space.
+* Use equivalent board for comparison, by reducing some suit to color only for some cards, to minimize possible boards, and thus reduce search space.
 
 While it is not proven correct, this has worked for the first 1 million deals correctly. On the cautious side, the solver will disable this optimization, if it encounters an unsolvable board, and try again.
    
-3. When a safe auto play is encountered, let it be the only successor for its ancestor.
+* When a safe auto play is encountered, let it be the only successor for its ancestor.
 
 This technique reduces search space.
 
-4. Use revision marking for free cells, home cells and each column, to prevent some unnecessary moves;
+* Use revision marking for free cells, home cells and each column, to prevent some unnecessary moves;
 
 The idea is to prevent a particular movement of a card, that has been moved, and nothing meaningful has occurred with regard to the movement, since its previous movement.  
 
@@ -72,12 +70,12 @@ This technique may improve performance by reducing the the number of boards bein
 On the down side, this technique uses more memory for each board stored and takes more time to process each board.
 
 
-What about brute force?
+* What about brute force?
 
-Sure, the solver can be configured to use Berkeley DB as back end, let find out how big the search space it can get, and how big a database can Berkeley DB handle, right?
+Sure, the solver can be configured to use Berkeley DB as back end, let us find out how big the search space it can get, and how big a database can Berkeley DB handle, right?
 
 
-The JVM garbage collector
+* The JVM garbage collector
 
 When the solver uses as much memory as the size of the JVM heap space, the JVM will stagnate, wasting almost all the time doing garbage collection. As a result, it is beneficial to stop the search (call it off), before the JVM tells you so.
 

@@ -129,6 +129,15 @@ public class FCSolve
             } else if (args[idx].equals("--columns")) {
             	idx++;
             	FreecellBoard.numberOfColumns = Integer.parseInt(args[idx++]);
+            	
+            } else if (args[idx].equals("--printBoardStates")) {
+            	idx++;
+            	FreecellSolver.setPrintBoards(true);
+            	
+            } else if (args[idx].equals("--noMoveAnnotation")) {
+            	idx++;
+            	FreecellSolver.setPrintMoveAnnotation(false);
+            	
             } else {
             	solver.iterations = 1;
             	solver.seed = Long.parseLong(args[idx]);
@@ -247,6 +256,8 @@ public class FCSolve
 			+ "\t--random\t\tuse random DFS(depth first scan)\n"
 			+ "\t--usePropertiesFile\t\tuse properties specified in the file FreecellSolver.properties\n"
 			+ "\t--printResult\t\tprint moves of the result\n"
+			+ "\t--printBoardStates\t\tprint board states together with moves\n"
+			+ "\t--noMoveAnnotation\t\tprint the standard move notation without annotation. WARNING this can result in ambigious move notation, as sometimes different number of cards can be moved to an empty column.\n"
 			+ "\t--autoCfg\t\tlet the solver try different options automatically; this is the default;"
 			+ " any latter one of the --nonEqThres, --aggressive --cautious and --usePropertiesFile options will disable this;"
 			+ "\t--dual\t\tlaunching two solvers in parallel\n"

@@ -1,0 +1,1155 @@
+using auto config solve
+
+solving seed : 26294
+__ __ __ __  __ __ __ __ 
+
+9S 6H 9C 5C AS 2D 5H 8C 
+QH QD 8H 4H QC 6S 3H JH 
+7C 5S KD JD TD 6C 4C 2S 
+7H 4S AC KS 9D QS KH 5D 
+AH TH 3D 7S 7D TS 2H 8S 
+3S TC 9H 3C 2C JS JC 8D 
+KC 6D AD 4D __ __ __ __ 
+
+move : 0 - 
+__ __ __ __  __ __ __ __ 
+
+9S 6H 9C 5C AS 2D 5H 8C 
+QH QD 8H 4H QC 6S 3H JH 
+7C 5S KD JD TD 6C 4C 2S 
+7H 4S AC KS 9D QS KH 5D 
+AH TH 3D 7S 7D TS 2H 8S 
+3S TC 9H 3C 2C JS JC 8D 
+KC 6D AD 4D __ __ __ __ 
+
+move : 1 - 3h 
+__ __ __ __  AD __ __ __ 
+
+9S 6H 9C 5C AS 2D 5H 8C 
+QH QD 8H 4H QC 6S 3H JH 
+7C 5S KD JD TD 6C 4C 2S 
+7H 4S AC KS 9D QS KH 5D 
+AH TH 3D 7S 7D TS 2H 8S 
+3S TC 9H 3C 2C JS JC 8D 
+KC 6D __ 4D __ __ __ __ 
+
+move : 2 - 1a 
+KC __ __ __  AD __ __ __ 
+
+9S 6H 9C 5C AS 2D 5H 8C 
+QH QD 8H 4H QC 6S 3H JH 
+7C 5S KD JD TD 6C 4C 2S 
+7H 4S AC KS 9D QS KH 5D 
+AH TH 3D 7S 7D TS 2H 8S 
+3S TC 9H 3C 2C JS JC 8D 
+__ 6D __ 4D __ __ __ __ 
+
+move : 3 - 14 
+KC __ __ __  AD __ __ __ 
+
+9S 6H 9C 5C AS 2D 5H 8C 
+QH QD 8H 4H QC 6S 3H JH 
+7C 5S KD JD TD 6C 4C 2S 
+7H 4S AC KS 9D QS KH 5D 
+AH TH 3D 7S 7D TS 2H 8S 
+__ TC 9H 3C 2C JS JC 8D 
+__ 6D __ 4D __ __ __ __ 
+__ __ __ 3S __ __ __ __ 
+
+move : 4 - 1h 
+KC __ __ __  AD AH __ __ 
+
+9S 6H 9C 5C AS 2D 5H 8C 
+QH QD 8H 4H QC 6S 3H JH 
+7C 5S KD JD TD 6C 4C 2S 
+7H 4S AC KS 9D QS KH 5D 
+__ TH 3D 7S 7D TS 2H 8S 
+__ TC 9H 3C 2C JS JC 8D 
+__ 6D __ 4D __ __ __ __ 
+__ __ __ 3S __ __ __ __ 
+
+move : 5 - 3b 
+KC 9H __ __  AD AH __ __ 
+
+9S 6H 9C 5C AS 2D 5H 8C 
+QH QD 8H 4H QC 6S 3H JH 
+7C 5S KD JD TD 6C 4C 2S 
+7H 4S AC KS 9D QS KH 5D 
+__ TH 3D 7S 7D TS 2H 8S 
+__ TC __ 3C 2C JS JC 8D 
+__ 6D __ 4D __ __ __ __ 
+__ __ __ 3S __ __ __ __ 
+
+move : 6 - 5c 
+KC 9H 2C __  AD AH __ __ 
+
+9S 6H 9C 5C AS 2D 5H 8C 
+QH QD 8H 4H QC 6S 3H JH 
+7C 5S KD JD TD 6C 4C 2S 
+7H 4S AC KS 9D QS KH 5D 
+__ TH 3D 7S 7D TS 2H 8S 
+__ TC __ 3C __ JS JC 8D 
+__ 6D __ 4D __ __ __ __ 
+__ __ __ 3S __ __ __ __ 
+
+move : 7 - 5d 
+KC 9H 2C 7D  AD AH __ __ 
+
+9S 6H 9C 5C AS 2D 5H 8C 
+QH QD 8H 4H QC 6S 3H JH 
+7C 5S KD JD TD 6C 4C 2S 
+7H 4S AC KS 9D QS KH 5D 
+__ TH 3D 7S __ TS 2H 8S 
+__ TC __ 3C __ JS JC 8D 
+__ 6D __ 4D __ __ __ __ 
+__ __ __ 3S __ __ __ __ 
+
+move : 8 - c3 
+KC 9H __ 7D  AD AH __ __ 
+
+9S 6H 9C 5C AS 2D 5H 8C 
+QH QD 8H 4H QC 6S 3H JH 
+7C 5S KD JD TD 6C 4C 2S 
+7H 4S AC KS 9D QS KH 5D 
+__ TH 3D 7S __ TS 2H 8S 
+__ TC 2C 3C __ JS JC 8D 
+__ 6D __ 4D __ __ __ __ 
+__ __ __ 3S __ __ __ __ 
+
+move : 9 - 6c 
+KC 9H JS 7D  AD AH __ __ 
+
+9S 6H 9C 5C AS 2D 5H 8C 
+QH QD 8H 4H QC 6S 3H JH 
+7C 5S KD JD TD 6C 4C 2S 
+7H 4S AC KS 9D QS KH 5D 
+__ TH 3D 7S __ TS 2H 8S 
+__ TC 2C 3C __ __ JC 8D 
+__ 6D __ 4D __ __ __ __ 
+__ __ __ 3S __ __ __ __ 
+
+move : 10 - b6 
+KC __ JS 7D  AD AH __ __ 
+
+9S 6H 9C 5C AS 2D 5H 8C 
+QH QD 8H 4H QC 6S 3H JH 
+7C 5S KD JD TD 6C 4C 2S 
+7H 4S AC KS 9D QS KH 5D 
+__ TH 3D 7S __ TS 2H 8S 
+__ TC 2C 3C __ 9H JC 8D 
+__ 6D __ 4D __ __ __ __ 
+__ __ __ 3S __ __ __ __ 
+
+move : 11 - 1b 
+KC 7H JS 7D  AD AH __ __ 
+
+9S 6H 9C 5C AS 2D 5H 8C 
+QH QD 8H 4H QC 6S 3H JH 
+7C 5S KD JD TD 6C 4C 2S 
+__ 4S AC KS 9D QS KH 5D 
+__ TH 3D 7S __ TS 2H 8S 
+__ TC 2C 3C __ 9H JC 8D 
+__ 6D __ 4D __ __ __ __ 
+__ __ __ 3S __ __ __ __ 
+
+move : 12 - 18 
+KC 7H JS 7D  AD AH __ __ 
+
+9S 6H 9C 5C AS 2D 5H 8C 
+QH QD 8H 4H QC 6S 3H JH 
+__ 5S KD JD TD 6C 4C 2S 
+__ 4S AC KS 9D QS KH 5D 
+__ TH 3D 7S __ TS 2H 8S 
+__ TC 2C 3C __ 9H JC 8D 
+__ 6D __ 4D __ __ __ 7C 
+__ __ __ 3S __ __ __ __ 
+
+move : 13 - c1 
+KC 7H __ 7D  AD AH __ __ 
+
+9S 6H 9C 5C AS 2D 5H 8C 
+QH QD 8H 4H QC 6S 3H JH 
+JS 5S KD JD TD 6C 4C 2S 
+__ 4S AC KS 9D QS KH 5D 
+__ TH 3D 7S __ TS 2H 8S 
+__ TC 2C 3C __ 9H JC 8D 
+__ 6D __ 4D __ __ __ 7C 
+__ __ __ 3S __ __ __ __ 
+
+move : 14 - 3c 
+KC 7H 2C 7D  AD AH __ __ 
+
+9S 6H 9C 5C AS 2D 5H 8C 
+QH QD 8H 4H QC 6S 3H JH 
+JS 5S KD JD TD 6C 4C 2S 
+__ 4S AC KS 9D QS KH 5D 
+__ TH 3D 7S __ TS 2H 8S 
+__ TC __ 3C __ 9H JC 8D 
+__ 6D __ 4D __ __ __ 7C 
+__ __ __ 3S __ __ __ __ 
+
+move : 15 - 28 
+KC 7H 2C 7D  AD AH __ __ 
+
+9S 6H 9C 5C AS 2D 5H 8C 
+QH QD 8H 4H QC 6S 3H JH 
+JS 5S KD JD TD 6C 4C 2S 
+__ 4S AC KS 9D QS KH 5D 
+__ TH 3D 7S __ TS 2H 8S 
+__ TC __ 3C __ 9H JC 8D 
+__ __ __ 4D __ __ __ 7C 
+__ __ __ 3S __ __ __ 6D 
+
+move : 16 - 52 
+KC 7H 2C 7D  AD AH __ __ 
+
+9S 6H 9C 5C AS 2D 5H 8C 
+QH QD 8H 4H QC 6S 3H JH 
+JS 5S KD JD TD 6C 4C 2S 
+__ 4S AC KS __ QS KH 5D 
+__ TH 3D 7S __ TS 2H 8S 
+__ TC __ 3C __ 9H JC 8D 
+__ 9D __ 4D __ __ __ 7C 
+__ __ __ 3S __ __ __ 6D 
+
+move : 17 - 51 
+KC 7H 2C 7D  AD AH __ __ 
+
+9S 6H 9C 5C AS 2D 5H 8C 
+QH QD 8H 4H QC 6S 3H JH 
+JS 5S KD JD __ 6C 4C 2S 
+TD 4S AC KS __ QS KH 5D 
+__ TH 3D 7S __ TS 2H 8S 
+__ TC __ 3C __ 9H JC 8D 
+__ 9D __ 4D __ __ __ 7C 
+__ __ __ 3S __ __ __ 6D 
+
+move : 18 - c3 
+KC 7H __ 7D  AD AH __ __ 
+
+9S 6H 9C 5C AS 2D 5H 8C 
+QH QD 8H 4H QC 6S 3H JH 
+JS 5S KD JD __ 6C 4C 2S 
+TD 4S AC KS __ QS KH 5D 
+__ TH 3D 7S __ TS 2H 8S 
+__ TC 2C 3C __ 9H JC 8D 
+__ 9D __ 4D __ __ __ 7C 
+__ __ __ 3S __ __ __ 6D 
+
+move : 19 - 17 
+KC 7H __ 7D  AD AH __ __ 
+
+9S 6H 9C 5C AS 2D 5H 8C 
+QH QD 8H 4H QC 6S 3H JH 
+JS 5S KD JD __ 6C 4C 2S 
+__ 4S AC KS __ QS KH 5D 
+__ TH 3D 7S __ TS 2H 8S 
+__ TC 2C 3C __ 9H JC 8D 
+__ 9D __ 4D __ __ TD 7C 
+__ __ __ 3S __ __ __ 6D 
+
+move : 20 - 5c 5h 
+KC 7H QC 7D  AD AH __ AS 
+
+9S 6H 9C 5C __ 2D 5H 8C 
+QH QD 8H 4H __ 6S 3H JH 
+JS 5S KD JD __ 6C 4C 2S 
+__ 4S AC KS __ QS KH 5D 
+__ TH 3D 7S __ TS 2H 8S 
+__ TC 2C 3C __ 9H JC 8D 
+__ 9D __ 4D __ __ TD 7C 
+__ __ __ 3S __ __ __ 6D 
+
+move : 21 - a5 
+__ 7H QC 7D  AD AH __ AS 
+
+9S 6H 9C 5C KC 2D 5H 8C 
+QH QD 8H 4H __ 6S 3H JH 
+JS 5S KD JD __ 6C 4C 2S 
+__ 4S AC KS __ QS KH 5D 
+__ TH 3D 7S __ TS 2H 8S 
+__ TC 2C 3C __ 9H JC 8D 
+__ 9D __ 4D __ __ TD 7C 
+__ __ __ 3S __ __ __ 6D 
+
+move : 22 - 15(2) 
+__ 7H QC 7D  AD AH __ AS 
+
+9S 6H 9C 5C KC 2D 5H 8C 
+__ QD 8H 4H QH 6S 3H JH 
+__ 5S KD JD JS 6C 4C 2S 
+__ 4S AC KS __ QS KH 5D 
+__ TH 3D 7S __ TS 2H 8S 
+__ TC 2C 3C __ 9H JC 8D 
+__ 9D __ 4D __ __ TD 7C 
+__ __ __ 3S __ __ __ 6D 
+
+move : 23 - 3a 
+2C 7H QC 7D  AD AH __ AS 
+
+9S 6H 9C 5C KC 2D 5H 8C 
+__ QD 8H 4H QH 6S 3H JH 
+__ 5S KD JD JS 6C 4C 2S 
+__ 4S AC KS __ QS KH 5D 
+__ TH 3D 7S __ TS 2H 8S 
+__ TC __ 3C __ 9H JC 8D 
+__ 9D __ 4D __ __ TD 7C 
+__ __ __ 3S __ __ __ 6D 
+
+move : 24 - 75 
+2C 7H QC 7D  AD AH __ AS 
+
+9S 6H 9C 5C KC 2D 5H 8C 
+__ QD 8H 4H QH 6S 3H JH 
+__ 5S KD JD JS 6C 4C 2S 
+__ 4S AC KS TD QS KH 5D 
+__ TH 3D 7S __ TS 2H 8S 
+__ TC __ 3C __ 9H JC 8D 
+__ 9D __ 4D __ __ __ 7C 
+__ __ __ 3S __ __ __ 6D 
+
+move : 25 - 15 
+2C 7H QC 7D  AD AH __ AS 
+
+__ 6H 9C 5C KC 2D 5H 8C 
+__ QD 8H 4H QH 6S 3H JH 
+__ 5S KD JD JS 6C 4C 2S 
+__ 4S AC KS TD QS KH 5D 
+__ TH 3D 7S 9S TS 2H 8S 
+__ TC __ 3C __ 9H JC 8D 
+__ 9D __ 4D __ __ __ 7C 
+__ __ __ 3S __ __ __ 6D 
+
+move : 26 - 31 
+2C 7H QC 7D  AD AH __ AS 
+
+3D 6H 9C 5C KC 2D 5H 8C 
+__ QD 8H 4H QH 6S 3H JH 
+__ 5S KD JD JS 6C 4C 2S 
+__ 4S AC KS TD QS KH 5D 
+__ TH __ 7S 9S TS 2H 8S 
+__ TC __ 3C __ 9H JC 8D 
+__ 9D __ 4D __ __ __ 7C 
+__ __ __ 3S __ __ __ 6D 
+
+move : 27 - 3h 
+2C 7H QC 7D  AD AH AC AS 
+
+3D 6H 9C 5C KC 2D 5H 8C 
+__ QD 8H 4H QH 6S 3H JH 
+__ 5S KD JD JS 6C 4C 2S 
+__ 4S __ KS TD QS KH 5D 
+__ TH __ 7S 9S TS 2H 8S 
+__ TC __ 3C __ 9H JC 8D 
+__ 9D __ 4D __ __ __ 7C 
+__ __ __ 3S __ __ __ 6D 
+
+move : 28 - ah 
+__ 7H QC 7D  AD AH 2C AS 
+
+3D 6H 9C 5C KC 2D 5H 8C 
+__ QD 8H 4H QH 6S 3H JH 
+__ 5S KD JD JS 6C 4C 2S 
+__ 4S __ KS TD QS KH 5D 
+__ TH __ 7S 9S TS 2H 8S 
+__ TC __ 3C __ 9H JC 8D 
+__ 9D __ 4D __ __ __ 7C 
+__ __ __ 3S __ __ __ 6D 
+
+move : 29 - c3 
+__ 7H __ 7D  AD AH 2C AS 
+
+3D 6H 9C 5C KC 2D 5H 8C 
+__ QD 8H 4H QH 6S 3H JH 
+__ 5S KD JD JS 6C 4C 2S 
+__ 4S QC KS TD QS KH 5D 
+__ TH __ 7S 9S TS 2H 8S 
+__ TC __ 3C __ 9H JC 8D 
+__ 9D __ 4D __ __ __ 7C 
+__ __ __ 3S __ __ __ 6D 
+
+move : 30 - 85(3) 
+__ 7H __ 7D  AD AH 2C AS 
+
+3D 6H 9C 5C KC 2D 5H 8C 
+__ QD 8H 4H QH 6S 3H JH 
+__ 5S KD JD JS 6C 4C 2S 
+__ 4S QC KS TD QS KH 5D 
+__ TH __ 7S 9S TS 2H 8S 
+__ TC __ 3C 8D 9H JC __ 
+__ 9D __ 4D 7C __ __ __ 
+__ __ __ 3S 6D __ __ __ 
+
+move : 31 - 82 
+__ 7H __ 7D  AD AH 2C AS 
+
+3D 6H 9C 5C KC 2D 5H 8C 
+__ QD 8H 4H QH 6S 3H JH 
+__ 5S KD JD JS 6C 4C 2S 
+__ 4S QC KS TD QS KH 5D 
+__ TH __ 7S 9S TS 2H __ 
+__ TC __ 3C 8D 9H JC __ 
+__ 9D __ 4D 7C __ __ __ 
+__ 8S __ 3S 6D __ __ __ 
+
+move : 32 - b2 
+__ __ __ 7D  AD AH 2C AS 
+
+3D 6H 9C 5C KC 2D 5H 8C 
+__ QD 8H 4H QH 6S 3H JH 
+__ 5S KD JD JS 6C 4C 2S 
+__ 4S QC KS TD QS KH 5D 
+__ TH __ 7S 9S TS 2H __ 
+__ TC __ 3C 8D 9H JC __ 
+__ 9D __ 4D 7C __ __ __ 
+__ 8S __ 3S 6D __ __ __ 
+__ 7H __ __ __ __ __ __ 
+
+move : 33 - 6a 
+9H __ __ 7D  AD AH 2C AS 
+
+3D 6H 9C 5C KC 2D 5H 8C 
+__ QD 8H 4H QH 6S 3H JH 
+__ 5S KD JD JS 6C 4C 2S 
+__ 4S QC KS TD QS KH 5D 
+__ TH __ 7S 9S TS 2H __ 
+__ TC __ 3C 8D __ JC __ 
+__ 9D __ 4D 7C __ __ __ 
+__ 8S __ 3S 6D __ __ __ 
+__ 7H __ __ __ __ __ __ 
+
+move : 34 - 6b 
+9H TS __ 7D  AD AH 2C AS 
+
+3D 6H 9C 5C KC 2D 5H 8C 
+__ QD 8H 4H QH 6S 3H JH 
+__ 5S KD JD JS 6C 4C 2S 
+__ 4S QC KS TD QS KH 5D 
+__ TH __ 7S 9S __ 2H __ 
+__ TC __ 3C 8D __ JC __ 
+__ 9D __ 4D 7C __ __ __ 
+__ 8S __ 3S 6D __ __ __ 
+__ 7H __ __ __ __ __ __ 
+
+move : 35 - 6c 
+9H TS QS 7D  AD AH 2C AS 
+
+3D 6H 9C 5C KC 2D 5H 8C 
+__ QD 8H 4H QH 6S 3H JH 
+__ 5S KD JD JS 6C 4C 2S 
+__ 4S QC KS TD __ KH 5D 
+__ TH __ 7S 9S __ 2H __ 
+__ TC __ 3C 8D __ JC __ 
+__ 9D __ 4D 7C __ __ __ 
+__ 8S __ 3S 6D __ __ __ 
+__ 7H __ __ __ __ __ __ 
+
+move : 36 - 62 
+9H TS QS 7D  AD AH 2C AS 
+
+3D 6H 9C 5C KC 2D 5H 8C 
+__ QD 8H 4H QH 6S 3H JH 
+__ 5S KD JD JS __ 4C 2S 
+__ 4S QC KS TD __ KH 5D 
+__ TH __ 7S 9S __ 2H __ 
+__ TC __ 3C 8D __ JC __ 
+__ 9D __ 4D 7C __ __ __ 
+__ 8S __ 3S 6D __ __ __ 
+__ 7H __ __ __ __ __ __ 
+__ 6C __ __ __ __ __ __ 
+
+move : 37 - 82 
+9H TS QS 7D  AD AH 2C AS 
+
+3D 6H 9C 5C KC 2D 5H 8C 
+__ QD 8H 4H QH 6S 3H JH 
+__ 5S KD JD JS __ 4C 2S 
+__ 4S QC KS TD __ KH __ 
+__ TH __ 7S 9S __ 2H __ 
+__ TC __ 3C 8D __ JC __ 
+__ 9D __ 4D 7C __ __ __ 
+__ 8S __ 3S 6D __ __ __ 
+__ 7H __ __ __ __ __ __ 
+__ 6C __ __ __ __ __ __ 
+__ 5D __ __ __ __ __ __ 
+
+move : 38 - 8h 
+9H TS QS 7D  AD AH 2C 2S 
+
+3D 6H 9C 5C KC 2D 5H 8C 
+__ QD 8H 4H QH 6S 3H JH 
+__ 5S KD JD JS __ 4C __ 
+__ 4S QC KS TD __ KH __ 
+__ TH __ 7S 9S __ 2H __ 
+__ TC __ 3C 8D __ JC __ 
+__ 9D __ 4D 7C __ __ __ 
+__ 8S __ 3S 6D __ __ __ 
+__ 7H __ __ __ __ __ __ 
+__ 6C __ __ __ __ __ __ 
+__ 5D __ __ __ __ __ __ 
+
+move : 39 - 4h 
+9H TS QS 7D  AD AH 2C 3S 
+
+3D 6H 9C 5C KC 2D 5H 8C 
+__ QD 8H 4H QH 6S 3H JH 
+__ 5S KD JD JS __ 4C __ 
+__ 4S QC KS TD __ KH __ 
+__ TH __ 7S 9S __ 2H __ 
+__ TC __ 3C 8D __ JC __ 
+__ 9D __ 4D 7C __ __ __ 
+__ 8S __ __ 6D __ __ __ 
+__ 7H __ __ __ __ __ __ 
+__ 6C __ __ __ __ __ __ 
+__ 5D __ __ __ __ __ __ 
+
+move : 40 - b8 
+9H __ QS 7D  AD AH 2C 3S 
+
+3D 6H 9C 5C KC 2D 5H 8C 
+__ QD 8H 4H QH 6S 3H JH 
+__ 5S KD JD JS __ 4C TS 
+__ 4S QC KS TD __ KH __ 
+__ TH __ 7S 9S __ 2H __ 
+__ TC __ 3C 8D __ JC __ 
+__ 9D __ 4D 7C __ __ __ 
+__ 8S __ __ 6D __ __ __ 
+__ 7H __ __ __ __ __ __ 
+__ 6C __ __ __ __ __ __ 
+__ 5D __ __ __ __ __ __ 
+
+move : 41 - a8 
+__ __ QS 7D  AD AH 2C 3S 
+
+3D 6H 9C 5C KC 2D 5H 8C 
+__ QD 8H 4H QH 6S 3H JH 
+__ 5S KD JD JS __ 4C TS 
+__ 4S QC KS TD __ KH 9H 
+__ TH __ 7S 9S __ 2H __ 
+__ TC __ 3C 8D __ JC __ 
+__ 9D __ 4D 7C __ __ __ 
+__ 8S __ __ 6D __ __ __ 
+__ 7H __ __ __ __ __ __ 
+__ 6C __ __ __ __ __ __ 
+__ 5D __ __ __ __ __ __ 
+
+move : 42 - 83(3) 
+__ __ QS 7D  AD AH 2C 3S 
+
+3D 6H 9C 5C KC 2D 5H 8C 
+__ QD 8H 4H QH 6S 3H __ 
+__ 5S KD JD JS __ 4C __ 
+__ 4S QC KS TD __ KH __ 
+__ TH JH 7S 9S __ 2H __ 
+__ TC TS 3C 8D __ JC __ 
+__ 9D 9H 4D 7C __ __ __ 
+__ 8S __ __ 6D __ __ __ 
+__ 7H __ __ __ __ __ __ 
+__ 6C __ __ __ __ __ __ 
+__ 5D __ __ __ __ __ __ 
+
+move : 43 - 28(3) 
+__ __ QS 7D  AD AH 2C 3S 
+
+3D 6H 9C 5C KC 2D 5H 8C 
+__ QD 8H 4H QH 6S 3H 7H 
+__ 5S KD JD JS __ 4C 6C 
+__ 4S QC KS TD __ KH 5D 
+__ TH JH 7S 9S __ 2H __ 
+__ TC TS 3C 8D __ JC __ 
+__ 9D 9H 4D 7C __ __ __ 
+__ 8S __ __ 6D __ __ __ 
+
+move : 44 - d2 
+__ __ QS __  AD AH 2C 3S 
+
+3D 6H 9C 5C KC 2D 5H 8C 
+__ QD 8H 4H QH 6S 3H 7H 
+__ 5S KD JD JS __ 4C 6C 
+__ 4S QC KS TD __ KH 5D 
+__ TH JH 7S 9S __ 2H __ 
+__ TC TS 3C 8D __ JC __ 
+__ 9D 9H 4D 7C __ __ __ 
+__ 8S __ __ 6D __ __ __ 
+__ 7D __ __ __ __ __ __ 
+
+move : 45 - 62 
+__ __ QS __  AD AH 2C 3S 
+
+3D 6H 9C 5C KC 2D 5H 8C 
+__ QD 8H 4H QH __ 3H 7H 
+__ 5S KD JD JS __ 4C 6C 
+__ 4S QC KS TD __ KH 5D 
+__ TH JH 7S 9S __ 2H __ 
+__ TC TS 3C 8D __ JC __ 
+__ 9D 9H 4D 7C __ __ __ 
+__ 8S __ __ 6D __ __ __ 
+__ 7D __ __ __ __ __ __ 
+__ 6S __ __ __ __ __ __ 
+
+move : 46 - 6h 
+__ __ QS __  2D AH 2C 3S 
+
+3D 6H 9C 5C KC __ 5H 8C 
+__ QD 8H 4H QH __ 3H 7H 
+__ 5S KD JD JS __ 4C 6C 
+__ 4S QC KS TD __ KH 5D 
+__ TH JH 7S 9S __ 2H __ 
+__ TC TS 3C 8D __ JC __ 
+__ 9D 9H 4D 7C __ __ __ 
+__ 8S __ __ 6D __ __ __ 
+__ 7D __ __ __ __ __ __ 
+__ 6S __ __ __ __ __ __ 
+
+move : 47 - 1h 
+__ __ QS __  3D AH 2C 3S 
+
+__ 6H 9C 5C KC __ 5H 8C 
+__ QD 8H 4H QH __ 3H 7H 
+__ 5S KD JD JS __ 4C 6C 
+__ 4S QC KS TD __ KH 5D 
+__ TH JH 7S 9S __ 2H __ 
+__ TC TS 3C 8D __ JC __ 
+__ 9D 9H 4D 7C __ __ __ 
+__ 8S __ __ 6D __ __ __ 
+__ 7D __ __ __ __ __ __ 
+__ 6S __ __ __ __ __ __ 
+
+move : 48 - 4h 
+__ __ QS __  4D AH 2C 3S 
+
+__ 6H 9C 5C KC __ 5H 8C 
+__ QD 8H 4H QH __ 3H 7H 
+__ 5S KD JD JS __ 4C 6C 
+__ 4S QC KS TD __ KH 5D 
+__ TH JH 7S 9S __ 2H __ 
+__ TC TS 3C 8D __ JC __ 
+__ 9D 9H __ 7C __ __ __ 
+__ 8S __ __ 6D __ __ __ 
+__ 7D __ __ __ __ __ __ 
+__ 6S __ __ __ __ __ __ 
+
+move : 49 - 4h 
+__ __ QS __  4D AH 3C 3S 
+
+__ 6H 9C 5C KC __ 5H 8C 
+__ QD 8H 4H QH __ 3H 7H 
+__ 5S KD JD JS __ 4C 6C 
+__ 4S QC KS TD __ KH 5D 
+__ TH JH 7S 9S __ 2H __ 
+__ TC TS __ 8D __ JC __ 
+__ 9D 9H __ 7C __ __ __ 
+__ 8S __ __ 6D __ __ __ 
+__ 7D __ __ __ __ __ __ 
+__ 6S __ __ __ __ __ __ 
+
+move : 50 - 8h 
+__ __ QS __  5D AH 3C 3S 
+
+__ 6H 9C 5C KC __ 5H 8C 
+__ QD 8H 4H QH __ 3H 7H 
+__ 5S KD JD JS __ 4C 6C 
+__ 4S QC KS TD __ KH __ 
+__ TH JH 7S 9S __ 2H __ 
+__ TC TS __ 8D __ JC __ 
+__ 9D 9H __ 7C __ __ __ 
+__ 8S __ __ 6D __ __ __ 
+__ 7D __ __ __ __ __ __ 
+__ 6S __ __ __ __ __ __ 
+
+move : 51 - 71 
+__ __ QS __  5D AH 3C 3S 
+
+JC 6H 9C 5C KC __ 5H 8C 
+__ QD 8H 4H QH __ 3H 7H 
+__ 5S KD JD JS __ 4C 6C 
+__ 4S QC KS TD __ KH __ 
+__ TH JH 7S 9S __ 2H __ 
+__ TC TS __ 8D __ __ __ 
+__ 9D 9H __ 7C __ __ __ 
+__ 8S __ __ 6D __ __ __ 
+__ 7D __ __ __ __ __ __ 
+__ 6S __ __ __ __ __ __ 
+
+move : 52 - 7h 
+__ __ QS __  5D 2H 3C 3S 
+
+JC 6H 9C 5C KC __ 5H 8C 
+__ QD 8H 4H QH __ 3H 7H 
+__ 5S KD JD JS __ 4C 6C 
+__ 4S QC KS TD __ KH __ 
+__ TH JH 7S 9S __ __ __ 
+__ TC TS __ 8D __ __ __ 
+__ 9D 9H __ 7C __ __ __ 
+__ 8S __ __ 6D __ __ __ 
+__ 7D __ __ __ __ __ __ 
+__ 6S __ __ __ __ __ __ 
+
+move : 53 - 7a 7h 
+KH __ QS __  5D 2H 4C 3S 
+
+JC 6H 9C 5C KC __ 5H 8C 
+__ QD 8H 4H QH __ 3H 7H 
+__ 5S KD JD JS __ __ 6C 
+__ 4S QC KS TD __ __ __ 
+__ TH JH 7S 9S __ __ __ 
+__ TC TS __ 8D __ __ __ 
+__ 9D 9H __ 7C __ __ __ 
+__ 8S __ __ 6D __ __ __ 
+__ 7D __ __ __ __ __ __ 
+__ 6S __ __ __ __ __ __ 
+
+move : 54 - 7h 
+KH __ QS __  5D 3H 4C 3S 
+
+JC 6H 9C 5C KC __ 5H 8C 
+__ QD 8H 4H QH __ __ 7H 
+__ 5S KD JD JS __ __ 6C 
+__ 4S QC KS TD __ __ __ 
+__ TH JH 7S 9S __ __ __ 
+__ TC TS __ 8D __ __ __ 
+__ 9D 9H __ 7C __ __ __ 
+__ 8S __ __ 6D __ __ __ 
+__ 7D __ __ __ __ __ __ 
+__ 6S __ __ __ __ __ __ 
+
+move : 55 - 23(3) 
+KH __ QS __  5D 3H 4C 3S 
+
+JC 6H 9C 5C KC __ 5H 8C 
+__ QD 8H 4H QH __ __ 7H 
+__ 5S KD JD JS __ __ 6C 
+__ 4S QC KS TD __ __ __ 
+__ TH JH 7S 9S __ __ __ 
+__ TC TS __ 8D __ __ __ 
+__ 9D 9H __ 7C __ __ __ 
+__ __ 8S __ 6D __ __ __ 
+__ __ 7D __ __ __ __ __ 
+__ __ 6S __ __ __ __ __ 
+
+move : 56 - 26(2) 
+KH __ QS __  5D 3H 4C 3S 
+
+JC 6H 9C 5C KC TC 5H 8C 
+__ QD 8H 4H QH 9D __ 7H 
+__ 5S KD JD JS __ __ 6C 
+__ 4S QC KS TD __ __ __ 
+__ TH JH 7S 9S __ __ __ 
+__ __ TS __ 8D __ __ __ 
+__ __ 9H __ 7C __ __ __ 
+__ __ 8S __ 6D __ __ __ 
+__ __ 7D __ __ __ __ __ 
+__ __ 6S __ __ __ __ __ 
+
+move : 57 - 21 
+KH __ QS __  5D 3H 4C 3S 
+
+JC 6H 9C 5C KC TC 5H 8C 
+TH QD 8H 4H QH 9D __ 7H 
+__ 5S KD JD JS __ __ 6C 
+__ 4S QC KS TD __ __ __ 
+__ __ JH 7S 9S __ __ __ 
+__ __ TS __ 8D __ __ __ 
+__ __ 9H __ 7C __ __ __ 
+__ __ 8S __ 6D __ __ __ 
+__ __ 7D __ __ __ __ __ 
+__ __ 6S __ __ __ __ __ 
+
+move : 58 - 2h 
+KH __ QS __  5D 3H 4C 4S 
+
+JC 6H 9C 5C KC TC 5H 8C 
+TH QD 8H 4H QH 9D __ 7H 
+__ 5S KD JD JS __ __ 6C 
+__ __ QC KS TD __ __ __ 
+__ __ JH 7S 9S __ __ __ 
+__ __ TS __ 8D __ __ __ 
+__ __ 9H __ 7C __ __ __ 
+__ __ 8S __ 6D __ __ __ 
+__ __ 7D __ __ __ __ __ 
+__ __ 6S __ __ __ __ __ 
+
+move : 59 - 2h 
+KH __ QS __  5D 3H 4C 5S 
+
+JC 6H 9C 5C KC TC 5H 8C 
+TH QD 8H 4H QH 9D __ 7H 
+__ __ KD JD JS __ __ 6C 
+__ __ QC KS TD __ __ __ 
+__ __ JH 7S 9S __ __ __ 
+__ __ TS __ 8D __ __ __ 
+__ __ 9H __ 7C __ __ __ 
+__ __ 8S __ 6D __ __ __ 
+__ __ 7D __ __ __ __ __ 
+__ __ 6S __ __ __ __ __ 
+
+move : 60 - 5h 
+KH __ QS __  6D 3H 4C 5S 
+
+JC 6H 9C 5C KC TC 5H 8C 
+TH QD 8H 4H QH 9D __ 7H 
+__ __ KD JD JS __ __ 6C 
+__ __ QC KS TD __ __ __ 
+__ __ JH 7S 9S __ __ __ 
+__ __ TS __ 8D __ __ __ 
+__ __ 9H __ 7C __ __ __ 
+__ __ 8S __ __ __ __ __ 
+__ __ 7D __ __ __ __ __ 
+__ __ 6S __ __ __ __ __ 
+
+move : 61 - 4b 
+KH 7S QS __  6D 3H 4C 5S 
+
+JC 6H 9C 5C KC TC 5H 8C 
+TH QD 8H 4H QH 9D __ 7H 
+__ __ KD JD JS __ __ 6C 
+__ __ QC KS TD __ __ __ 
+__ __ JH __ 9S __ __ __ 
+__ __ TS __ 8D __ __ __ 
+__ __ 9H __ 7C __ __ __ 
+__ __ 8S __ __ __ __ __ 
+__ __ 7D __ __ __ __ __ 
+__ __ 6S __ __ __ __ __ 
+
+move : 62 - 4d 
+KH 7S QS KS  6D 3H 4C 5S 
+
+JC 6H 9C 5C KC TC 5H 8C 
+TH QD 8H 4H QH 9D __ 7H 
+__ __ KD JD JS __ __ 6C 
+__ __ QC __ TD __ __ __ 
+__ __ JH __ 9S __ __ __ 
+__ __ TS __ 8D __ __ __ 
+__ __ 9H __ 7C __ __ __ 
+__ __ 8S __ __ __ __ __ 
+__ __ 7D __ __ __ __ __ 
+__ __ 6S __ __ __ __ __ 
+
+move : 63 - 3h 
+KH 7S QS KS  6D 3H 4C 6S 
+
+JC 6H 9C 5C KC TC 5H 8C 
+TH QD 8H 4H QH 9D __ 7H 
+__ __ KD JD JS __ __ 6C 
+__ __ QC __ TD __ __ __ 
+__ __ JH __ 9S __ __ __ 
+__ __ TS __ 8D __ __ __ 
+__ __ 9H __ 7C __ __ __ 
+__ __ 8S __ __ __ __ __ 
+__ __ 7D __ __ __ __ __ 
+
+move : 64 - bh 
+KH __ QS KS  6D 3H 4C 7S 
+
+JC 6H 9C 5C KC TC 5H 8C 
+TH QD 8H 4H QH 9D __ 7H 
+__ __ KD JD JS __ __ 6C 
+__ __ QC __ TD __ __ __ 
+__ __ JH __ 9S __ __ __ 
+__ __ TS __ 8D __ __ __ 
+__ __ 9H __ 7C __ __ __ 
+__ __ 8S __ __ __ __ __ 
+__ __ 7D __ __ __ __ __ 
+
+move : 65 - 4b 4h 
+KH JD QS KS  6D 4H 4C 7S 
+
+JC 6H 9C 5C KC TC 5H 8C 
+TH QD 8H __ QH 9D __ 7H 
+__ __ KD __ JS __ __ 6C 
+__ __ QC __ TD __ __ __ 
+__ __ JH __ 9S __ __ __ 
+__ __ TS __ 8D __ __ __ 
+__ __ 9H __ 7C __ __ __ 
+__ __ 8S __ __ __ __ __ 
+__ __ 7D __ __ __ __ __ 
+
+move : 66 - 4h 
+KH JD QS KS  6D 4H 5C 7S 
+
+JC 6H 9C __ KC TC 5H 8C 
+TH QD 8H __ QH 9D __ 7H 
+__ __ KD __ JS __ __ 6C 
+__ __ QC __ TD __ __ __ 
+__ __ JH __ 9S __ __ __ 
+__ __ TS __ 8D __ __ __ 
+__ __ 9H __ 7C __ __ __ 
+__ __ 8S __ __ __ __ __ 
+__ __ 7D __ __ __ __ __ 
+
+move : 67 - 3h 
+KH JD QS KS  7D 4H 5C 7S 
+
+JC 6H 9C __ KC TC 5H 8C 
+TH QD 8H __ QH 9D __ 7H 
+__ __ KD __ JS __ __ 6C 
+__ __ QC __ TD __ __ __ 
+__ __ JH __ 9S __ __ __ 
+__ __ TS __ 8D __ __ __ 
+__ __ 9H __ 7C __ __ __ 
+__ __ 8S __ __ __ __ __ 
+
+move : 68 - 7h 
+KH JD QS KS  7D 5H 5C 7S 
+
+JC 6H 9C __ KC TC __ 8C 
+TH QD 8H __ QH 9D __ 7H 
+__ __ KD __ JS __ __ 6C 
+__ __ QC __ TD __ __ __ 
+__ __ JH __ 9S __ __ __ 
+__ __ TS __ 8D __ __ __ 
+__ __ 9H __ 7C __ __ __ 
+__ __ 8S __ __ __ __ __ 
+
+move : 69 - 8h 
+KH JD QS KS  7D 5H 6C 7S 
+
+JC 6H 9C __ KC TC __ 8C 
+TH QD 8H __ QH 9D __ 7H 
+__ __ KD __ JS __ __ __ 
+__ __ QC __ TD __ __ __ 
+__ __ JH __ 9S __ __ __ 
+__ __ TS __ 8D __ __ __ 
+__ __ 9H __ 7C __ __ __ 
+__ __ 8S __ __ __ __ __ 
+
+move : 70 - 5h 
+KH JD QS KS  7D 5H 7C 7S 
+
+JC 6H 9C __ KC TC __ 8C 
+TH QD 8H __ QH 9D __ 7H 
+__ __ KD __ JS __ __ __ 
+__ __ QC __ TD __ __ __ 
+__ __ JH __ 9S __ __ __ 
+__ __ TS __ 8D __ __ __ 
+__ __ 9H __ __ __ __ __ 
+__ __ 8S __ __ __ __ __ 
+
+move : 71 - 5h 
+KH JD QS KS  8D 5H 7C 7S 
+
+JC 6H 9C __ KC TC __ 8C 
+TH QD 8H __ QH 9D __ 7H 
+__ __ KD __ JS __ __ __ 
+__ __ QC __ TD __ __ __ 
+__ __ JH __ 9S __ __ __ 
+__ __ TS __ __ __ __ __ 
+__ __ 9H __ __ __ __ __ 
+__ __ 8S __ __ __ __ __ 
+
+move : 72 - 6h 
+KH JD QS KS  9D 5H 7C 7S 
+
+JC 6H 9C __ KC TC __ 8C 
+TH QD 8H __ QH __ __ 7H 
+__ __ KD __ JS __ __ __ 
+__ __ QC __ TD __ __ __ 
+__ __ JH __ 9S __ __ __ 
+__ __ TS __ __ __ __ __ 
+__ __ 9H __ __ __ __ __ 
+__ __ 8S __ __ __ __ __ 
+
+move : 73 - 24 
+KH JD QS KS  9D 5H 7C 7S 
+
+JC 6H 9C QD KC TC __ 8C 
+TH __ 8H __ QH __ __ 7H 
+__ __ KD __ JS __ __ __ 
+__ __ QC __ TD __ __ __ 
+__ __ JH __ 9S __ __ __ 
+__ __ TS __ __ __ __ __ 
+__ __ 9H __ __ __ __ __ 
+__ __ 8S __ __ __ __ __ 
+
+move : 74 - 2h 
+KH JD QS KS  9D 6H 7C 7S 
+
+JC __ 9C QD KC TC __ 8C 
+TH __ 8H __ QH __ __ 7H 
+__ __ KD __ JS __ __ __ 
+__ __ QC __ TD __ __ __ 
+__ __ JH __ 9S __ __ __ 
+__ __ TS __ __ __ __ __ 
+__ __ 9H __ __ __ __ __ 
+__ __ 8S __ __ __ __ __ 
+
+move : 75 - 3h 
+KH JD QS KS  9D 6H 7C 8S 
+
+JC __ 9C QD KC TC __ 8C 
+TH __ 8H __ QH __ __ 7H 
+__ __ KD __ JS __ __ __ 
+__ __ QC __ TD __ __ __ 
+__ __ JH __ 9S __ __ __ 
+__ __ TS __ __ __ __ __ 
+__ __ 9H __ __ __ __ __ 
+
+move : 76 - 8h 
+KH JD QS KS  9D 7H 7C 8S 
+
+JC __ 9C QD KC TC __ 8C 
+TH __ 8H __ QH __ __ __ 
+__ __ KD __ JS __ __ __ 
+__ __ QC __ TD __ __ __ 
+__ __ JH __ 9S __ __ __ 
+__ __ TS __ __ __ __ __ 
+__ __ 9H __ __ __ __ __ 
+
+move : 77 - 5h 
+KH JD QS KS  9D 7H 7C 9S 
+
+JC __ 9C QD KC TC __ 8C 
+TH __ 8H __ QH __ __ __ 
+__ __ KD __ JS __ __ __ 
+__ __ QC __ TD __ __ __ 
+__ __ JH __ __ __ __ __ 
+__ __ TS __ __ __ __ __ 
+__ __ 9H __ __ __ __ __ 
+
+move : 78 - 8h 
+KH JD QS KS  9D 7H 8C 9S 
+
+JC __ 9C QD KC TC __ __ 
+TH __ 8H __ QH __ __ __ 
+__ __ KD __ JS __ __ __ 
+__ __ QC __ TD __ __ __ 
+__ __ JH __ __ __ __ __ 
+__ __ TS __ __ __ __ __ 
+__ __ 9H __ __ __ __ __ 
+
+move : 79 - 5h 
+KH JD QS KS  TD 7H 8C 9S 
+
+JC __ 9C QD KC TC __ __ 
+TH __ 8H __ QH __ __ __ 
+__ __ KD __ JS __ __ __ 
+__ __ QC __ __ __ __ __ 
+__ __ JH __ __ __ __ __ 
+__ __ TS __ __ __ __ __ 
+__ __ 9H __ __ __ __ __ 
+
+move : 80 - 32(3) 
+KH JD QS KS  TD 7H 8C 9S 
+
+JC JH 9C QD KC TC __ __ 
+TH TS 8H __ QH __ __ __ 
+__ 9H KD __ JS __ __ __ 
+__ __ QC __ __ __ __ __ 
+
+move : 81 - 37(2) 
+KH JD QS KS  TD 7H 8C 9S 
+
+JC JH 9C QD KC TC KD __ 
+TH TS 8H __ QH __ QC __ 
+__ 9H __ __ JS __ __ __ 
+
+move : 82 - 3h 
+KH JD QS KS  TD 8H 8C 9S 
+
+JC JH 9C QD KC TC KD __ 
+TH TS __ __ QH __ QC __ 
+__ 9H __ __ JS __ __ __ 
+
+move : 83 - 2h 
+KH JD QS KS  TD 9H 8C 9S 
+
+JC JH 9C QD KC TC KD __ 
+TH TS __ __ QH __ QC __ 
+__ __ __ __ JS __ __ __ 
+
+move : 84 - 1h 
+KH JD QS KS  TD TH 8C 9S 
+
+JC JH 9C QD KC TC KD __ 
+__ TS __ __ QH __ QC __ 
+__ __ __ __ JS __ __ __ 
+
+move : 85 - 2h 
+KH JD QS KS  TD TH 8C TS 
+
+JC JH 9C QD KC TC KD __ 
+__ __ __ __ QH __ QC __ 
+__ __ __ __ JS __ __ __ 
+
+move : 86 - 3h 
+KH JD QS KS  TD TH 9C TS 
+
+JC JH __ QD KC TC KD __ 
+__ __ __ __ QH __ QC __ 
+__ __ __ __ JS __ __ __ 
+
+move : 87 - 2h 
+KH JD QS KS  TD JH 9C TS 
+
+JC __ __ QD KC TC KD __ 
+__ __ __ __ QH __ QC __ 
+__ __ __ __ JS __ __ __ 
+
+move : 88 - 5h 
+KH JD QS KS  TD JH 9C JS 
+
+JC __ __ QD KC TC KD __ 
+__ __ __ __ QH __ QC __ 
+
+move : 89 - 6h 
+KH JD QS KS  TD JH TC JS 
+
+JC __ __ QD KC __ KD __ 
+__ __ __ __ QH __ QC __ 
+
+move : 90 - 1h 
+KH JD QS KS  TD JH JC JS 
+
+__ __ __ QD KC __ KD __ 
+__ __ __ __ QH __ QC __ 
+
+move : 91 - 5h 
+KH JD QS KS  TD QH JC JS 
+
+__ __ __ QD KC __ KD __ 
+__ __ __ __ __ __ QC __ 
+
+move : 92 - 7h 
+KH JD QS KS  TD QH QC JS 
+
+__ __ __ QD KC __ KD __ 
+
+move : 93 - ah 
+__ JD QS KS  TD KH QC JS 
+
+__ __ __ QD KC __ KD __ 
+
+move : 94 - bh 
+__ __ QS KS  JD KH QC JS 
+
+__ __ __ QD KC __ KD __ 
+
+move : 95 - 4h 
+__ __ QS KS  QD KH QC JS 
+
+__ __ __ __ KC __ KD __ 
+
+move : 96 - 5h 
+__ __ QS KS  QD KH KC JS 
+
+__ __ __ __ __ __ KD __ 
+
+move : 97 - 7h 
+__ __ QS KS  KD KH KC JS 
+
+__ __ __ __ __ __ __ __ 
+
+move : 98 - ch 
+__ __ __ KS  KD KH KC QS 
+
+__ __ __ __ __ __ __ __ 
+
+move : 99 - dh 
+__ __ __ __  KD KH KC KS 
+
+__ __ __ __ __ __ __ __ 
+
+
+solver result : solved at move : 99, total boards : 618, outstanding candidates : 378, tried candidates : 239, max depth : 98
+miliseconds used : 65
+

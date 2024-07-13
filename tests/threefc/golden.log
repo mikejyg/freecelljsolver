@@ -1,0 +1,4019 @@
+start at 1, 1000 iterations.
+equivalentBoardOptimization threshold : 1
+heuristic : CAUTIOUS
+back end : MONOLITHIC
+
+solving seed : 1
+solver result : solved at move : 120, total boards : 731, outstanding candidates : 487, tried candidates : 243, max depth : 119
+miliseconds used : 44
+
+time used most : 44 at seed : 1
+
+solving seed : 2
+solver result : solved at move : 74, total boards : 463, outstanding candidates : 258, tried candidates : 204, max depth : 73
+miliseconds used : 20
+
+solving seed : 3
+solver result : solved at move : 84, total boards : 547, outstanding candidates : 441, tried candidates : 105, max depth : 83
+miliseconds used : 18
+
+solving seed : 4
+solver result : solved at move : 113, total boards : 747, outstanding candidates : 406, tried candidates : 340, max depth : 112
+miliseconds used : 27
+
+solving seed : 5
+solver result : solved at move : 164, total boards : 1743, outstanding candidates : 512, tried candidates : 1230, max depth : 163
+miliseconds used : 50
+
+time used most : 50 at seed : 5
+
+solving seed : 6
+solver result : solved at move : 308, total boards : 13823, outstanding candidates : 1132, tried candidates : 12690, max depth : 468
+miliseconds used : 322
+
+time used most : 322 at seed : 6
+
+solving seed : 7
+solver result : solved at move : 104, total boards : 1146, outstanding candidates : 440, tried candidates : 705, max depth : 103
+miliseconds used : 9
+
+solving seed : 8
+solver result : solved at move : 86, total boards : 453, outstanding candidates : 352, tried candidates : 100, max depth : 85
+miliseconds used : 2
+
+solving seed : 9
+solver result : solved at move : 154, total boards : 3204, outstanding candidates : 549, tried candidates : 2654, max depth : 244
+miliseconds used : 39
+
+solving seed : 10
+solver result : solved at move : 124, total boards : 1485, outstanding candidates : 487, tried candidates : 997, max depth : 123
+miliseconds used : 15
+
+solving seed : 11
+solver result : solved at move : 109, total boards : 587, outstanding candidates : 430, tried candidates : 156, max depth : 108
+miliseconds used : 3
+
+solving seed : 12
+solver result : solved at move : 167, total boards : 1194, outstanding candidates : 575, tried candidates : 618, max depth : 166
+miliseconds used : 8
+
+solving seed : 13
+solver result : solved at move : 106, total boards : 773, outstanding candidates : 371, tried candidates : 401, max depth : 105
+miliseconds used : 5
+
+solving seed : 14
+solver result : solved at move : 87, total boards : 476, outstanding candidates : 341, tried candidates : 134, max depth : 86
+miliseconds used : 3
+
+solving seed : 15
+solver result : solved at move : 82, total boards : 548, outstanding candidates : 441, tried candidates : 106, max depth : 81
+miliseconds used : 2
+
+solving seed : 16
+solver result : solved at move : 96, total boards : 672, outstanding candidates : 444, tried candidates : 227, max depth : 95
+miliseconds used : 3
+
+solving seed : 17
+solver result : solved at move : 101, total boards : 584, outstanding candidates : 384, tried candidates : 199, max depth : 100
+miliseconds used : 4
+
+solving seed : 18
+solver result : solved at move : 83, total boards : 395, outstanding candidates : 289, tried candidates : 105, max depth : 82
+miliseconds used : 2
+
+solving seed : 19
+solver result : solved at move : 102, total boards : 841, outstanding candidates : 383, tried candidates : 457, max depth : 101
+miliseconds used : 6
+
+solving seed : 20
+solver result : solved at move : 111, total boards : 576, outstanding candidates : 367, tried candidates : 208, max depth : 110
+miliseconds used : 4
+
+solving seed : 21
+solver result : solved at move : 139, total boards : 14932, outstanding candidates : 392, tried candidates : 14539, max depth : 138
+miliseconds used : 205
+
+solving seed : 22
+solver result : solved at move : 102, total boards : 461, outstanding candidates : 323, tried candidates : 137, max depth : 101
+miliseconds used : 2
+
+solving seed : 23
+solver result : solved at move : 96, total boards : 543, outstanding candidates : 322, tried candidates : 220, max depth : 95
+miliseconds used : 3
+
+solving seed : 24
+solver result : solved at move : 152, total boards : 19396, outstanding candidates : 485, tried candidates : 18910, max depth : 499
+miliseconds used : 255
+
+solving seed : 25
+solver result : solved at move : 188, total boards : 1794, outstanding candidates : 619, tried candidates : 1174, max depth : 187
+miliseconds used : 14
+
+solving seed : 26
+solver result : solved at move : 109, total boards : 1371, outstanding candidates : 416, tried candidates : 954, max depth : 108
+miliseconds used : 9
+
+solving seed : 27
+solver result : solved at move : 147, total boards : 3472, outstanding candidates : 610, tried candidates : 2861, max depth : 146
+miliseconds used : 36
+
+solving seed : 28
+solver result : solved at move : 82, total boards : 770, outstanding candidates : 259, tried candidates : 510, max depth : 81
+miliseconds used : 5
+
+solving seed : 29
+solver result : solved at move : 94, total boards : 595, outstanding candidates : 381, tried candidates : 213, max depth : 93
+miliseconds used : 3
+
+solving seed : 30
+solver result : solved at move : 108, total boards : 1266, outstanding candidates : 442, tried candidates : 823, max depth : 107
+miliseconds used : 8
+
+solving seed : 31
+solver result : solved at move : 100, total boards : 564, outstanding candidates : 436, tried candidates : 127, max depth : 99
+miliseconds used : 3
+
+solving seed : 32
+solver result : solved at move : 148, total boards : 1207, outstanding candidates : 625, tried candidates : 581, max depth : 147
+miliseconds used : 9
+
+solving seed : 33
+solver result : solved at move : 84, total boards : 415, outstanding candidates : 285, tried candidates : 129, max depth : 83
+miliseconds used : 1
+
+solving seed : 34
+solver result : solved at move : 120, total boards : 983, outstanding candidates : 522, tried candidates : 460, max depth : 119
+miliseconds used : 6
+
+solving seed : 35
+solver result : solved at move : 147, total boards : 7252, outstanding candidates : 632, tried candidates : 6619, max depth : 167
+miliseconds used : 66
+
+solving seed : 36
+solver result : solved at move : 118, total boards : 2130, outstanding candidates : 521, tried candidates : 1608, max depth : 117
+miliseconds used : 18
+
+solving seed : 37
+solver result : solved at move : 154, total boards : 5542, outstanding candidates : 573, tried candidates : 4968, max depth : 153
+miliseconds used : 47
+
+solving seed : 38
+solver result : solved at move : 106, total boards : 537, outstanding candidates : 420, tried candidates : 116, max depth : 105
+miliseconds used : 2
+
+solving seed : 39
+solver result : solved at move : 129, total boards : 1094, outstanding candidates : 471, tried candidates : 622, max depth : 128
+miliseconds used : 6
+
+solving seed : 40
+solver result : solved at move : 107, total boards : 1126, outstanding candidates : 284, tried candidates : 841, max depth : 106
+miliseconds used : 8
+
+solving seed : 41
+solver result : solved at move : 118, total boards : 596, outstanding candidates : 454, tried candidates : 141, max depth : 117
+miliseconds used : 2
+
+solving seed : 42
+solver result : solved at move : 110, total boards : 1615, outstanding candidates : 512, tried candidates : 1102, max depth : 109
+miliseconds used : 12
+
+solving seed : 43
+solver result : solved at move : 175, total boards : 1580, outstanding candidates : 610, tried candidates : 969, max depth : 174
+miliseconds used : 11
+
+solving seed : 44
+solver result : solved at move : 91, total boards : 858, outstanding candidates : 380, tried candidates : 477, max depth : 90
+miliseconds used : 5
+
+solving seed : 45
+solver result : solved at move : 118, total boards : 806, outstanding candidates : 643, tried candidates : 162, max depth : 117
+miliseconds used : 4
+
+solving seed : 46
+solver result : solved at move : 70, total boards : 354, outstanding candidates : 267, tried candidates : 86, max depth : 69
+miliseconds used : 1
+
+solving seed : 47
+solver result : solved at move : 99, total boards : 547, outstanding candidates : 356, tried candidates : 190, max depth : 98
+miliseconds used : 3
+
+solving seed : 48
+solver result : solved at move : 125, total boards : 3108, outstanding candidates : 525, tried candidates : 2582, max depth : 124
+miliseconds used : 31
+
+solving seed : 49
+solver result : solved at move : 161, total boards : 1794, outstanding candidates : 532, tried candidates : 1261, max depth : 160
+miliseconds used : 14
+
+solving seed : 50
+solver result : solved at move : 108, total boards : 720, outstanding candidates : 571, tried candidates : 148, max depth : 107
+miliseconds used : 3
+
+solving seed : 51
+solver result : solved at move : 116, total boards : 2874, outstanding candidates : 503, tried candidates : 2370, max depth : 115
+miliseconds used : 23
+
+solving seed : 52
+solver result : solved at move : 119, total boards : 901, outstanding candidates : 405, tried candidates : 495, max depth : 118
+miliseconds used : 5
+
+solving seed : 53
+solver result : solved at move : 119, total boards : 6732, outstanding candidates : 418, tried candidates : 6313, max depth : 121
+miliseconds used : 69
+
+solving seed : 54
+solver result : solved at move : 132, total boards : 3360, outstanding candidates : 383, tried candidates : 2976, max depth : 131
+miliseconds used : 30
+
+solving seed : 55
+solver result : solved at move : 106, total boards : 545, outstanding candidates : 377, tried candidates : 167, max depth : 105
+miliseconds used : 2
+
+solving seed : 56
+solver result : solved at move : 137, total boards : 1932, outstanding candidates : 596, tried candidates : 1335, max depth : 136
+miliseconds used : 13
+
+solving seed : 57
+solver result : solved at move : 143, total boards : 1408, outstanding candidates : 509, tried candidates : 898, max depth : 142
+miliseconds used : 9
+
+solving seed : 58
+solver result : solved at move : 71, total boards : 322, outstanding candidates : 249, tried candidates : 72, max depth : 70
+miliseconds used : 2
+
+solving seed : 59
+solver result : solved at move : 83, total boards : 505, outstanding candidates : 397, tried candidates : 107, max depth : 82
+miliseconds used : 2
+
+solving seed : 60
+solver result : solved at move : 83, total boards : 460, outstanding candidates : 372, tried candidates : 87, max depth : 82
+miliseconds used : 1
+
+solving seed : 61
+solver result : solved at move : 110, total boards : 785, outstanding candidates : 477, tried candidates : 307, max depth : 109
+miliseconds used : 3
+
+solving seed : 62
+solver result : solved at move : 98, total boards : 451, outstanding candidates : 317, tried candidates : 133, max depth : 97
+miliseconds used : 2
+
+solving seed : 63
+solver result : solved at move : 173, total boards : 5341, outstanding candidates : 705, tried candidates : 4635, max depth : 182
+miliseconds used : 47
+
+solving seed : 64
+solver result : solved at move : 103, total boards : 504, outstanding candidates : 310, tried candidates : 193, max depth : 102
+miliseconds used : 2
+
+solving seed : 65
+solver result : solved at move : 100, total boards : 647, outstanding candidates : 335, tried candidates : 311, max depth : 99
+miliseconds used : 3
+
+solving seed : 66
+solver result : solved at move : 104, total boards : 509, outstanding candidates : 369, tried candidates : 139, max depth : 103
+miliseconds used : 2
+
+solving seed : 67
+solver result : solved at move : 119, total boards : 689, outstanding candidates : 454, tried candidates : 234, max depth : 118
+miliseconds used : 4
+
+solving seed : 68
+solver result : solved at move : 111, total boards : 603, outstanding candidates : 395, tried candidates : 207, max depth : 110
+miliseconds used : 3
+
+solving seed : 69
+solver result : solved at move : 126, total boards : 925, outstanding candidates : 379, tried candidates : 545, max depth : 125
+miliseconds used : 6
+
+solving seed : 70
+solver result : solved at move : 469, total boards : 3520, outstanding candidates : 1497, tried candidates : 2022, max depth : 468
+miliseconds used : 27
+
+solving seed : 71
+solver result : solved at move : 86, total boards : 398, outstanding candidates : 309, tried candidates : 88, max depth : 85
+miliseconds used : 2
+
+solving seed : 72
+solver result : solved at move : 252, total boards : 2846, outstanding candidates : 1099, tried candidates : 1746, max depth : 251
+miliseconds used : 21
+
+solving seed : 73
+solver result : solved at move : 82, total boards : 454, outstanding candidates : 352, tried candidates : 101, max depth : 81
+miliseconds used : 2
+
+solving seed : 74
+solver result : solved at move : 91, total boards : 377, outstanding candidates : 259, tried candidates : 117, max depth : 90
+miliseconds used : 2
+
+solving seed : 75
+solver result : solved at move : 82, total boards : 337, outstanding candidates : 239, tried candidates : 97, max depth : 81
+miliseconds used : 2
+
+solving seed : 76
+solver result : solved at move : 133, total boards : 7518, outstanding candidates : 381, tried candidates : 7136, max depth : 132
+miliseconds used : 82
+
+solving seed : 77
+solver result : solved at move : 86, total boards : 400, outstanding candidates : 299, tried candidates : 100, max depth : 85
+miliseconds used : 2
+
+solving seed : 78
+solver result : solved at move : 160, total boards : 1567, outstanding candidates : 592, tried candidates : 974, max depth : 159
+miliseconds used : 11
+
+solving seed : 79
+solver result : solved at move : 84, total boards : 458, outstanding candidates : 369, tried candidates : 88, max depth : 83
+miliseconds used : 2
+
+solving seed : 80
+solver result : solved at move : 94, total boards : 416, outstanding candidates : 287, tried candidates : 128, max depth : 93
+miliseconds used : 2
+
+solving seed : 81
+solver result : solved at move : 105, total boards : 844, outstanding candidates : 392, tried candidates : 451, max depth : 104
+miliseconds used : 5
+
+solving seed : 82
+solver result : solved at move : 187, total boards : 1338, outstanding candidates : 660, tried candidates : 677, max depth : 186
+miliseconds used : 8
+
+solving seed : 83
+solver result : solved at move : 206, total boards : 1170, outstanding candidates : 750, tried candidates : 419, max depth : 205
+miliseconds used : 7
+
+solving seed : 84
+solver result : solved at move : 94, total boards : 481, outstanding candidates : 363, tried candidates : 117, max depth : 93
+miliseconds used : 2
+
+solving seed : 85
+solver result : solved at move : 113, total boards : 623, outstanding candidates : 482, tried candidates : 140, max depth : 112
+miliseconds used : 3
+
+solving seed : 86
+solver result : solved at move : 118, total boards : 1877, outstanding candidates : 406, tried candidates : 1470, max depth : 117
+miliseconds used : 16
+
+solving seed : 87
+solver result : solved at move : 113, total boards : 622, outstanding candidates : 402, tried candidates : 219, max depth : 112
+miliseconds used : 3
+
+solving seed : 88
+solver result : solved at move : 95, total boards : 4802, outstanding candidates : 350, tried candidates : 4451, max depth : 94
+miliseconds used : 44
+
+solving seed : 89
+solver result : solved at move : 90, total boards : 434, outstanding candidates : 310, tried candidates : 123, max depth : 89
+miliseconds used : 2
+
+solving seed : 90
+solver result : solved at move : 113, total boards : 5313, outstanding candidates : 544, tried candidates : 4768, max depth : 112
+miliseconds used : 50
+
+solving seed : 91
+solver result : solved at move : 106, total boards : 628, outstanding candidates : 446, tried candidates : 181, max depth : 105
+miliseconds used : 3
+
+solving seed : 92
+solver result : solved at move : 140, total boards : 3559, outstanding candidates : 535, tried candidates : 3023, max depth : 139
+miliseconds used : 36
+
+solving seed : 93
+solver result : solved at move : 108, total boards : 592, outstanding candidates : 411, tried candidates : 180, max depth : 107
+miliseconds used : 3
+
+solving seed : 94
+solver result : solved at move : 127, total boards : 34489, outstanding candidates : 560, tried candidates : 33928, max depth : 427
+miliseconds used : 386
+
+time used most : 386 at seed : 94
+
+solving seed : 95
+solver result : solved at move : 102, total boards : 659, outstanding candidates : 371, tried candidates : 287, max depth : 101
+miliseconds used : 3
+
+solving seed : 96
+solver result : solved at move : 191, total boards : 2733, outstanding candidates : 769, tried candidates : 1963, max depth : 190
+miliseconds used : 22
+
+solving seed : 97
+solver result : solved at move : 90, total boards : 469, outstanding candidates : 354, tried candidates : 114, max depth : 89
+miliseconds used : 2
+
+solving seed : 98
+solver result : solved at move : 173, total boards : 3074, outstanding candidates : 577, tried candidates : 2496, max depth : 172
+miliseconds used : 30
+
+solving seed : 99
+solver result : solved at move : 157, total boards : 796, outstanding candidates : 551, tried candidates : 244, max depth : 156
+miliseconds used : 4
+
+solving seed : 100
+solver result : solved at move : 192, total boards : 5314, outstanding candidates : 617, tried candidates : 4696, max depth : 191
+miliseconds used : 51
+
+solving seed : 101
+solver result : solved at move : 110, total boards : 1623, outstanding candidates : 425, tried candidates : 1197, max depth : 109
+miliseconds used : 14
+
+solving seed : 102
+solver result : solved at move : 90, total boards : 404, outstanding candidates : 271, tried candidates : 132, max depth : 89
+miliseconds used : 1
+
+solving seed : 103
+solver result : solved at move : 176, total boards : 2335, outstanding candidates : 588, tried candidates : 1746, max depth : 175
+miliseconds used : 20
+
+solving seed : 104
+solver result : solved at move : 75, total boards : 525, outstanding candidates : 441, tried candidates : 83, max depth : 74
+miliseconds used : 2
+
+solving seed : 105
+solver result : solved at move : 106, total boards : 776, outstanding candidates : 573, tried candidates : 202, max depth : 105
+miliseconds used : 4
+
+solving seed : 106
+solver result : solved at move : 189, total boards : 5555, outstanding candidates : 643, tried candidates : 4911, max depth : 188
+miliseconds used : 56
+
+solving seed : 107
+solver result : solved at move : 141, total boards : 3606, outstanding candidates : 458, tried candidates : 3147, max depth : 140
+miliseconds used : 38
+
+solving seed : 108
+solver result : solved at move : 166, total boards : 5331, outstanding candidates : 517, tried candidates : 4813, max depth : 165
+miliseconds used : 47
+
+solving seed : 109
+solver result : solved at move : 204, total boards : 1398, outstanding candidates : 734, tried candidates : 663, max depth : 203
+miliseconds used : 9
+
+solving seed : 110
+solver result : solved at move : 134, total boards : 7211, outstanding candidates : 409, tried candidates : 6801, max depth : 133
+miliseconds used : 67
+
+solving seed : 111
+solver result : solved at move : 194, total boards : 4791, outstanding candidates : 611, tried candidates : 4179, max depth : 193
+miliseconds used : 39
+
+solving seed : 112
+solver result : solved at move : 147, total boards : 1026, outstanding candidates : 502, tried candidates : 523, max depth : 146
+miliseconds used : 7
+
+solving seed : 113
+solver result : solved at move : 92, total boards : 414, outstanding candidates : 300, tried candidates : 113, max depth : 91
+miliseconds used : 1
+
+solving seed : 114
+solver result : solved at move : 139, total boards : 1929, outstanding candidates : 498, tried candidates : 1430, max depth : 138
+miliseconds used : 16
+
+solving seed : 115
+solver result : solved at move : 93, total boards : 436, outstanding candidates : 319, tried candidates : 116, max depth : 92
+miliseconds used : 2
+
+solving seed : 116
+solver result : solved at move : 87, total boards : 436, outstanding candidates : 330, tried candidates : 105, max depth : 86
+miliseconds used : 2
+
+solving seed : 117
+solver result : solved at move : 259, total boards : 8052, outstanding candidates : 1029, tried candidates : 7022, max depth : 258
+miliseconds used : 75
+
+solving seed : 118
+solver result : solved at move : 168, total boards : 1157, outstanding candidates : 642, tried candidates : 514, max depth : 167
+miliseconds used : 7
+
+solving seed : 119
+solver result : solved at move : 826, total boards : 5955, outstanding candidates : 2921, tried candidates : 3033, max depth : 825
+miliseconds used : 48
+
+solving seed : 120
+solver result : solved at move : 383, total boards : 20393, outstanding candidates : 1398, tried candidates : 18994, max depth : 424
+miliseconds used : 203
+
+solving seed : 121
+solver result : solved at move : 162, total boards : 2113, outstanding candidates : 653, tried candidates : 1459, max depth : 161
+miliseconds used : 15
+
+solving seed : 122
+solver result : solved at move : 296, total boards : 2010, outstanding candidates : 1103, tried candidates : 906, max depth : 295
+miliseconds used : 13
+
+solving seed : 123
+solver result : solved at move : 150, total boards : 1441, outstanding candidates : 461, tried candidates : 979, max depth : 149
+miliseconds used : 9
+
+solving seed : 124
+solver result : solved at move : 142, total boards : 4358, outstanding candidates : 440, tried candidates : 3917, max depth : 141
+miliseconds used : 41
+
+solving seed : 125
+solver result : solved at move : 446, total boards : 2501, outstanding candidates : 1559, tried candidates : 941, max depth : 445
+miliseconds used : 17
+
+solving seed : 126
+solver result : solved at move : 139, total boards : 1413, outstanding candidates : 599, tried candidates : 813, max depth : 138
+miliseconds used : 10
+
+solving seed : 127
+solver result : solved at move : 146, total boards : 3650, outstanding candidates : 553, tried candidates : 3096, max depth : 145
+miliseconds used : 27
+
+solving seed : 128
+solver result : solved at move : 98, total boards : 560, outstanding candidates : 394, tried candidates : 165, max depth : 97
+miliseconds used : 3
+
+solving seed : 129
+solver result : solved at move : 188, total boards : 1043, outstanding candidates : 651, tried candidates : 391, max depth : 187
+miliseconds used : 6
+
+solving seed : 130
+solver result : solved at move : 182, total boards : 1141, outstanding candidates : 843, tried candidates : 297, max depth : 181
+miliseconds used : 4
+
+solving seed : 131
+solver result : solved at move : 87, total boards : 496, outstanding candidates : 264, tried candidates : 231, max depth : 86
+miliseconds used : 3
+
+solving seed : 132
+solver result : solved at move : 442, total boards : 7314, outstanding candidates : 1568, tried candidates : 5745, max depth : 441
+miliseconds used : 64
+
+solving seed : 133
+solver result : solved at move : 210, total boards : 1400, outstanding candidates : 801, tried candidates : 598, max depth : 209
+miliseconds used : 8
+
+solving seed : 134
+solver result : solved at move : 99, total boards : 2499, outstanding candidates : 386, tried candidates : 2112, max depth : 98
+miliseconds used : 19
+
+solving seed : 135
+solver result : solved at move : 98, total boards : 505, outstanding candidates : 359, tried candidates : 145, max depth : 97
+miliseconds used : 2
+
+solving seed : 136
+solver result : solved at move : 96, total boards : 516, outstanding candidates : 376, tried candidates : 139, max depth : 95
+miliseconds used : 2
+
+solving seed : 137
+solver result : solved at move : 154, total boards : 9402, outstanding candidates : 606, tried candidates : 8795, max depth : 639
+miliseconds used : 94
+
+solving seed : 138
+solver result : solved at move : 106, total boards : 2733, outstanding candidates : 477, tried candidates : 2255, max depth : 105
+miliseconds used : 20
+
+solving seed : 139
+solver result : solved at move : 161, total boards : 1464, outstanding candidates : 572, tried candidates : 891, max depth : 160
+miliseconds used : 9
+
+solving seed : 140
+solver result : solved at move : 125, total boards : 7663, outstanding candidates : 491, tried candidates : 7171, max depth : 819
+miliseconds used : 87
+
+solving seed : 141
+solver result : solved at move : 234, total boards : 3738, outstanding candidates : 847, tried candidates : 2890, max depth : 236
+miliseconds used : 30
+
+solving seed : 142
+solver result : solved at move : 123, total boards : 751, outstanding candidates : 561, tried candidates : 189, max depth : 122
+miliseconds used : 3
+
+solving seed : 143
+solver result : solved at move : 97, total boards : 580, outstanding candidates : 475, tried candidates : 104, max depth : 96
+miliseconds used : 2
+
+solving seed : 144
+solver result : solved at move : 124, total boards : 1369, outstanding candidates : 420, tried candidates : 948, max depth : 123
+miliseconds used : 10
+
+solving seed : 145
+solver result : solved at move : 104, total boards : 2459, outstanding candidates : 356, tried candidates : 2102, max depth : 103
+miliseconds used : 18
+
+solving seed : 146
+solver result : solved at move : 94, total boards : 495, outstanding candidates : 378, tried candidates : 116, max depth : 93
+miliseconds used : 2
+
+solving seed : 147
+solver result : solved at move : 115, total boards : 683, outstanding candidates : 467, tried candidates : 215, max depth : 114
+miliseconds used : 3
+
+solving seed : 148
+solver result : solved at move : 93, total boards : 545, outstanding candidates : 427, tried candidates : 117, max depth : 92
+miliseconds used : 2
+
+solving seed : 149
+solver result : solved at move : 107, total boards : 677, outstanding candidates : 479, tried candidates : 197, max depth : 106
+miliseconds used : 3
+
+solving seed : 150
+solver result : solved at move : 108, total boards : 581, outstanding candidates : 431, tried candidates : 149, max depth : 107
+miliseconds used : 3
+
+solving seed : 151
+solver result : solved at move : 84, total boards : 572, outstanding candidates : 483, tried candidates : 88, max depth : 83
+miliseconds used : 2
+
+solving seed : 152
+solver result : solved at move : 85, total boards : 341, outstanding candidates : 239, tried candidates : 101, max depth : 84
+miliseconds used : 1
+
+solving seed : 153
+solver result : solved at move : 100, total boards : 614, outstanding candidates : 413, tried candidates : 200, max depth : 99
+miliseconds used : 3
+
+solving seed : 154
+solver result : solved at move : 96, total boards : 542, outstanding candidates : 278, tried candidates : 263, max depth : 95
+miliseconds used : 3
+
+solving seed : 155
+solver result : solved at move : 92, total boards : 525, outstanding candidates : 371, tried candidates : 153, max depth : 91
+miliseconds used : 2
+
+solving seed : 156
+solver result : solved at move : 90, total boards : 1304, outstanding candidates : 343, tried candidates : 960, max depth : 89
+miliseconds used : 8
+
+solving seed : 157
+solver result : solved at move : 136, total boards : 1561, outstanding candidates : 541, tried candidates : 1019, max depth : 135
+miliseconds used : 10
+
+solving seed : 158
+solver result : solved at move : 86, total boards : 443, outstanding candidates : 303, tried candidates : 139, max depth : 85
+miliseconds used : 2
+
+solving seed : 159
+solver result : solved at move : 120, total boards : 1663, outstanding candidates : 442, tried candidates : 1220, max depth : 119
+miliseconds used : 12
+
+solving seed : 160
+solver result : solved at move : 200, total boards : 6344, outstanding candidates : 733, tried candidates : 5610, max depth : 199
+miliseconds used : 57
+
+solving seed : 161
+solver result : solved at move : 105, total boards : 3298, outstanding candidates : 349, tried candidates : 2948, max depth : 104
+miliseconds used : 28
+
+solving seed : 162
+solver result : solved at move : 158, total boards : 18478, outstanding candidates : 685, tried candidates : 17792, max depth : 157
+miliseconds used : 188
+
+solving seed : 163
+solver result : solved at move : 91, total boards : 553, outstanding candidates : 457, tried candidates : 95, max depth : 90
+miliseconds used : 2
+
+solving seed : 164
+solver result : solved at move : 81, total boards : 417, outstanding candidates : 327, tried candidates : 89, max depth : 80
+miliseconds used : 2
+
+solving seed : 165
+solver result : solved at move : 99, total boards : 468, outstanding candidates : 352, tried candidates : 115, max depth : 98
+miliseconds used : 2
+
+solving seed : 166
+solver result : solved at move : 77, total boards : 462, outstanding candidates : 378, tried candidates : 83, max depth : 76
+miliseconds used : 2
+
+solving seed : 167
+solver result : solved at move : 98, total boards : 2707, outstanding candidates : 368, tried candidates : 2338, max depth : 105
+miliseconds used : 23
+
+solving seed : 168
+solver result : solved at move : 123, total boards : 947, outstanding candidates : 462, tried candidates : 484, max depth : 122
+miliseconds used : 6
+
+solving seed : 169
+solver result : unsolvable, total boards : 1504, outstanding candidates : 0, tried candidates : 1504, max depth : 20
+miliseconds used : 13
+
+solving seed : 170
+solver result : solved at move : 124, total boards : 877, outstanding candidates : 514, tried candidates : 362, max depth : 123
+miliseconds used : 5
+
+solving seed : 171
+solver result : solved at move : 138, total boards : 1094, outstanding candidates : 500, tried candidates : 593, max depth : 137
+miliseconds used : 6
+
+solving seed : 172
+solver result : solved at move : 90, total boards : 531, outstanding candidates : 428, tried candidates : 102, max depth : 89
+miliseconds used : 2
+
+solving seed : 173
+solver result : solved at move : 144, total boards : 2825, outstanding candidates : 496, tried candidates : 2328, max depth : 143
+miliseconds used : 28
+
+solving seed : 174
+solver result : solved at move : 161, total boards : 1053, outstanding candidates : 664, tried candidates : 388, max depth : 160
+miliseconds used : 5
+
+solving seed : 175
+solver result : solved at move : 230, total boards : 1865, outstanding candidates : 851, tried candidates : 1013, max depth : 229
+miliseconds used : 13
+
+solving seed : 176
+solver result : solved at move : 255, total boards : 2689, outstanding candidates : 939, tried candidates : 1749, max depth : 254
+miliseconds used : 19
+
+solving seed : 177
+solver result : solved at move : 102, total boards : 605, outstanding candidates : 481, tried candidates : 123, max depth : 101
+miliseconds used : 3
+
+solving seed : 178
+solver result : unsolvable, total boards : 20450, outstanding candidates : 0, tried candidates : 20450, max depth : 114
+miliseconds used : 237
+
+solving seed : 179
+solver result : solved at move : 135, total boards : 769, outstanding candidates : 610, tried candidates : 158, max depth : 134
+miliseconds used : 3
+
+solving seed : 180
+solver result : solved at move : 97, total boards : 472, outstanding candidates : 366, tried candidates : 105, max depth : 96
+miliseconds used : 2
+
+solving seed : 181
+solver result : solved at move : 111, total boards : 1276, outstanding candidates : 410, tried candidates : 865, max depth : 110
+miliseconds used : 9
+
+solving seed : 182
+solver result : solved at move : 115, total boards : 704, outstanding candidates : 510, tried candidates : 193, max depth : 114
+miliseconds used : 3
+
+solving seed : 183
+solver result : solved at move : 130, total boards : 1658, outstanding candidates : 567, tried candidates : 1090, max depth : 129
+miliseconds used : 12
+
+solving seed : 184
+solver result : solved at move : 334, total boards : 3520, outstanding candidates : 1150, tried candidates : 2369, max depth : 333
+miliseconds used : 27
+
+solving seed : 185
+solver result : solved at move : 109, total boards : 550, outstanding candidates : 370, tried candidates : 179, max depth : 108
+miliseconds used : 2
+
+solving seed : 186
+solver result : solved at move : 108, total boards : 760, outstanding candidates : 498, tried candidates : 261, max depth : 107
+miliseconds used : 4
+
+solving seed : 187
+solver result : solved at move : 321, total boards : 72963, outstanding candidates : 1141, tried candidates : 71821, max depth : 369
+miliseconds used : 1017
+
+time used most : 1017 at seed : 187
+
+solving seed : 188
+solver result : solved at move : 102, total boards : 601, outstanding candidates : 374, tried candidates : 226, max depth : 101
+miliseconds used : 3
+
+solving seed : 189
+solver result : solved at move : 154, total boards : 12146, outstanding candidates : 573, tried candidates : 11572, max depth : 336
+miliseconds used : 138
+
+solving seed : 190
+solver result : solved at move : 105, total boards : 1663, outstanding candidates : 431, tried candidates : 1231, max depth : 104
+miliseconds used : 13
+
+solving seed : 191
+solver result : solved at move : 166, total boards : 1572, outstanding candidates : 674, tried candidates : 897, max depth : 165
+miliseconds used : 8
+
+solving seed : 192
+solver result : solved at move : 94, total boards : 476, outstanding candidates : 317, tried candidates : 158, max depth : 93
+miliseconds used : 2
+
+solving seed : 193
+solver result : solved at move : 97, total boards : 474, outstanding candidates : 336, tried candidates : 137, max depth : 96
+miliseconds used : 2
+
+solving seed : 194
+solver result : solved at move : 166, total boards : 3422, outstanding candidates : 568, tried candidates : 2853, max depth : 165
+miliseconds used : 32
+
+solving seed : 195
+solver result : solved at move : 81, total boards : 395, outstanding candidates : 306, tried candidates : 88, max depth : 80
+miliseconds used : 2
+
+solving seed : 196
+solver result : solved at move : 143, total boards : 1127, outstanding candidates : 498, tried candidates : 628, max depth : 142
+miliseconds used : 6
+
+solving seed : 197
+solver result : solved at move : 166, total boards : 18482, outstanding candidates : 649, tried candidates : 17832, max depth : 165
+miliseconds used : 187
+
+solving seed : 198
+solver result : solved at move : 372, total boards : 3074, outstanding candidates : 1377, tried candidates : 1696, max depth : 371
+miliseconds used : 21
+
+solving seed : 199
+solver result : solved at move : 76, total boards : 771, outstanding candidates : 208, tried candidates : 562, max depth : 75
+miliseconds used : 5
+
+solving seed : 200
+solver result : solved at move : 89, total boards : 435, outstanding candidates : 332, tried candidates : 102, max depth : 88
+miliseconds used : 1
+
+solving seed : 201
+solver result : solved at move : 177, total boards : 950, outstanding candidates : 702, tried candidates : 247, max depth : 176
+miliseconds used : 5
+
+solving seed : 202
+solver result : solved at move : 95, total boards : 1147, outstanding candidates : 287, tried candidates : 859, max depth : 94
+miliseconds used : 7
+
+solving seed : 203
+solver result : solved at move : 186, total boards : 1303, outstanding candidates : 767, tried candidates : 535, max depth : 185
+miliseconds used : 7
+
+solving seed : 204
+solver result : solved at move : 112, total boards : 1126, outstanding candidates : 504, tried candidates : 621, max depth : 111
+miliseconds used : 8
+
+solving seed : 205
+solver result : solved at move : 151, total boards : 3451, outstanding candidates : 603, tried candidates : 2847, max depth : 163
+miliseconds used : 27
+
+solving seed : 206
+solver result : solved at move : 136, total boards : 2269, outstanding candidates : 671, tried candidates : 1597, max depth : 135
+miliseconds used : 17
+
+solving seed : 207
+solver result : solved at move : 138, total boards : 1149, outstanding candidates : 469, tried candidates : 679, max depth : 137
+miliseconds used : 7
+
+solving seed : 208
+solver result : solved at move : 123, total boards : 4072, outstanding candidates : 360, tried candidates : 3711, max depth : 122
+miliseconds used : 36
+
+solving seed : 209
+solver result : solved at move : 710, total boards : 14581, outstanding candidates : 3017, tried candidates : 11563, max depth : 709
+miliseconds used : 132
+
+solving seed : 210
+solver result : solved at move : 135, total boards : 858, outstanding candidates : 528, tried candidates : 329, max depth : 134
+miliseconds used : 4
+
+solving seed : 211
+solver result : solved at move : 117, total boards : 764, outstanding candidates : 452, tried candidates : 311, max depth : 116
+miliseconds used : 4
+
+solving seed : 212
+solver result : solved at move : 160, total boards : 4187, outstanding candidates : 610, tried candidates : 3576, max depth : 159
+miliseconds used : 35
+
+solving seed : 213
+solver result : solved at move : 136, total boards : 1459, outstanding candidates : 541, tried candidates : 917, max depth : 135
+miliseconds used : 9
+
+solving seed : 214
+solver result : solved at move : 85, total boards : 658, outstanding candidates : 312, tried candidates : 345, max depth : 84
+miliseconds used : 4
+
+solving seed : 215
+solver result : solved at move : 136, total boards : 7779, outstanding candidates : 574, tried candidates : 7204, max depth : 135
+miliseconds used : 70
+
+solving seed : 216
+solver result : solved at move : 143, total boards : 4468, outstanding candidates : 551, tried candidates : 3916, max depth : 142
+miliseconds used : 35
+
+solving seed : 217
+solver result : solved at move : 101, total boards : 862, outstanding candidates : 367, tried candidates : 494, max depth : 100
+miliseconds used : 5
+
+solving seed : 218
+solver result : solved at move : 140, total boards : 1372, outstanding candidates : 659, tried candidates : 712, max depth : 139
+miliseconds used : 8
+
+solving seed : 219
+solver result : solved at move : 94, total boards : 817, outstanding candidates : 313, tried candidates : 503, max depth : 93
+miliseconds used : 5
+
+solving seed : 220
+solver result : solved at move : 81, total boards : 420, outstanding candidates : 332, tried candidates : 87, max depth : 80
+miliseconds used : 1
+
+solving seed : 221
+solver result : solved at move : 123, total boards : 10461, outstanding candidates : 437, tried candidates : 10023, max depth : 122
+miliseconds used : 109
+
+solving seed : 222
+solver result : solved at move : 93, total boards : 495, outstanding candidates : 389, tried candidates : 105, max depth : 92
+miliseconds used : 2
+
+solving seed : 223
+solver result : solved at move : 107, total boards : 617, outstanding candidates : 464, tried candidates : 152, max depth : 106
+miliseconds used : 3
+
+solving seed : 224
+solver result : solved at move : 118, total boards : 26947, outstanding candidates : 400, tried candidates : 26546, max depth : 143
+miliseconds used : 283
+
+solving seed : 225
+solver result : solved at move : 119, total boards : 789, outstanding candidates : 546, tried candidates : 242, max depth : 118
+miliseconds used : 4
+
+solving seed : 226
+solver result : solved at move : 124, total boards : 721, outstanding candidates : 497, tried candidates : 223, max depth : 123
+miliseconds used : 3
+
+solving seed : 227
+solver result : solved at move : 92, total boards : 540, outstanding candidates : 368, tried candidates : 171, max depth : 91
+miliseconds used : 2
+
+solving seed : 228
+solver result : solved at move : 99, total boards : 579, outstanding candidates : 409, tried candidates : 169, max depth : 98
+miliseconds used : 3
+
+solving seed : 229
+solver result : solved at move : 291, total boards : 3602, outstanding candidates : 1067, tried candidates : 2534, max depth : 290
+miliseconds used : 27
+
+solving seed : 230
+solver result : solved at move : 82, total boards : 472, outstanding candidates : 379, tried candidates : 92, max depth : 81
+miliseconds used : 2
+
+solving seed : 231
+solver result : solved at move : 125, total boards : 17254, outstanding candidates : 372, tried candidates : 16881, max depth : 124
+miliseconds used : 201
+
+solving seed : 232
+solver result : solved at move : 133, total boards : 2888, outstanding candidates : 382, tried candidates : 2505, max depth : 132
+miliseconds used : 24
+
+solving seed : 233
+solver result : solved at move : 101, total boards : 596, outstanding candidates : 404, tried candidates : 191, max depth : 100
+miliseconds used : 3
+
+solving seed : 234
+solver result : solved at move : 90, total boards : 8181, outstanding candidates : 278, tried candidates : 7902, max depth : 123
+miliseconds used : 79
+
+solving seed : 235
+solver result : solved at move : 163, total boards : 1024, outstanding candidates : 708, tried candidates : 315, max depth : 162
+miliseconds used : 6
+
+solving seed : 236
+solver result : solved at move : 112, total boards : 677, outstanding candidates : 349, tried candidates : 327, max depth : 111
+miliseconds used : 3
+
+solving seed : 237
+solver result : solved at move : 143, total boards : 6811, outstanding candidates : 494, tried candidates : 6316, max depth : 161
+miliseconds used : 60
+
+solving seed : 238
+solver result : solved at move : 82, total boards : 411, outstanding candidates : 297, tried candidates : 113, max depth : 81
+miliseconds used : 2
+
+solving seed : 239
+solver result : solved at move : 162, total boards : 9438, outstanding candidates : 702, tried candidates : 8735, max depth : 161
+miliseconds used : 80
+
+solving seed : 240
+solver result : solved at move : 98, total boards : 756, outstanding candidates : 382, tried candidates : 373, max depth : 97
+miliseconds used : 4
+
+solving seed : 241
+solver result : solved at move : 91, total boards : 6081, outstanding candidates : 343, tried candidates : 5737, max depth : 90
+miliseconds used : 61
+
+solving seed : 242
+solver result : solved at move : 97, total boards : 694, outstanding candidates : 398, tried candidates : 295, max depth : 96
+miliseconds used : 4
+
+solving seed : 243
+solver result : solved at move : 173, total boards : 1302, outstanding candidates : 574, tried candidates : 727, max depth : 172
+miliseconds used : 8
+
+solving seed : 244
+solver result : solved at move : 91, total boards : 511, outstanding candidates : 346, tried candidates : 164, max depth : 90
+miliseconds used : 3
+
+solving seed : 245
+solver result : solved at move : 97, total boards : 857, outstanding candidates : 405, tried candidates : 451, max depth : 96
+miliseconds used : 4
+
+solving seed : 246
+solver result : solved at move : 103, total boards : 489, outstanding candidates : 349, tried candidates : 139, max depth : 102
+miliseconds used : 3
+
+solving seed : 247
+solver result : solved at move : 100, total boards : 598, outstanding candidates : 444, tried candidates : 153, max depth : 99
+miliseconds used : 2
+
+solving seed : 248
+solver result : solved at move : 78, total boards : 360, outstanding candidates : 277, tried candidates : 82, max depth : 77
+miliseconds used : 1
+
+solving seed : 249
+solver result : solved at move : 96, total boards : 573, outstanding candidates : 360, tried candidates : 212, max depth : 95
+miliseconds used : 3
+
+solving seed : 250
+solver result : solved at move : 88, total boards : 491, outstanding candidates : 358, tried candidates : 132, max depth : 87
+miliseconds used : 2
+
+solving seed : 251
+solver result : solved at move : 88, total boards : 446, outstanding candidates : 345, tried candidates : 100, max depth : 87
+miliseconds used : 2
+
+solving seed : 252
+solver result : solved at move : 169, total boards : 2522, outstanding candidates : 553, tried candidates : 1968, max depth : 168
+miliseconds used : 19
+
+solving seed : 253
+solver result : solved at move : 163, total boards : 62203, outstanding candidates : 622, tried candidates : 61580, max depth : 345
+miliseconds used : 661
+
+solving seed : 254
+solver result : solved at move : 153, total boards : 5320, outstanding candidates : 506, tried candidates : 4813, max depth : 152
+miliseconds used : 54
+
+solving seed : 255
+solver result : solved at move : 357, total boards : 3960, outstanding candidates : 1403, tried candidates : 2556, max depth : 356
+miliseconds used : 30
+
+solving seed : 256
+solver result : solved at move : 102, total boards : 9400, outstanding candidates : 471, tried candidates : 8928, max depth : 160
+miliseconds used : 91
+
+solving seed : 257
+solver result : solved at move : 123, total boards : 807, outstanding candidates : 356, tried candidates : 450, max depth : 122
+miliseconds used : 5
+
+solving seed : 258
+solver result : solved at move : 105, total boards : 665, outstanding candidates : 342, tried candidates : 322, max depth : 104
+miliseconds used : 3
+
+solving seed : 259
+solver result : solved at move : 127, total boards : 1117, outstanding candidates : 517, tried candidates : 599, max depth : 126
+miliseconds used : 6
+
+solving seed : 260
+solver result : solved at move : 99, total boards : 7379, outstanding candidates : 352, tried candidates : 7026, max depth : 98
+miliseconds used : 74
+
+solving seed : 261
+solver result : solved at move : 150, total boards : 2154, outstanding candidates : 479, tried candidates : 1674, max depth : 149
+miliseconds used : 19
+
+solving seed : 262
+solver result : solved at move : 95, total boards : 637, outstanding candidates : 378, tried candidates : 258, max depth : 94
+miliseconds used : 4
+
+solving seed : 263
+solver result : solved at move : 104, total boards : 529, outstanding candidates : 381, tried candidates : 147, max depth : 103
+miliseconds used : 2
+
+solving seed : 264
+solver result : solved at move : 148, total boards : 1331, outstanding candidates : 552, tried candidates : 778, max depth : 147
+miliseconds used : 8
+
+solving seed : 265
+solver result : solved at move : 130, total boards : 842, outstanding candidates : 550, tried candidates : 291, max depth : 129
+miliseconds used : 5
+
+solving seed : 266
+solver result : solved at move : 98, total boards : 1620, outstanding candidates : 370, tried candidates : 1249, max depth : 97
+miliseconds used : 11
+
+solving seed : 267
+solver result : solved at move : 137, total boards : 1113, outstanding candidates : 432, tried candidates : 680, max depth : 136
+miliseconds used : 7
+
+solving seed : 268
+solver result : solved at move : 240, total boards : 5129, outstanding candidates : 845, tried candidates : 4283, max depth : 265
+miliseconds used : 45
+
+solving seed : 269
+solver result : solved at move : 108, total boards : 567, outstanding candidates : 440, tried candidates : 126, max depth : 107
+miliseconds used : 3
+
+solving seed : 270
+solver result : solved at move : 207, total boards : 1614, outstanding candidates : 723, tried candidates : 890, max depth : 206
+miliseconds used : 10
+
+solving seed : 271
+solver result : solved at move : 124, total boards : 936, outstanding candidates : 486, tried candidates : 449, max depth : 123
+miliseconds used : 6
+
+solving seed : 272
+solver result : solved at move : 160, total boards : 8445, outstanding candidates : 512, tried candidates : 7932, max depth : 159
+miliseconds used : 75
+
+solving seed : 273
+solver result : solved at move : 94, total boards : 767, outstanding candidates : 301, tried candidates : 465, max depth : 93
+miliseconds used : 4
+
+solving seed : 274
+solver result : solved at move : 176, total boards : 912, outstanding candidates : 674, tried candidates : 237, max depth : 175
+miliseconds used : 4
+
+solving seed : 275
+solver result : solved at move : 84, total boards : 487, outstanding candidates : 372, tried candidates : 114, max depth : 83
+miliseconds used : 2
+
+solving seed : 276
+solver result : solved at move : 92, total boards : 479, outstanding candidates : 354, tried candidates : 124, max depth : 91
+miliseconds used : 2
+
+solving seed : 277
+solver result : solved at move : 104, total boards : 447, outstanding candidates : 318, tried candidates : 128, max depth : 103
+miliseconds used : 2
+
+solving seed : 278
+solver result : solved at move : 104, total boards : 779, outstanding candidates : 406, tried candidates : 372, max depth : 103
+miliseconds used : 4
+
+solving seed : 279
+solver result : solved at move : 114, total boards : 3404, outstanding candidates : 357, tried candidates : 3046, max depth : 113
+miliseconds used : 33
+
+solving seed : 280
+solver result : solved at move : 77, total boards : 377, outstanding candidates : 290, tried candidates : 86, max depth : 76
+miliseconds used : 2
+
+solving seed : 281
+solver result : solved at move : 167, total boards : 11861, outstanding candidates : 715, tried candidates : 11145, max depth : 166
+miliseconds used : 116
+
+solving seed : 282
+solver result : solved at move : 100, total boards : 598, outstanding candidates : 366, tried candidates : 231, max depth : 99
+miliseconds used : 3
+
+solving seed : 283
+solver result : solved at move : 331, total boards : 5690, outstanding candidates : 1611, tried candidates : 4078, max depth : 330
+miliseconds used : 43
+
+solving seed : 284
+solver result : solved at move : 93, total boards : 1193, outstanding candidates : 319, tried candidates : 873, max depth : 92
+miliseconds used : 8
+
+solving seed : 285
+solver result : unsolvable, total boards : 4021, outstanding candidates : 0, tried candidates : 4021, max depth : 35
+miliseconds used : 41
+
+solving seed : 286
+solver result : solved at move : 131, total boards : 46509, outstanding candidates : 509, tried candidates : 45999, max depth : 539
+miliseconds used : 548
+
+solving seed : 287
+solver result : solved at move : 96, total boards : 1156, outstanding candidates : 332, tried candidates : 823, max depth : 95
+miliseconds used : 9
+
+solving seed : 288
+solver result : solved at move : 171, total boards : 2480, outstanding candidates : 745, tried candidates : 1734, max depth : 170
+miliseconds used : 20
+
+solving seed : 289
+solver result : solved at move : 100, total boards : 925, outstanding candidates : 392, tried candidates : 532, max depth : 99
+miliseconds used : 6
+
+solving seed : 290
+solver result : solved at move : 156, total boards : 3750, outstanding candidates : 501, tried candidates : 3248, max depth : 155
+miliseconds used : 37
+
+solving seed : 291
+solver result : solved at move : 145, total boards : 2292, outstanding candidates : 479, tried candidates : 1812, max depth : 144
+miliseconds used : 18
+
+solving seed : 292
+solver result : solved at move : 115, total boards : 1674, outstanding candidates : 446, tried candidates : 1227, max depth : 114
+miliseconds used : 11
+
+solving seed : 293
+solver result : solved at move : 148, total boards : 2333, outstanding candidates : 606, tried candidates : 1726, max depth : 147
+miliseconds used : 16
+
+solving seed : 294
+solver result : solved at move : 164, total boards : 1130, outstanding candidates : 636, tried candidates : 493, max depth : 163
+miliseconds used : 6
+
+solving seed : 295
+solver result : solved at move : 447, total boards : 13423, outstanding candidates : 1605, tried candidates : 11817, max depth : 486
+miliseconds used : 141
+
+solving seed : 296
+solver result : solved at move : 120, total boards : 718, outstanding candidates : 440, tried candidates : 277, max depth : 119
+miliseconds used : 3
+
+solving seed : 297
+solver result : solved at move : 90, total boards : 618, outstanding candidates : 365, tried candidates : 252, max depth : 89
+miliseconds used : 3
+
+solving seed : 298
+solver result : solved at move : 125, total boards : 1257, outstanding candidates : 467, tried candidates : 789, max depth : 124
+miliseconds used : 9
+
+solving seed : 299
+solver result : solved at move : 363, total boards : 3996, outstanding candidates : 1411, tried candidates : 2584, max depth : 362
+miliseconds used : 31
+
+solving seed : 300
+solver result : solved at move : 81, total boards : 298, outstanding candidates : 210, tried candidates : 87, max depth : 80
+miliseconds used : 1
+
+solving seed : 301
+solver result : solved at move : 88, total boards : 460, outstanding candidates : 328, tried candidates : 131, max depth : 87
+miliseconds used : 2
+
+solving seed : 302
+solver result : solved at move : 108, total boards : 1649, outstanding candidates : 460, tried candidates : 1188, max depth : 107
+miliseconds used : 14
+
+solving seed : 303
+solver result : solved at move : 86, total boards : 463, outstanding candidates : 302, tried candidates : 160, max depth : 85
+miliseconds used : 2
+
+solving seed : 304
+solver result : solved at move : 109, total boards : 537, outstanding candidates : 404, tried candidates : 132, max depth : 108
+miliseconds used : 2
+
+solving seed : 305
+solver result : solved at move : 162, total boards : 12796, outstanding candidates : 563, tried candidates : 12232, max depth : 293
+miliseconds used : 150
+
+solving seed : 306
+solver result : solved at move : 129, total boards : 909, outstanding candidates : 585, tried candidates : 323, max depth : 128
+miliseconds used : 5
+
+solving seed : 307
+solver result : solved at move : 135, total boards : 2042, outstanding candidates : 577, tried candidates : 1464, max depth : 134
+miliseconds used : 13
+
+solving seed : 308
+solver result : solved at move : 149, total boards : 5390, outstanding candidates : 564, tried candidates : 4825, max depth : 148
+miliseconds used : 47
+
+solving seed : 309
+solver result : solved at move : 117, total boards : 890, outstanding candidates : 410, tried candidates : 479, max depth : 116
+miliseconds used : 5
+
+solving seed : 310
+solver result : solved at move : 83, total boards : 457, outstanding candidates : 304, tried candidates : 152, max depth : 82
+miliseconds used : 2
+
+solving seed : 311
+solver result : solved at move : 111, total boards : 1488, outstanding candidates : 450, tried candidates : 1037, max depth : 110
+miliseconds used : 10
+
+solving seed : 312
+solver result : solved at move : 114, total boards : 539, outstanding candidates : 362, tried candidates : 176, max depth : 113
+miliseconds used : 3
+
+solving seed : 313
+solver result : solved at move : 84, total boards : 504, outstanding candidates : 240, tried candidates : 263, max depth : 83
+miliseconds used : 2
+
+solving seed : 314
+solver result : solved at move : 98, total boards : 479, outstanding candidates : 326, tried candidates : 152, max depth : 97
+miliseconds used : 2
+
+solving seed : 315
+solver result : solved at move : 181, total boards : 19574, outstanding candidates : 695, tried candidates : 18878, max depth : 384
+miliseconds used : 196
+
+solving seed : 316
+solver result : solved at move : 96, total boards : 601, outstanding candidates : 283, tried candidates : 317, max depth : 95
+miliseconds used : 3
+
+solving seed : 317
+solver result : solved at move : 174, total boards : 4081, outstanding candidates : 619, tried candidates : 3461, max depth : 173
+miliseconds used : 31
+
+solving seed : 318
+solver result : solved at move : 184, total boards : 2461, outstanding candidates : 555, tried candidates : 1905, max depth : 183
+miliseconds used : 21
+
+solving seed : 319
+solver result : solved at move : 84, total boards : 447, outstanding candidates : 346, tried candidates : 100, max depth : 83
+miliseconds used : 2
+
+solving seed : 320
+solver result : solved at move : 72, total boards : 306, outstanding candidates : 232, tried candidates : 73, max depth : 71
+miliseconds used : 1
+
+solving seed : 321
+solver result : solved at move : 102, total boards : 490, outstanding candidates : 347, tried candidates : 142, max depth : 101
+miliseconds used : 2
+
+solving seed : 322
+solver result : solved at move : 271, total boards : 5819, outstanding candidates : 1037, tried candidates : 4781, max depth : 270
+miliseconds used : 53
+
+solving seed : 323
+solver result : solved at move : 97, total boards : 450, outstanding candidates : 314, tried candidates : 135, max depth : 96
+miliseconds used : 2
+
+solving seed : 324
+solver result : solved at move : 165, total boards : 1283, outstanding candidates : 597, tried candidates : 685, max depth : 164
+miliseconds used : 9
+
+solving seed : 325
+solver result : solved at move : 122, total boards : 1485, outstanding candidates : 545, tried candidates : 939, max depth : 121
+miliseconds used : 12
+
+solving seed : 326
+solver result : solved at move : 143, total boards : 3638, outstanding candidates : 498, tried candidates : 3139, max depth : 142
+miliseconds used : 33
+
+solving seed : 327
+solver result : solved at move : 185, total boards : 2748, outstanding candidates : 697, tried candidates : 2050, max depth : 184
+miliseconds used : 21
+
+solving seed : 328
+solver result : solved at move : 240, total boards : 2611, outstanding candidates : 1020, tried candidates : 1590, max depth : 239
+miliseconds used : 17
+
+solving seed : 329
+solver result : solved at move : 84, total boards : 359, outstanding candidates : 251, tried candidates : 107, max depth : 83
+miliseconds used : 2
+
+solving seed : 330
+solver result : solved at move : 78, total boards : 396, outstanding candidates : 191, tried candidates : 204, max depth : 77
+miliseconds used : 2
+
+solving seed : 331
+solver result : solved at move : 117, total boards : 1576, outstanding candidates : 380, tried candidates : 1195, max depth : 116
+miliseconds used : 12
+
+solving seed : 332
+solver result : solved at move : 111, total boards : 2576, outstanding candidates : 417, tried candidates : 2158, max depth : 110
+miliseconds used : 19
+
+solving seed : 333
+solver result : solved at move : 217, total boards : 10154, outstanding candidates : 776, tried candidates : 9377, max depth : 234
+miliseconds used : 104
+
+solving seed : 334
+solver result : solved at move : 101, total boards : 2316, outstanding candidates : 480, tried candidates : 1835, max depth : 100
+miliseconds used : 17
+
+solving seed : 335
+solver result : solved at move : 187, total boards : 3601, outstanding candidates : 722, tried candidates : 2878, max depth : 186
+miliseconds used : 30
+
+solving seed : 336
+solver result : solved at move : 116, total boards : 10254, outstanding candidates : 427, tried candidates : 9826, max depth : 115
+miliseconds used : 100
+
+solving seed : 337
+solver result : solved at move : 144, total boards : 4510, outstanding candidates : 531, tried candidates : 3978, max depth : 143
+miliseconds used : 44
+
+solving seed : 338
+solver result : solved at move : 107, total boards : 963, outstanding candidates : 360, tried candidates : 602, max depth : 106
+miliseconds used : 6
+
+solving seed : 339
+solver result : solved at move : 105, total boards : 4587, outstanding candidates : 356, tried candidates : 4230, max depth : 104
+miliseconds used : 45
+
+solving seed : 340
+solver result : solved at move : 92, total boards : 4583, outstanding candidates : 407, tried candidates : 4175, max depth : 91
+miliseconds used : 42
+
+solving seed : 341
+solver result : solved at move : 184, total boards : 2372, outstanding candidates : 802, tried candidates : 1569, max depth : 183
+miliseconds used : 17
+
+solving seed : 342
+solver result : solved at move : 99, total boards : 559, outstanding candidates : 391, tried candidates : 167, max depth : 98
+miliseconds used : 3
+
+solving seed : 343
+solver result : solved at move : 90, total boards : 521, outstanding candidates : 282, tried candidates : 238, max depth : 89
+miliseconds used : 2
+
+solving seed : 344
+solver result : solved at move : 425, total boards : 35311, outstanding candidates : 1529, tried candidates : 33781, max depth : 424
+miliseconds used : 393
+
+solving seed : 345
+solver result : solved at move : 81, total boards : 424, outstanding candidates : 255, tried candidates : 168, max depth : 80
+miliseconds used : 2
+
+solving seed : 346
+solver result : solved at move : 74, total boards : 405, outstanding candidates : 319, tried candidates : 85, max depth : 73
+miliseconds used : 2
+
+solving seed : 347
+solver result : solved at move : 125, total boards : 1975, outstanding candidates : 429, tried candidates : 1545, max depth : 124
+miliseconds used : 16
+
+solving seed : 348
+solver result : solved at move : 102, total boards : 1228, outstanding candidates : 404, tried candidates : 823, max depth : 101
+miliseconds used : 7
+
+solving seed : 349
+solver result : solved at move : 99, total boards : 733, outstanding candidates : 520, tried candidates : 212, max depth : 98
+miliseconds used : 4
+
+solving seed : 350
+solver result : solved at move : 113, total boards : 1155, outstanding candidates : 398, tried candidates : 756, max depth : 112
+miliseconds used : 8
+
+solving seed : 351
+solver result : solved at move : 162, total boards : 2207, outstanding candidates : 609, tried candidates : 1597, max depth : 173
+miliseconds used : 16
+
+solving seed : 352
+solver result : solved at move : 248, total boards : 4740, outstanding candidates : 888, tried candidates : 3851, max depth : 247
+miliseconds used : 41
+
+solving seed : 353
+solver result : solved at move : 117, total boards : 751, outstanding candidates : 467, tried candidates : 283, max depth : 116
+miliseconds used : 4
+
+solving seed : 354
+solver result : solved at move : 171, total boards : 6746, outstanding candidates : 673, tried candidates : 6072, max depth : 170
+miliseconds used : 55
+
+solving seed : 355
+solver result : solved at move : 170, total boards : 1513, outstanding candidates : 636, tried candidates : 876, max depth : 169
+miliseconds used : 8
+
+solving seed : 356
+solver result : solved at move : 279, total boards : 9370, outstanding candidates : 987, tried candidates : 8382, max depth : 278
+miliseconds used : 89
+
+solving seed : 357
+solver result : solved at move : 116, total boards : 897, outstanding candidates : 477, tried candidates : 419, max depth : 115
+miliseconds used : 5
+
+solving seed : 358
+solver result : solved at move : 95, total boards : 461, outstanding candidates : 327, tried candidates : 133, max depth : 94
+miliseconds used : 2
+
+solving seed : 359
+solver result : solved at move : 154, total boards : 1145, outstanding candidates : 557, tried candidates : 587, max depth : 153
+miliseconds used : 8
+
+solving seed : 360
+solver result : solved at move : 84, total boards : 457, outstanding candidates : 348, tried candidates : 108, max depth : 83
+miliseconds used : 2
+
+solving seed : 361
+solver result : solved at move : 150, total boards : 818, outstanding candidates : 590, tried candidates : 227, max depth : 149
+miliseconds used : 4
+
+solving seed : 362
+solver result : solved at move : 176, total boards : 950, outstanding candidates : 634, tried candidates : 315, max depth : 175
+miliseconds used : 4
+
+solving seed : 363
+solver result : solved at move : 95, total boards : 470, outstanding candidates : 345, tried candidates : 124, max depth : 94
+miliseconds used : 2
+
+solving seed : 364
+solver result : solved at move : 99, total boards : 563, outstanding candidates : 368, tried candidates : 194, max depth : 98
+miliseconds used : 3
+
+solving seed : 365
+solver result : solved at move : 93, total boards : 440, outstanding candidates : 334, tried candidates : 105, max depth : 92
+miliseconds used : 1
+
+solving seed : 366
+solver result : solved at move : 129, total boards : 852, outstanding candidates : 596, tried candidates : 255, max depth : 128
+miliseconds used : 4
+
+solving seed : 367
+solver result : solved at move : 80, total boards : 538, outstanding candidates : 433, tried candidates : 104, max depth : 79
+miliseconds used : 2
+
+solving seed : 368
+solver result : solved at move : 115, total boards : 1705, outstanding candidates : 422, tried candidates : 1282, max depth : 114
+miliseconds used : 13
+
+solving seed : 369
+solver result : solved at move : 131, total boards : 1266, outstanding candidates : 559, tried candidates : 706, max depth : 130
+miliseconds used : 9
+
+solving seed : 370
+solver result : solved at move : 82, total boards : 461, outstanding candidates : 341, tried candidates : 119, max depth : 81
+miliseconds used : 2
+
+solving seed : 371
+solver result : solved at move : 124, total boards : 992, outstanding candidates : 449, tried candidates : 542, max depth : 123
+miliseconds used : 7
+
+solving seed : 372
+solver result : solved at move : 128, total boards : 1128, outstanding candidates : 614, tried candidates : 513, max depth : 127
+miliseconds used : 6
+
+solving seed : 373
+solver result : solved at move : 138, total boards : 5145, outstanding candidates : 600, tried candidates : 4544, max depth : 152
+miliseconds used : 51
+
+solving seed : 374
+solver result : solved at move : 85, total boards : 637, outstanding candidates : 293, tried candidates : 343, max depth : 84
+miliseconds used : 3
+
+solving seed : 375
+solver result : solved at move : 102, total boards : 1698, outstanding candidates : 484, tried candidates : 1213, max depth : 101
+miliseconds used : 11
+
+solving seed : 376
+solver result : solved at move : 108, total boards : 528, outstanding candidates : 405, tried candidates : 122, max depth : 107
+miliseconds used : 2
+
+solving seed : 377
+solver result : solved at move : 125, total boards : 2846, outstanding candidates : 716, tried candidates : 2129, max depth : 124
+miliseconds used : 22
+
+solving seed : 378
+solver result : solved at move : 74, total boards : 409, outstanding candidates : 325, tried candidates : 83, max depth : 73
+miliseconds used : 1
+
+solving seed : 379
+solver result : solved at move : 104, total boards : 493, outstanding candidates : 380, tried candidates : 112, max depth : 103
+miliseconds used : 2
+
+solving seed : 380
+solver result : solved at move : 137, total boards : 32983, outstanding candidates : 543, tried candidates : 32439, max depth : 182
+miliseconds used : 362
+
+solving seed : 381
+solver result : solved at move : 108, total boards : 1386, outstanding candidates : 402, tried candidates : 983, max depth : 107
+miliseconds used : 11
+
+solving seed : 382
+solver result : solved at move : 131, total boards : 1435, outstanding candidates : 400, tried candidates : 1034, max depth : 130
+miliseconds used : 10
+
+solving seed : 383
+solver result : solved at move : 502, total boards : 13336, outstanding candidates : 2153, tried candidates : 11182, max depth : 501
+miliseconds used : 138
+
+solving seed : 384
+solver result : solved at move : 144, total boards : 955, outstanding candidates : 585, tried candidates : 369, max depth : 143
+miliseconds used : 5
+
+solving seed : 385
+solver result : solved at move : 333, total boards : 6114, outstanding candidates : 928, tried candidates : 5185, max depth : 332
+miliseconds used : 58
+
+solving seed : 386
+solver result : solved at move : 110, total boards : 663, outstanding candidates : 469, tried candidates : 193, max depth : 109
+miliseconds used : 4
+
+solving seed : 387
+solver result : solved at move : 91, total boards : 789, outstanding candidates : 451, tried candidates : 337, max depth : 90
+miliseconds used : 5
+
+solving seed : 388
+solver result : solved at move : 116, total boards : 1721, outstanding candidates : 451, tried candidates : 1269, max depth : 115
+miliseconds used : 12
+
+solving seed : 389
+solver result : solved at move : 128, total boards : 713, outstanding candidates : 516, tried candidates : 196, max depth : 127
+miliseconds used : 3
+
+solving seed : 390
+solver result : solved at move : 108, total boards : 539, outstanding candidates : 381, tried candidates : 157, max depth : 107
+miliseconds used : 3
+
+solving seed : 391
+solver result : solved at move : 309, total boards : 6554, outstanding candidates : 1169, tried candidates : 5384, max depth : 308
+miliseconds used : 59
+
+solving seed : 392
+solver result : solved at move : 120, total boards : 634, outstanding candidates : 463, tried candidates : 170, max depth : 119
+miliseconds used : 3
+
+solving seed : 393
+solver result : solved at move : 128, total boards : 829, outstanding candidates : 488, tried candidates : 340, max depth : 127
+miliseconds used : 4
+
+solving seed : 394
+solver result : solved at move : 207, total boards : 2050, outstanding candidates : 953, tried candidates : 1096, max depth : 206
+miliseconds used : 15
+
+solving seed : 395
+solver result : solved at move : 83, total boards : 482, outstanding candidates : 378, tried candidates : 103, max depth : 82
+miliseconds used : 2
+
+solving seed : 396
+solver result : solved at move : 126, total boards : 3716, outstanding candidates : 419, tried candidates : 3296, max depth : 125
+miliseconds used : 32
+
+solving seed : 397
+solver result : solved at move : 95, total boards : 425, outstanding candidates : 319, tried candidates : 105, max depth : 94
+miliseconds used : 7
+
+solving seed : 398
+solver result : solved at move : 100, total boards : 679, outstanding candidates : 487, tried candidates : 191, max depth : 99
+miliseconds used : 3
+
+solving seed : 399
+solver result : solved at move : 109, total boards : 529, outstanding candidates : 348, tried candidates : 180, max depth : 108
+miliseconds used : 2
+
+solving seed : 400
+solver result : solved at move : 161, total boards : 17497, outstanding candidates : 560, tried candidates : 16936, max depth : 667
+miliseconds used : 207
+
+solving seed : 401
+solver result : solved at move : 85, total boards : 367, outstanding candidates : 275, tried candidates : 91, max depth : 84
+miliseconds used : 1
+
+solving seed : 402
+solver result : solved at move : 327, total boards : 5052, outstanding candidates : 1050, tried candidates : 4001, max depth : 326
+miliseconds used : 43
+
+solving seed : 403
+solver result : solved at move : 218, total boards : 2836, outstanding candidates : 737, tried candidates : 2098, max depth : 217
+miliseconds used : 23
+
+solving seed : 404
+solver result : solved at move : 98, total boards : 643, outstanding candidates : 354, tried candidates : 288, max depth : 97
+miliseconds used : 3
+
+solving seed : 405
+solver result : solved at move : 82, total boards : 387, outstanding candidates : 292, tried candidates : 94, max depth : 81
+miliseconds used : 1
+
+solving seed : 406
+solver result : solved at move : 164, total boards : 1399, outstanding candidates : 601, tried candidates : 797, max depth : 163
+miliseconds used : 10
+
+solving seed : 407
+solver result : solved at move : 105, total boards : 584, outstanding candidates : 389, tried candidates : 194, max depth : 104
+miliseconds used : 3
+
+solving seed : 408
+solver result : solved at move : 114, total boards : 817, outstanding candidates : 489, tried candidates : 327, max depth : 113
+miliseconds used : 4
+
+solving seed : 409
+solver result : solved at move : 109, total boards : 665, outstanding candidates : 400, tried candidates : 264, max depth : 108
+miliseconds used : 3
+
+solving seed : 410
+solver result : solved at move : 173, total boards : 1090, outstanding candidates : 702, tried candidates : 387, max depth : 172
+miliseconds used : 6
+
+solving seed : 411
+solver result : solved at move : 104, total boards : 630, outstanding candidates : 395, tried candidates : 234, max depth : 103
+miliseconds used : 3
+
+solving seed : 412
+solver result : solved at move : 85, total boards : 478, outstanding candidates : 360, tried candidates : 117, max depth : 84
+miliseconds used : 1
+
+solving seed : 413
+solver result : solved at move : 134, total boards : 838, outstanding candidates : 540, tried candidates : 297, max depth : 133
+miliseconds used : 4
+
+solving seed : 414
+solver result : solved at move : 86, total boards : 483, outstanding candidates : 305, tried candidates : 177, max depth : 85
+miliseconds used : 2
+
+solving seed : 415
+solver result : solved at move : 97, total boards : 445, outstanding candidates : 326, tried candidates : 118, max depth : 96
+miliseconds used : 2
+
+solving seed : 416
+solver result : solved at move : 147, total boards : 4270, outstanding candidates : 554, tried candidates : 3715, max depth : 146
+miliseconds used : 39
+
+solving seed : 417
+solver result : solved at move : 103, total boards : 2408, outstanding candidates : 310, tried candidates : 2097, max depth : 102
+miliseconds used : 19
+
+solving seed : 418
+solver result : solved at move : 112, total boards : 551, outstanding candidates : 389, tried candidates : 161, max depth : 111
+miliseconds used : 3
+
+solving seed : 419
+solver result : solved at move : 167, total boards : 6832, outstanding candidates : 656, tried candidates : 6175, max depth : 166
+miliseconds used : 69
+
+solving seed : 420
+solver result : solved at move : 205, total boards : 2417, outstanding candidates : 750, tried candidates : 1666, max depth : 204
+miliseconds used : 19
+
+solving seed : 421
+solver result : solved at move : 119, total boards : 1332, outstanding candidates : 409, tried candidates : 922, max depth : 118
+miliseconds used : 10
+
+solving seed : 422
+solver result : solved at move : 124, total boards : 3504, outstanding candidates : 457, tried candidates : 3046, max depth : 123
+miliseconds used : 33
+
+solving seed : 423
+solver result : solved at move : 84, total boards : 351, outstanding candidates : 247, tried candidates : 103, max depth : 83
+miliseconds used : 1
+
+solving seed : 424
+solver result : solved at move : 118, total boards : 735, outstanding candidates : 427, tried candidates : 307, max depth : 117
+miliseconds used : 4
+
+solving seed : 425
+solver result : solved at move : 184, total boards : 1045, outstanding candidates : 731, tried candidates : 313, max depth : 183
+miliseconds used : 5
+
+solving seed : 426
+solver result : solved at move : 99, total boards : 980, outstanding candidates : 423, tried candidates : 556, max depth : 98
+miliseconds used : 6
+
+solving seed : 427
+solver result : solved at move : 153, total boards : 2794, outstanding candidates : 446, tried candidates : 2347, max depth : 152
+miliseconds used : 26
+
+solving seed : 428
+solver result : solved at move : 93, total boards : 475, outstanding candidates : 346, tried candidates : 128, max depth : 92
+miliseconds used : 2
+
+solving seed : 429
+solver result : solved at move : 210, total boards : 2578, outstanding candidates : 757, tried candidates : 1820, max depth : 209
+miliseconds used : 19
+
+solving seed : 430
+solver result : solved at move : 88, total boards : 556, outstanding candidates : 418, tried candidates : 137, max depth : 87
+miliseconds used : 2
+
+solving seed : 431
+solver result : solved at move : 172, total boards : 1042, outstanding candidates : 586, tried candidates : 455, max depth : 171
+miliseconds used : 6
+
+solving seed : 432
+solver result : solved at move : 219, total boards : 7028, outstanding candidates : 874, tried candidates : 6153, max depth : 253
+miliseconds used : 65
+
+solving seed : 433
+solver result : solved at move : 122, total boards : 671, outstanding candidates : 361, tried candidates : 309, max depth : 121
+miliseconds used : 4
+
+solving seed : 434
+solver result : solved at move : 138, total boards : 982, outstanding candidates : 528, tried candidates : 453, max depth : 137
+miliseconds used : 5
+
+solving seed : 435
+solver result : solved at move : 118, total boards : 880, outstanding candidates : 513, tried candidates : 366, max depth : 117
+miliseconds used : 5
+
+solving seed : 436
+solver result : solved at move : 134, total boards : 1193, outstanding candidates : 483, tried candidates : 709, max depth : 133
+miliseconds used : 8
+
+solving seed : 437
+solver result : solved at move : 109, total boards : 630, outstanding candidates : 485, tried candidates : 144, max depth : 108
+miliseconds used : 2
+
+solving seed : 438
+solver result : solved at move : 120, total boards : 672, outstanding candidates : 498, tried candidates : 173, max depth : 119
+miliseconds used : 3
+
+solving seed : 439
+solver result : solved at move : 110, total boards : 1205, outstanding candidates : 456, tried candidates : 748, max depth : 109
+miliseconds used : 7
+
+solving seed : 440
+solver result : solved at move : 189, total boards : 1774, outstanding candidates : 784, tried candidates : 989, max depth : 188
+miliseconds used : 12
+
+solving seed : 441
+solver result : solved at move : 99, total boards : 547, outstanding candidates : 401, tried candidates : 145, max depth : 98
+miliseconds used : 2
+
+solving seed : 442
+solver result : solved at move : 154, total boards : 2143, outstanding candidates : 474, tried candidates : 1668, max depth : 153
+miliseconds used : 16
+
+solving seed : 443
+solver result : solved at move : 154, total boards : 997, outstanding candidates : 756, tried candidates : 240, max depth : 153
+miliseconds used : 5
+
+solving seed : 444
+solver result : solved at move : 138, total boards : 1061, outstanding candidates : 531, tried candidates : 529, max depth : 137
+miliseconds used : 6
+
+solving seed : 445
+solver result : solved at move : 95, total boards : 731, outstanding candidates : 352, tried candidates : 378, max depth : 94
+miliseconds used : 4
+
+solving seed : 446
+solver result : solved at move : 129, total boards : 669, outstanding candidates : 475, tried candidates : 193, max depth : 128
+miliseconds used : 3
+
+solving seed : 447
+solver result : solved at move : 161, total boards : 1261, outstanding candidates : 715, tried candidates : 545, max depth : 160
+miliseconds used : 7
+
+solving seed : 448
+solver result : solved at move : 160, total boards : 3815, outstanding candidates : 545, tried candidates : 3269, max depth : 159
+miliseconds used : 34
+
+solving seed : 449
+solver result : solved at move : 88, total boards : 477, outstanding candidates : 363, tried candidates : 113, max depth : 87
+miliseconds used : 2
+
+solving seed : 450
+solver result : solved at move : 83, total boards : 370, outstanding candidates : 280, tried candidates : 89, max depth : 82
+miliseconds used : 1
+
+solving seed : 451
+solver result : solved at move : 282, total boards : 37311, outstanding candidates : 1013, tried candidates : 36297, max depth : 281
+miliseconds used : 460
+
+solving seed : 452
+solver result : solved at move : 77, total boards : 383, outstanding candidates : 289, tried candidates : 93, max depth : 76
+miliseconds used : 1
+
+solving seed : 453
+solver result : solved at move : 98, total boards : 1948, outstanding candidates : 379, tried candidates : 1568, max depth : 97
+miliseconds used : 15
+
+solving seed : 454
+solver result : unsolvable, total boards : 15732, outstanding candidates : 0, tried candidates : 15732, max depth : 91
+miliseconds used : 172
+
+solving seed : 455
+solver result : solved at move : 257, total boards : 2824, outstanding candidates : 1131, tried candidates : 1692, max depth : 256
+miliseconds used : 20
+
+solving seed : 456
+solver result : solved at move : 142, total boards : 1214, outstanding candidates : 580, tried candidates : 633, max depth : 141
+miliseconds used : 8
+
+solving seed : 457
+solver result : solved at move : 83, total boards : 795, outstanding candidates : 324, tried candidates : 470, max depth : 82
+miliseconds used : 4
+
+solving seed : 458
+solver result : solved at move : 87, total boards : 489, outstanding candidates : 333, tried candidates : 155, max depth : 86
+miliseconds used : 2
+
+solving seed : 459
+solver result : solved at move : 99, total boards : 534, outstanding candidates : 318, tried candidates : 215, max depth : 98
+miliseconds used : 3
+
+solving seed : 460
+solver result : solved at move : 125, total boards : 2002, outstanding candidates : 546, tried candidates : 1455, max depth : 124
+miliseconds used : 17
+
+solving seed : 461
+solver result : solved at move : 119, total boards : 1671, outstanding candidates : 471, tried candidates : 1199, max depth : 118
+miliseconds used : 11
+
+solving seed : 462
+solver result : solved at move : 70, total boards : 379, outstanding candidates : 308, tried candidates : 70, max depth : 69
+miliseconds used : 2
+
+solving seed : 463
+solver result : solved at move : 195, total boards : 14779, outstanding candidates : 674, tried candidates : 14104, max depth : 194
+miliseconds used : 158
+
+solving seed : 464
+solver result : solved at move : 102, total boards : 1116, outstanding candidates : 365, tried candidates : 750, max depth : 101
+miliseconds used : 7
+
+solving seed : 465
+solver result : solved at move : 166, total boards : 4971, outstanding candidates : 710, tried candidates : 4260, max depth : 182
+miliseconds used : 48
+
+solving seed : 466
+solver result : solved at move : 91, total boards : 421, outstanding candidates : 316, tried candidates : 104, max depth : 90
+miliseconds used : 2
+
+solving seed : 467
+solver result : solved at move : 86, total boards : 470, outstanding candidates : 364, tried candidates : 105, max depth : 85
+miliseconds used : 1
+
+solving seed : 468
+solver result : solved at move : 85, total boards : 439, outstanding candidates : 329, tried candidates : 109, max depth : 84
+miliseconds used : 2
+
+solving seed : 469
+solver result : solved at move : 118, total boards : 877, outstanding candidates : 373, tried candidates : 503, max depth : 117
+miliseconds used : 5
+
+solving seed : 470
+solver result : solved at move : 98, total boards : 548, outstanding candidates : 405, tried candidates : 142, max depth : 97
+miliseconds used : 3
+
+solving seed : 471
+solver result : solved at move : 105, total boards : 643, outstanding candidates : 392, tried candidates : 250, max depth : 104
+miliseconds used : 3
+
+solving seed : 472
+solver result : solved at move : 202, total boards : 6803, outstanding candidates : 698, tried candidates : 6104, max depth : 201
+miliseconds used : 64
+
+solving seed : 473
+solver result : solved at move : 97, total boards : 1128, outstanding candidates : 411, tried candidates : 716, max depth : 96
+miliseconds used : 7
+
+solving seed : 474
+solver result : solved at move : 114, total boards : 1220, outstanding candidates : 397, tried candidates : 822, max depth : 113
+miliseconds used : 9
+
+solving seed : 475
+solver result : solved at move : 84, total boards : 372, outstanding candidates : 229, tried candidates : 142, max depth : 83
+miliseconds used : 2
+
+solving seed : 476
+solver result : solved at move : 114, total boards : 1128, outstanding candidates : 408, tried candidates : 719, max depth : 113
+miliseconds used : 7
+
+solving seed : 477
+solver result : solved at move : 82, total boards : 590, outstanding candidates : 402, tried candidates : 187, max depth : 81
+miliseconds used : 2
+
+solving seed : 478
+solver result : solved at move : 129, total boards : 3308, outstanding candidates : 525, tried candidates : 2782, max depth : 128
+miliseconds used : 26
+
+solving seed : 479
+solver result : solved at move : 118, total boards : 692, outstanding candidates : 403, tried candidates : 288, max depth : 117
+miliseconds used : 4
+
+solving seed : 480
+solver result : solved at move : 123, total boards : 696, outstanding candidates : 438, tried candidates : 257, max depth : 122
+miliseconds used : 3
+
+solving seed : 481
+solver result : solved at move : 88, total boards : 485, outstanding candidates : 272, tried candidates : 212, max depth : 87
+miliseconds used : 2
+
+solving seed : 482
+solver result : solved at move : 175, total boards : 1580, outstanding candidates : 667, tried candidates : 912, max depth : 174
+miliseconds used : 11
+
+solving seed : 483
+solver result : solved at move : 103, total boards : 1642, outstanding candidates : 366, tried candidates : 1275, max depth : 102
+miliseconds used : 12
+
+solving seed : 484
+solver result : solved at move : 85, total boards : 679, outstanding candidates : 502, tried candidates : 176, max depth : 84
+miliseconds used : 3
+
+solving seed : 485
+solver result : solved at move : 142, total boards : 5350, outstanding candidates : 564, tried candidates : 4785, max depth : 289
+miliseconds used : 55
+
+solving seed : 486
+solver result : solved at move : 85, total boards : 418, outstanding candidates : 325, tried candidates : 92, max depth : 84
+miliseconds used : 2
+
+solving seed : 487
+solver result : solved at move : 161, total boards : 1070, outstanding candidates : 661, tried candidates : 408, max depth : 160
+miliseconds used : 5
+
+solving seed : 488
+solver result : solved at move : 150, total boards : 3912, outstanding candidates : 484, tried candidates : 3427, max depth : 149
+miliseconds used : 33
+
+solving seed : 489
+solver result : solved at move : 127, total boards : 746, outstanding candidates : 567, tried candidates : 178, max depth : 126
+miliseconds used : 4
+
+solving seed : 490
+solver result : solved at move : 102, total boards : 733, outstanding candidates : 318, tried candidates : 414, max depth : 101
+miliseconds used : 4
+
+solving seed : 491
+solver result : solved at move : 296, total boards : 1566, outstanding candidates : 921, tried candidates : 644, max depth : 295
+miliseconds used : 10
+
+solving seed : 492
+solver result : solved at move : 82, total boards : 428, outstanding candidates : 335, tried candidates : 92, max depth : 81
+miliseconds used : 1
+
+solving seed : 493
+solver result : solved at move : 143, total boards : 919, outstanding candidates : 464, tried candidates : 454, max depth : 142
+miliseconds used : 5
+
+solving seed : 494
+solver result : solved at move : 129, total boards : 1458, outstanding candidates : 482, tried candidates : 975, max depth : 128
+miliseconds used : 10
+
+solving seed : 495
+solver result : solved at move : 172, total boards : 4712, outstanding candidates : 634, tried candidates : 4077, max depth : 171
+miliseconds used : 49
+
+solving seed : 496
+solver result : solved at move : 114, total boards : 2123, outstanding candidates : 367, tried candidates : 1755, max depth : 113
+miliseconds used : 18
+
+solving seed : 497
+solver result : solved at move : 145, total boards : 833, outstanding candidates : 562, tried candidates : 270, max depth : 144
+miliseconds used : 4
+
+solving seed : 498
+solver result : solved at move : 130, total boards : 583, outstanding candidates : 429, tried candidates : 153, max depth : 129
+miliseconds used : 3
+
+solving seed : 499
+solver result : solved at move : 98, total boards : 1150, outstanding candidates : 403, tried candidates : 746, max depth : 97
+miliseconds used : 7
+
+solving seed : 500
+solver result : solved at move : 167, total boards : 1044, outstanding candidates : 640, tried candidates : 403, max depth : 166
+miliseconds used : 6
+
+solving seed : 501
+solver result : solved at move : 208, total boards : 2287, outstanding candidates : 588, tried candidates : 1698, max depth : 207
+miliseconds used : 19
+
+solving seed : 502
+solver result : solved at move : 90, total boards : 607, outstanding candidates : 312, tried candidates : 294, max depth : 89
+miliseconds used : 4
+
+solving seed : 503
+solver result : solved at move : 140, total boards : 1728, outstanding candidates : 530, tried candidates : 1197, max depth : 139
+miliseconds used : 11
+
+solving seed : 504
+solver result : solved at move : 99, total boards : 521, outstanding candidates : 402, tried candidates : 118, max depth : 98
+miliseconds used : 2
+
+solving seed : 505
+solver result : solved at move : 83, total boards : 756, outstanding candidates : 477, tried candidates : 278, max depth : 82
+miliseconds used : 4
+
+solving seed : 506
+solver result : solved at move : 85, total boards : 570, outstanding candidates : 355, tried candidates : 214, max depth : 84
+miliseconds used : 2
+
+solving seed : 507
+solver result : solved at move : 90, total boards : 474, outstanding candidates : 375, tried candidates : 98, max depth : 89
+miliseconds used : 2
+
+solving seed : 508
+solver result : solved at move : 94, total boards : 511, outstanding candidates : 377, tried candidates : 133, max depth : 93
+miliseconds used : 2
+
+solving seed : 509
+solver result : solved at move : 97, total boards : 512, outstanding candidates : 333, tried candidates : 178, max depth : 96
+miliseconds used : 3
+
+solving seed : 510
+solver result : solved at move : 90, total boards : 1870, outstanding candidates : 288, tried candidates : 1581, max depth : 89
+miliseconds used : 14
+
+solving seed : 511
+solver result : solved at move : 108, total boards : 1032, outstanding candidates : 481, tried candidates : 550, max depth : 107
+miliseconds used : 7
+
+solving seed : 512
+solver result : solved at move : 115, total boards : 5345, outstanding candidates : 407, tried candidates : 4937, max depth : 114
+miliseconds used : 46
+
+solving seed : 513
+solver result : solved at move : 135, total boards : 3907, outstanding candidates : 435, tried candidates : 3471, max depth : 134
+miliseconds used : 34
+
+solving seed : 514
+solver result : solved at move : 116, total boards : 2773, outstanding candidates : 505, tried candidates : 2267, max depth : 115
+miliseconds used : 20
+
+solving seed : 515
+solver result : solved at move : 246, total boards : 3814, outstanding candidates : 821, tried candidates : 2992, max depth : 245
+miliseconds used : 34
+
+solving seed : 516
+solver result : solved at move : 137, total boards : 1143, outstanding candidates : 462, tried candidates : 680, max depth : 136
+miliseconds used : 7
+
+solving seed : 517
+solver result : solved at move : 102, total boards : 1009, outstanding candidates : 375, tried candidates : 633, max depth : 101
+miliseconds used : 6
+
+solving seed : 518
+solver result : solved at move : 433, total boards : 19755, outstanding candidates : 1844, tried candidates : 17910, max depth : 432
+miliseconds used : 200
+
+solving seed : 519
+solver result : solved at move : 143, total boards : 3607, outstanding candidates : 522, tried candidates : 3084, max depth : 142
+miliseconds used : 31
+
+solving seed : 520
+solver result : solved at move : 86, total boards : 826, outstanding candidates : 363, tried candidates : 462, max depth : 85
+miliseconds used : 5
+
+solving seed : 521
+solver result : solved at move : 84, total boards : 421, outstanding candidates : 331, tried candidates : 89, max depth : 83
+miliseconds used : 2
+
+solving seed : 522
+solver result : solved at move : 118, total boards : 860, outstanding candidates : 498, tried candidates : 361, max depth : 117
+miliseconds used : 4
+
+solving seed : 523
+solver result : solved at move : 140, total boards : 1380, outstanding candidates : 619, tried candidates : 760, max depth : 139
+miliseconds used : 9
+
+solving seed : 524
+solver result : solved at move : 92, total boards : 798, outstanding candidates : 356, tried candidates : 441, max depth : 91
+miliseconds used : 5
+
+solving seed : 525
+solver result : solved at move : 91, total boards : 1378, outstanding candidates : 284, tried candidates : 1093, max depth : 90
+miliseconds used : 10
+
+solving seed : 526
+solver result : solved at move : 98, total boards : 1327, outstanding candidates : 403, tried candidates : 923, max depth : 97
+miliseconds used : 10
+
+solving seed : 527
+solver result : solved at move : 110, total boards : 1107, outstanding candidates : 417, tried candidates : 689, max depth : 109
+miliseconds used : 8
+
+solving seed : 528
+solver result : solved at move : 159, total boards : 956, outstanding candidates : 509, tried candidates : 446, max depth : 158
+miliseconds used : 5
+
+solving seed : 529
+solver result : solved at move : 105, total boards : 574, outstanding candidates : 427, tried candidates : 146, max depth : 104
+miliseconds used : 3
+
+solving seed : 530
+solver result : solved at move : 360, total boards : 18660, outstanding candidates : 1264, tried candidates : 17395, max depth : 359
+miliseconds used : 198
+
+solving seed : 531
+solver result : solved at move : 83, total boards : 425, outstanding candidates : 324, tried candidates : 100, max depth : 82
+miliseconds used : 2
+
+solving seed : 532
+solver result : solved at move : 132, total boards : 789, outstanding candidates : 466, tried candidates : 322, max depth : 131
+miliseconds used : 5
+
+solving seed : 533
+solver result : solved at move : 335, total boards : 7184, outstanding candidates : 1087, tried candidates : 6096, max depth : 334
+miliseconds used : 63
+
+solving seed : 534
+solver result : solved at move : 252, total boards : 2825, outstanding candidates : 930, tried candidates : 1894, max depth : 251
+miliseconds used : 23
+
+solving seed : 535
+solver result : solved at move : 149, total boards : 1408, outstanding candidates : 551, tried candidates : 856, max depth : 148
+miliseconds used : 11
+
+solving seed : 536
+solver result : solved at move : 129, total boards : 776, outstanding candidates : 546, tried candidates : 229, max depth : 128
+miliseconds used : 3
+
+solving seed : 537
+solver result : solved at move : 89, total boards : 1092, outstanding candidates : 358, tried candidates : 733, max depth : 88
+miliseconds used : 7
+
+solving seed : 538
+solver result : solved at move : 94, total boards : 459, outstanding candidates : 323, tried candidates : 135, max depth : 93
+miliseconds used : 2
+
+solving seed : 539
+solver result : solved at move : 156, total boards : 917, outstanding candidates : 588, tried candidates : 328, max depth : 155
+miliseconds used : 4
+
+solving seed : 540
+solver result : solved at move : 101, total boards : 664, outstanding candidates : 342, tried candidates : 321, max depth : 100
+miliseconds used : 4
+
+solving seed : 541
+solver result : solved at move : 143, total boards : 1198, outstanding candidates : 581, tried candidates : 616, max depth : 142
+miliseconds used : 7
+
+solving seed : 542
+solver result : solved at move : 87, total boards : 892, outstanding candidates : 317, tried candidates : 574, max depth : 86
+miliseconds used : 6
+
+solving seed : 543
+solver result : solved at move : 153, total boards : 1694, outstanding candidates : 540, tried candidates : 1153, max depth : 152
+miliseconds used : 13
+
+solving seed : 544
+solver result : solved at move : 92, total boards : 442, outstanding candidates : 277, tried candidates : 164, max depth : 91
+miliseconds used : 2
+
+solving seed : 545
+solver result : solved at move : 77, total boards : 325, outstanding candidates : 232, tried candidates : 92, max depth : 76
+miliseconds used : 1
+
+solving seed : 546
+solver result : solved at move : 174, total boards : 1538, outstanding candidates : 761, tried candidates : 776, max depth : 173
+miliseconds used : 10
+
+solving seed : 547
+solver result : solved at move : 136, total boards : 1239, outstanding candidates : 463, tried candidates : 775, max depth : 135
+miliseconds used : 9
+
+solving seed : 548
+solver result : solved at move : 89, total boards : 574, outstanding candidates : 360, tried candidates : 213, max depth : 88
+miliseconds used : 2
+
+solving seed : 549
+solver result : solved at move : 142, total boards : 1049, outstanding candidates : 485, tried candidates : 563, max depth : 141
+miliseconds used : 7
+
+solving seed : 550
+solver result : solved at move : 85, total boards : 350, outstanding candidates : 255, tried candidates : 94, max depth : 84
+miliseconds used : 1
+
+solving seed : 551
+solver result : solved at move : 104, total boards : 736, outstanding candidates : 515, tried candidates : 220, max depth : 103
+miliseconds used : 4
+
+solving seed : 552
+solver result : solved at move : 176, total boards : 1868, outstanding candidates : 755, tried candidates : 1112, max depth : 175
+miliseconds used : 14
+
+solving seed : 553
+solver result : solved at move : 180, total boards : 1023, outstanding candidates : 603, tried candidates : 419, max depth : 179
+miliseconds used : 6
+
+solving seed : 554
+solver result : solved at move : 101, total boards : 9792, outstanding candidates : 285, tried candidates : 9506, max depth : 342
+miliseconds used : 105
+
+solving seed : 555
+solver result : solved at move : 93, total boards : 765, outstanding candidates : 427, tried candidates : 337, max depth : 92
+miliseconds used : 4
+
+solving seed : 556
+solver result : solved at move : 86, total boards : 372, outstanding candidates : 266, tried candidates : 105, max depth : 85
+miliseconds used : 1
+
+solving seed : 557
+solver result : solved at move : 298, total boards : 2089, outstanding candidates : 1203, tried candidates : 885, max depth : 297
+miliseconds used : 15
+
+solving seed : 558
+solver result : solved at move : 169, total boards : 10912, outstanding candidates : 757, tried candidates : 10154, max depth : 843
+miliseconds used : 103
+
+solving seed : 559
+solver result : solved at move : 180, total boards : 108097, outstanding candidates : 759, tried candidates : 107337, max depth : 1244
+miliseconds used : 1380
+
+time used most : 1380 at seed : 559
+
+solving seed : 560
+solver result : solved at move : 108, total boards : 506, outstanding candidates : 354, tried candidates : 151, max depth : 107
+miliseconds used : 2
+
+solving seed : 561
+solver result : solved at move : 112, total boards : 1887, outstanding candidates : 471, tried candidates : 1415, max depth : 111
+miliseconds used : 13
+
+solving seed : 562
+solver result : solved at move : 112, total boards : 1277, outstanding candidates : 479, tried candidates : 797, max depth : 111
+miliseconds used : 9
+
+solving seed : 563
+solver result : solved at move : 138, total boards : 963, outstanding candidates : 501, tried candidates : 461, max depth : 137
+miliseconds used : 5
+
+solving seed : 564
+solver result : solved at move : 95, total boards : 546, outstanding candidates : 382, tried candidates : 163, max depth : 94
+miliseconds used : 3
+
+solving seed : 565
+solver result : solved at move : 155, total boards : 3049, outstanding candidates : 568, tried candidates : 2480, max depth : 154
+miliseconds used : 23
+
+solving seed : 566
+solver result : solved at move : 115, total boards : 915, outstanding candidates : 455, tried candidates : 459, max depth : 114
+miliseconds used : 5
+
+solving seed : 567
+solver result : solved at move : 151, total boards : 1691, outstanding candidates : 559, tried candidates : 1131, max depth : 150
+miliseconds used : 11
+
+solving seed : 568
+solver result : solved at move : 153, total boards : 939, outstanding candidates : 568, tried candidates : 370, max depth : 152
+miliseconds used : 6
+
+solving seed : 569
+solver result : solved at move : 98, total boards : 799, outstanding candidates : 302, tried candidates : 496, max depth : 97
+miliseconds used : 4
+
+solving seed : 570
+solver result : solved at move : 97, total boards : 460, outstanding candidates : 338, tried candidates : 121, max depth : 96
+miliseconds used : 2
+
+solving seed : 571
+solver result : solved at move : 132, total boards : 1608, outstanding candidates : 648, tried candidates : 959, max depth : 131
+miliseconds used : 10
+
+solving seed : 572
+solver result : solved at move : 170, total boards : 1837, outstanding candidates : 668, tried candidates : 1168, max depth : 169
+miliseconds used : 12
+
+solving seed : 573
+solver result : solved at move : 133, total boards : 6104, outstanding candidates : 453, tried candidates : 5650, max depth : 132
+miliseconds used : 49
+
+solving seed : 574
+solver result : solved at move : 100, total boards : 558, outstanding candidates : 430, tried candidates : 127, max depth : 99
+miliseconds used : 2
+
+solving seed : 575
+solver result : unsolvable, total boards : 1775, outstanding candidates : 0, tried candidates : 1775, max depth : 26
+miliseconds used : 15
+
+solving seed : 576
+solver result : solved at move : 100, total boards : 752, outstanding candidates : 331, tried candidates : 420, max depth : 99
+miliseconds used : 4
+
+solving seed : 577
+solver result : solved at move : 114, total boards : 3787, outstanding candidates : 288, tried candidates : 3498, max depth : 113
+miliseconds used : 30
+
+solving seed : 578
+solver result : solved at move : 193, total boards : 1748, outstanding candidates : 807, tried candidates : 940, max depth : 192
+miliseconds used : 12
+
+solving seed : 579
+solver result : solved at move : 257, total boards : 5731, outstanding candidates : 1048, tried candidates : 4682, max depth : 256
+miliseconds used : 54
+
+solving seed : 580
+solver result : solved at move : 102, total boards : 500, outstanding candidates : 327, tried candidates : 172, max depth : 101
+miliseconds used : 2
+
+solving seed : 581
+solver result : solved at move : 139, total boards : 1393, outstanding candidates : 596, tried candidates : 796, max depth : 138
+miliseconds used : 8
+
+solving seed : 582
+solver result : solved at move : 95, total boards : 523, outstanding candidates : 394, tried candidates : 128, max depth : 94
+miliseconds used : 3
+
+solving seed : 583
+solver result : solved at move : 115, total boards : 722, outstanding candidates : 451, tried candidates : 270, max depth : 114
+miliseconds used : 3
+
+solving seed : 584
+solver result : solved at move : 136, total boards : 1028, outstanding candidates : 490, tried candidates : 537, max depth : 135
+miliseconds used : 5
+
+solving seed : 585
+solver result : solved at move : 142, total boards : 4372, outstanding candidates : 530, tried candidates : 3841, max depth : 141
+miliseconds used : 34
+
+solving seed : 586
+solver result : solved at move : 89, total boards : 392, outstanding candidates : 293, tried candidates : 98, max depth : 88
+miliseconds used : 2
+
+solving seed : 587
+solver result : solved at move : 121, total boards : 959, outstanding candidates : 474, tried candidates : 484, max depth : 120
+miliseconds used : 5
+
+solving seed : 588
+solver result : solved at move : 531, total boards : 19499, outstanding candidates : 1775, tried candidates : 17723, max depth : 1271
+miliseconds used : 219
+
+solving seed : 589
+solver result : solved at move : 92, total boards : 533, outstanding candidates : 412, tried candidates : 120, max depth : 91
+miliseconds used : 2
+
+solving seed : 590
+solver result : solved at move : 98, total boards : 3551, outstanding candidates : 282, tried candidates : 3268, max depth : 97
+miliseconds used : 27
+
+solving seed : 591
+solver result : solved at move : 78, total boards : 439, outstanding candidates : 352, tried candidates : 86, max depth : 77
+miliseconds used : 2
+
+solving seed : 592
+solver result : solved at move : 122, total boards : 3901, outstanding candidates : 387, tried candidates : 3513, max depth : 225
+miliseconds used : 32
+
+solving seed : 593
+solver result : solved at move : 93, total boards : 521, outstanding candidates : 381, tried candidates : 139, max depth : 92
+miliseconds used : 2
+
+solving seed : 594
+solver result : solved at move : 165, total boards : 2383, outstanding candidates : 695, tried candidates : 1687, max depth : 164
+miliseconds used : 16
+
+solving seed : 595
+solver result : solved at move : 98, total boards : 1288, outstanding candidates : 359, tried candidates : 928, max depth : 97
+miliseconds used : 10
+
+solving seed : 596
+solver result : solved at move : 137, total boards : 884, outstanding candidates : 589, tried candidates : 294, max depth : 136
+miliseconds used : 4
+
+solving seed : 597
+solver result : solved at move : 113, total boards : 1142, outstanding candidates : 332, tried candidates : 809, max depth : 112
+miliseconds used : 8
+
+solving seed : 598
+solver result : unsolvable, total boards : 10796, outstanding candidates : 0, tried candidates : 10796, max depth : 90
+miliseconds used : 118
+
+solving seed : 599
+solver result : solved at move : 98, total boards : 705, outstanding candidates : 319, tried candidates : 385, max depth : 97
+miliseconds used : 4
+
+solving seed : 600
+solver result : solved at move : 134, total boards : 849, outstanding candidates : 455, tried candidates : 393, max depth : 133
+miliseconds used : 5
+
+solving seed : 601
+solver result : solved at move : 87, total boards : 538, outstanding candidates : 405, tried candidates : 132, max depth : 86
+miliseconds used : 2
+
+solving seed : 602
+solver result : solved at move : 110, total boards : 929, outstanding candidates : 389, tried candidates : 539, max depth : 109
+miliseconds used : 6
+
+solving seed : 603
+solver result : solved at move : 165, total boards : 835, outstanding candidates : 551, tried candidates : 283, max depth : 164
+miliseconds used : 4
+
+solving seed : 604
+solver result : solved at move : 110, total boards : 573, outstanding candidates : 401, tried candidates : 171, max depth : 109
+miliseconds used : 3
+
+solving seed : 605
+solver result : solved at move : 90, total boards : 623, outstanding candidates : 501, tried candidates : 121, max depth : 89
+miliseconds used : 2
+
+solving seed : 606
+solver result : solved at move : 148, total boards : 1748, outstanding candidates : 718, tried candidates : 1029, max depth : 147
+miliseconds used : 12
+
+solving seed : 607
+solver result : solved at move : 137, total boards : 1144, outstanding candidates : 528, tried candidates : 615, max depth : 136
+miliseconds used : 6
+
+solving seed : 608
+solver result : solved at move : 241, total boards : 2948, outstanding candidates : 881, tried candidates : 2066, max depth : 240
+miliseconds used : 24
+
+solving seed : 609
+solver result : solved at move : 90, total boards : 468, outstanding candidates : 350, tried candidates : 117, max depth : 89
+miliseconds used : 2
+
+solving seed : 610
+solver result : solved at move : 111, total boards : 29959, outstanding candidates : 450, tried candidates : 29508, max depth : 110
+miliseconds used : 282
+
+solving seed : 611
+solver result : solved at move : 100, total boards : 1605, outstanding candidates : 438, tried candidates : 1166, max depth : 99
+miliseconds used : 16
+
+solving seed : 612
+solver result : solved at move : 98, total boards : 1421, outstanding candidates : 393, tried candidates : 1027, max depth : 97
+miliseconds used : 10
+
+solving seed : 613
+solver result : solved at move : 120, total boards : 956, outstanding candidates : 476, tried candidates : 479, max depth : 119
+miliseconds used : 6
+
+solving seed : 614
+solver result : solved at move : 101, total boards : 473, outstanding candidates : 352, tried candidates : 120, max depth : 100
+miliseconds used : 2
+
+solving seed : 615
+solver result : solved at move : 134, total boards : 676, outstanding candidates : 438, tried candidates : 237, max depth : 133
+miliseconds used : 3
+
+solving seed : 616
+solver result : solved at move : 91, total boards : 517, outstanding candidates : 373, tried candidates : 143, max depth : 90
+miliseconds used : 2
+
+solving seed : 617
+solver result : unsolvable, total boards : 9741, outstanding candidates : 0, tried candidates : 9741, max depth : 32
+miliseconds used : 118
+
+solving seed : 618
+solver result : solved at move : 134, total boards : 1436, outstanding candidates : 414, tried candidates : 1021, max depth : 133
+miliseconds used : 9
+
+solving seed : 619
+solver result : solved at move : 129, total boards : 4622, outstanding candidates : 545, tried candidates : 4076, max depth : 128
+miliseconds used : 41
+
+solving seed : 620
+solver result : solved at move : 118, total boards : 804, outstanding candidates : 447, tried candidates : 356, max depth : 117
+miliseconds used : 4
+
+solving seed : 621
+solver result : solved at move : 94, total boards : 483, outstanding candidates : 304, tried candidates : 178, max depth : 93
+miliseconds used : 2
+
+solving seed : 622
+solver result : solved at move : 445, total boards : 16599, outstanding candidates : 1641, tried candidates : 14957, max depth : 444
+miliseconds used : 171
+
+solving seed : 623
+solver result : solved at move : 106, total boards : 648, outstanding candidates : 391, tried candidates : 256, max depth : 105
+miliseconds used : 3
+
+solving seed : 624
+solver result : solved at move : 97, total boards : 624, outstanding candidates : 383, tried candidates : 240, max depth : 96
+miliseconds used : 3
+
+solving seed : 625
+solver result : solved at move : 93, total boards : 541, outstanding candidates : 421, tried candidates : 119, max depth : 92
+miliseconds used : 2
+
+solving seed : 626
+solver result : solved at move : 79, total boards : 613, outstanding candidates : 329, tried candidates : 283, max depth : 78
+miliseconds used : 4
+
+solving seed : 627
+solver result : solved at move : 220, total boards : 12128, outstanding candidates : 924, tried candidates : 11203, max depth : 219
+miliseconds used : 110
+
+solving seed : 628
+solver result : solved at move : 93, total boards : 648, outstanding candidates : 289, tried candidates : 358, max depth : 92
+miliseconds used : 4
+
+solving seed : 629
+solver result : solved at move : 98, total boards : 548, outstanding candidates : 339, tried candidates : 208, max depth : 97
+miliseconds used : 3
+
+solving seed : 630
+solver result : solved at move : 82, total boards : 489, outstanding candidates : 388, tried candidates : 100, max depth : 81
+miliseconds used : 2
+
+solving seed : 631
+solver result : solved at move : 148, total boards : 1579, outstanding candidates : 514, tried candidates : 1064, max depth : 147
+miliseconds used : 11
+
+solving seed : 632
+solver result : solved at move : 136, total boards : 9139, outstanding candidates : 610, tried candidates : 8528, max depth : 502
+miliseconds used : 102
+
+solving seed : 633
+solver result : solved at move : 113, total boards : 581, outstanding candidates : 417, tried candidates : 163, max depth : 112
+miliseconds used : 2
+
+solving seed : 634
+solver result : solved at move : 125, total boards : 1837, outstanding candidates : 416, tried candidates : 1420, max depth : 125
+miliseconds used : 15
+
+solving seed : 635
+solver result : solved at move : 118, total boards : 1149, outstanding candidates : 509, tried candidates : 639, max depth : 117
+miliseconds used : 7
+
+solving seed : 636
+solver result : solved at move : 119, total boards : 697, outstanding candidates : 526, tried candidates : 170, max depth : 118
+miliseconds used : 4
+
+solving seed : 637
+solver result : solved at move : 91, total boards : 764, outstanding candidates : 242, tried candidates : 521, max depth : 90
+miliseconds used : 4
+
+solving seed : 638
+solver result : solved at move : 216, total boards : 4158, outstanding candidates : 865, tried candidates : 3292, max depth : 215
+miliseconds used : 37
+
+solving seed : 639
+solver result : solved at move : 101, total boards : 494, outstanding candidates : 347, tried candidates : 146, max depth : 100
+miliseconds used : 2
+
+solving seed : 640
+solver result : solved at move : 87, total boards : 381, outstanding candidates : 272, tried candidates : 108, max depth : 86
+miliseconds used : 1
+
+solving seed : 641
+solver result : solved at move : 200, total boards : 1371, outstanding candidates : 805, tried candidates : 565, max depth : 199
+miliseconds used : 9
+
+solving seed : 642
+solver result : solved at move : 181, total boards : 2302, outstanding candidates : 690, tried candidates : 1611, max depth : 180
+miliseconds used : 17
+
+solving seed : 643
+solver result : solved at move : 98, total boards : 617, outstanding candidates : 483, tried candidates : 133, max depth : 97
+miliseconds used : 3
+
+solving seed : 644
+solver result : solved at move : 101, total boards : 579, outstanding candidates : 330, tried candidates : 248, max depth : 100
+miliseconds used : 2
+
+solving seed : 645
+solver result : solved at move : 88, total boards : 403, outstanding candidates : 304, tried candidates : 98, max depth : 87
+miliseconds used : 2
+
+solving seed : 646
+solver result : solved at move : 93, total boards : 542, outstanding candidates : 387, tried candidates : 154, max depth : 92
+miliseconds used : 3
+
+solving seed : 647
+solver result : solved at move : 106, total boards : 619, outstanding candidates : 413, tried candidates : 205, max depth : 105
+miliseconds used : 2
+
+solving seed : 648
+solver result : solved at move : 92, total boards : 599, outstanding candidates : 362, tried candidates : 236, max depth : 91
+miliseconds used : 3
+
+solving seed : 649
+solver result : solved at move : 121, total boards : 816, outstanding candidates : 399, tried candidates : 416, max depth : 120
+miliseconds used : 5
+
+solving seed : 650
+solver result : solved at move : 95, total boards : 757, outstanding candidates : 334, tried candidates : 422, max depth : 94
+miliseconds used : 5
+
+solving seed : 651
+solver result : solved at move : 141, total boards : 44208, outstanding candidates : 493, tried candidates : 43714, max depth : 718
+miliseconds used : 445
+
+solving seed : 652
+solver result : solved at move : 162, total boards : 1596, outstanding candidates : 664, tried candidates : 931, max depth : 161
+miliseconds used : 10
+
+solving seed : 653
+solver result : solved at move : 88, total boards : 469, outstanding candidates : 349, tried candidates : 119, max depth : 87
+miliseconds used : 2
+
+solving seed : 654
+solver result : solved at move : 101, total boards : 3911, outstanding candidates : 300, tried candidates : 3610, max depth : 100
+miliseconds used : 37
+
+solving seed : 655
+solver result : solved at move : 77, total boards : 343, outstanding candidates : 232, tried candidates : 110, max depth : 76
+miliseconds used : 1
+
+solving seed : 656
+solver result : solved at move : 121, total boards : 1334, outstanding candidates : 424, tried candidates : 909, max depth : 120
+miliseconds used : 9
+
+solving seed : 657
+solver result : unsolvable, total boards : 1012, outstanding candidates : 0, tried candidates : 1012, max depth : 19
+miliseconds used : 8
+
+solving seed : 658
+solver result : solved at move : 126, total boards : 2776, outstanding candidates : 482, tried candidates : 2293, max depth : 125
+miliseconds used : 23
+
+solving seed : 659
+solver result : solved at move : 123, total boards : 801, outstanding candidates : 450, tried candidates : 350, max depth : 122
+miliseconds used : 4
+
+solving seed : 660
+solver result : solved at move : 163, total boards : 1643, outstanding candidates : 659, tried candidates : 983, max depth : 162
+miliseconds used : 12
+
+solving seed : 661
+solver result : solved at move : 114, total boards : 37545, outstanding candidates : 439, tried candidates : 37105, max depth : 383
+miliseconds used : 438
+
+solving seed : 662
+solver result : solved at move : 89, total boards : 465, outstanding candidates : 364, tried candidates : 100, max depth : 88
+miliseconds used : 2
+
+solving seed : 663
+solver result : solved at move : 157, total boards : 1511, outstanding candidates : 541, tried candidates : 969, max depth : 156
+miliseconds used : 11
+
+solving seed : 664
+solver result : solved at move : 121, total boards : 803, outstanding candidates : 516, tried candidates : 286, max depth : 120
+miliseconds used : 4
+
+solving seed : 665
+solver result : solved at move : 114, total boards : 590, outstanding candidates : 383, tried candidates : 206, max depth : 113
+miliseconds used : 3
+
+solving seed : 666
+solver result : solved at move : 170, total boards : 1719, outstanding candidates : 699, tried candidates : 1019, max depth : 169
+miliseconds used : 11
+
+solving seed : 667
+solver result : solved at move : 116, total boards : 1340, outstanding candidates : 319, tried candidates : 1020, max depth : 115
+miliseconds used : 10
+
+solving seed : 668
+solver result : solved at move : 86, total boards : 480, outstanding candidates : 376, tried candidates : 103, max depth : 85
+miliseconds used : 2
+
+solving seed : 669
+solver result : solved at move : 127, total boards : 7759, outstanding candidates : 332, tried candidates : 7426, max depth : 126
+miliseconds used : 68
+
+solving seed : 670
+solver result : solved at move : 90, total boards : 441, outstanding candidates : 298, tried candidates : 142, max depth : 89
+miliseconds used : 1
+
+solving seed : 671
+solver result : solved at move : 120, total boards : 826, outstanding candidates : 543, tried candidates : 282, max depth : 119
+miliseconds used : 4
+
+solving seed : 672
+solver result : solved at move : 468, total boards : 10719, outstanding candidates : 1688, tried candidates : 9030, max depth : 467
+miliseconds used : 111
+
+solving seed : 673
+solver result : solved at move : 88, total boards : 427, outstanding candidates : 334, tried candidates : 92, max depth : 87
+miliseconds used : 2
+
+solving seed : 674
+solver result : solved at move : 95, total boards : 571, outstanding candidates : 424, tried candidates : 146, max depth : 94
+miliseconds used : 3
+
+solving seed : 675
+solver result : solved at move : 107, total boards : 949, outstanding candidates : 430, tried candidates : 518, max depth : 106
+miliseconds used : 5
+
+solving seed : 676
+solver result : solved at move : 123, total boards : 3471, outstanding candidates : 562, tried candidates : 2908, max depth : 122
+miliseconds used : 31
+
+solving seed : 677
+solver result : solved at move : 106, total boards : 913, outstanding candidates : 417, tried candidates : 495, max depth : 105
+miliseconds used : 5
+
+solving seed : 678
+solver result : solved at move : 83, total boards : 406, outstanding candidates : 306, tried candidates : 99, max depth : 82
+miliseconds used : 2
+
+solving seed : 679
+solver result : solved at move : 100, total boards : 494, outstanding candidates : 362, tried candidates : 131, max depth : 99
+miliseconds used : 2
+
+solving seed : 680
+solver result : solved at move : 142, total boards : 40787, outstanding candidates : 615, tried candidates : 40171, max depth : 265
+miliseconds used : 446
+
+solving seed : 681
+solver result : solved at move : 177, total boards : 1061, outstanding candidates : 676, tried candidates : 384, max depth : 176
+miliseconds used : 6
+
+solving seed : 682
+solver result : solved at move : 109, total boards : 721, outstanding candidates : 436, tried candidates : 284, max depth : 108
+miliseconds used : 4
+
+solving seed : 683
+solver result : solved at move : 123, total boards : 658, outstanding candidates : 415, tried candidates : 242, max depth : 122
+miliseconds used : 3
+
+solving seed : 684
+solver result : solved at move : 98, total boards : 414, outstanding candidates : 303, tried candidates : 110, max depth : 97
+miliseconds used : 2
+
+solving seed : 685
+solver result : solved at move : 160, total boards : 1521, outstanding candidates : 569, tried candidates : 951, max depth : 159
+miliseconds used : 11
+
+solving seed : 686
+solver result : solved at move : 93, total boards : 490, outstanding candidates : 339, tried candidates : 150, max depth : 92
+miliseconds used : 2
+
+solving seed : 687
+solver result : solved at move : 196, total boards : 1147, outstanding candidates : 718, tried candidates : 428, max depth : 195
+miliseconds used : 6
+
+solving seed : 688
+solver result : solved at move : 83, total boards : 321, outstanding candidates : 217, tried candidates : 103, max depth : 82
+miliseconds used : 1
+
+solving seed : 689
+solver result : solved at move : 73, total boards : 371, outstanding candidates : 271, tried candidates : 99, max depth : 72
+miliseconds used : 2
+
+solving seed : 690
+solver result : solved at move : 98, total boards : 508, outstanding candidates : 293, tried candidates : 214, max depth : 97
+miliseconds used : 2
+
+solving seed : 691
+solver result : solved at move : 120, total boards : 5286, outstanding candidates : 485, tried candidates : 4800, max depth : 119
+miliseconds used : 54
+
+solving seed : 692
+solver result : solved at move : 210, total boards : 5300, outstanding candidates : 805, tried candidates : 4494, max depth : 209
+miliseconds used : 47
+
+solving seed : 693
+solver result : solved at move : 100, total boards : 682, outstanding candidates : 472, tried candidates : 209, max depth : 99
+miliseconds used : 3
+
+solving seed : 694
+solver result : solved at move : 117, total boards : 2010, outstanding candidates : 489, tried candidates : 1520, max depth : 116
+miliseconds used : 16
+
+solving seed : 695
+solver result : solved at move : 124, total boards : 1621, outstanding candidates : 503, tried candidates : 1117, max depth : 123
+miliseconds used : 12
+
+solving seed : 696
+solver result : solved at move : 99, total boards : 454, outstanding candidates : 294, tried candidates : 159, max depth : 98
+miliseconds used : 2
+
+solving seed : 697
+solver result : solved at move : 152, total boards : 57892, outstanding candidates : 510, tried candidates : 57381, max depth : 169
+miliseconds used : 775
+
+solving seed : 698
+solver result : solved at move : 98, total boards : 1954, outstanding candidates : 334, tried candidates : 1619, max depth : 97
+miliseconds used : 13
+
+solving seed : 699
+solver result : solved at move : 251, total boards : 4130, outstanding candidates : 846, tried candidates : 3283, max depth : 250
+miliseconds used : 39
+
+solving seed : 700
+solver result : solved at move : 124, total boards : 1649, outstanding candidates : 482, tried candidates : 1166, max depth : 123
+miliseconds used : 13
+
+solving seed : 701
+solver result : solved at move : 109, total boards : 1908, outstanding candidates : 326, tried candidates : 1581, max depth : 108
+miliseconds used : 16
+
+solving seed : 702
+solver result : solved at move : 90, total boards : 482, outstanding candidates : 331, tried candidates : 150, max depth : 89
+miliseconds used : 2
+
+solving seed : 703
+solver result : solved at move : 102, total boards : 602, outstanding candidates : 389, tried candidates : 212, max depth : 101
+miliseconds used : 3
+
+solving seed : 704
+solver result : solved at move : 138, total boards : 878, outstanding candidates : 590, tried candidates : 287, max depth : 137
+miliseconds used : 4
+
+solving seed : 705
+solver result : solved at move : 286, total boards : 11811, outstanding candidates : 1042, tried candidates : 10768, max depth : 285
+miliseconds used : 118
+
+solving seed : 706
+solver result : solved at move : 115, total boards : 599, outstanding candidates : 457, tried candidates : 141, max depth : 114
+miliseconds used : 3
+
+solving seed : 707
+solver result : solved at move : 96, total boards : 627, outstanding candidates : 464, tried candidates : 162, max depth : 95
+miliseconds used : 2
+
+solving seed : 708
+solver result : solved at move : 93, total boards : 517, outstanding candidates : 338, tried candidates : 178, max depth : 92
+miliseconds used : 3
+
+solving seed : 709
+solver result : solved at move : 86, total boards : 367, outstanding candidates : 265, tried candidates : 101, max depth : 85
+miliseconds used : 1
+
+solving seed : 710
+solver result : solved at move : 111, total boards : 663, outstanding candidates : 493, tried candidates : 169, max depth : 110
+miliseconds used : 3
+
+solving seed : 711
+solver result : solved at move : 130, total boards : 897, outstanding candidates : 389, tried candidates : 507, max depth : 129
+miliseconds used : 5
+
+solving seed : 712
+solver result : solved at move : 107, total boards : 841, outstanding candidates : 421, tried candidates : 419, max depth : 106
+miliseconds used : 13
+
+solving seed : 713
+solver result : solved at move : 123, total boards : 796, outstanding candidates : 524, tried candidates : 271, max depth : 122
+miliseconds used : 5
+
+solving seed : 714
+solver result : solved at move : 71, total boards : 366, outstanding candidates : 284, tried candidates : 81, max depth : 70
+miliseconds used : 1
+
+solving seed : 715
+solver result : solved at move : 98, total boards : 1137, outstanding candidates : 255, tried candidates : 881, max depth : 97
+miliseconds used : 10
+
+solving seed : 716
+solver result : solved at move : 82, total boards : 1821, outstanding candidates : 305, tried candidates : 1515, max depth : 81
+miliseconds used : 14
+
+solving seed : 717
+solver result : solved at move : 93, total boards : 492, outstanding candidates : 324, tried candidates : 167, max depth : 92
+miliseconds used : 2
+
+solving seed : 718
+solver result : solved at move : 126, total boards : 4873, outstanding candidates : 385, tried candidates : 4487, max depth : 125
+miliseconds used : 48
+
+solving seed : 719
+solver result : solved at move : 136, total boards : 1152, outstanding candidates : 515, tried candidates : 636, max depth : 135
+miliseconds used : 6
+
+solving seed : 720
+solver result : solved at move : 324, total boards : 15143, outstanding candidates : 1579, tried candidates : 13563, max depth : 323
+miliseconds used : 152
+
+solving seed : 721
+solver result : solved at move : 190, total boards : 2410, outstanding candidates : 936, tried candidates : 1473, max depth : 189
+miliseconds used : 18
+
+solving seed : 722
+solver result : solved at move : 112, total boards : 723, outstanding candidates : 482, tried candidates : 240, max depth : 111
+miliseconds used : 3
+
+solving seed : 723
+solver result : solved at move : 122, total boards : 708, outstanding candidates : 417, tried candidates : 290, max depth : 121
+miliseconds used : 4
+
+solving seed : 724
+solver result : solved at move : 106, total boards : 544, outstanding candidates : 385, tried candidates : 158, max depth : 105
+miliseconds used : 2
+
+solving seed : 725
+solver result : solved at move : 356, total boards : 25292, outstanding candidates : 1025, tried candidates : 24266, max depth : 358
+miliseconds used : 306
+
+solving seed : 726
+solver result : solved at move : 735, total boards : 11153, outstanding candidates : 3781, tried candidates : 7371, max depth : 734
+miliseconds used : 78
+
+solving seed : 727
+solver result : solved at move : 142, total boards : 3160, outstanding candidates : 668, tried candidates : 2491, max depth : 141
+miliseconds used : 28
+
+solving seed : 728
+solver result : solved at move : 108, total boards : 929, outstanding candidates : 439, tried candidates : 489, max depth : 107
+miliseconds used : 5
+
+solving seed : 729
+solver result : solved at move : 126, total boards : 4807, outstanding candidates : 541, tried candidates : 4265, max depth : 166
+miliseconds used : 42
+
+solving seed : 730
+solver result : solved at move : 118, total boards : 674, outstanding candidates : 390, tried candidates : 283, max depth : 117
+miliseconds used : 4
+
+solving seed : 731
+solver result : solved at move : 94, total boards : 564, outstanding candidates : 446, tried candidates : 117, max depth : 93
+miliseconds used : 2
+
+solving seed : 732
+solver result : solved at move : 94, total boards : 588, outstanding candidates : 235, tried candidates : 352, max depth : 93
+miliseconds used : 4
+
+solving seed : 733
+solver result : solved at move : 110, total boards : 760, outstanding candidates : 460, tried candidates : 299, max depth : 109
+miliseconds used : 4
+
+solving seed : 734
+solver result : solved at move : 83, total boards : 318, outstanding candidates : 228, tried candidates : 89, max depth : 82
+miliseconds used : 1
+
+solving seed : 735
+solver result : solved at move : 119, total boards : 643, outstanding candidates : 485, tried candidates : 157, max depth : 118
+miliseconds used : 3
+
+solving seed : 736
+solver result : solved at move : 209, total boards : 3927, outstanding candidates : 844, tried candidates : 3082, max depth : 208
+miliseconds used : 33
+
+solving seed : 737
+solver result : solved at move : 95, total boards : 1019, outstanding candidates : 328, tried candidates : 690, max depth : 94
+miliseconds used : 7
+
+solving seed : 738
+solver result : solved at move : 308, total boards : 45226, outstanding candidates : 1316, tried candidates : 43909, max depth : 735
+miliseconds used : 582
+
+solving seed : 739
+solver result : solved at move : 151, total boards : 7998, outstanding candidates : 502, tried candidates : 7495, max depth : 213
+miliseconds used : 78
+
+solving seed : 740
+solver result : solved at move : 102, total boards : 1616, outstanding candidates : 259, tried candidates : 1356, max depth : 101
+miliseconds used : 14
+
+solving seed : 741
+solver result : solved at move : 90, total boards : 956, outstanding candidates : 415, tried candidates : 540, max depth : 89
+miliseconds used : 5
+
+solving seed : 742
+solver result : solved at move : 164, total boards : 2661, outstanding candidates : 619, tried candidates : 2041, max depth : 163
+miliseconds used : 20
+
+solving seed : 743
+solver result : solved at move : 99, total boards : 539, outstanding candidates : 422, tried candidates : 116, max depth : 98
+miliseconds used : 2
+
+solving seed : 744
+solver result : solved at move : 155, total boards : 2133, outstanding candidates : 534, tried candidates : 1598, max depth : 154
+miliseconds used : 17
+
+solving seed : 745
+solver result : solved at move : 107, total boards : 959, outstanding candidates : 342, tried candidates : 616, max depth : 106
+miliseconds used : 7
+
+solving seed : 746
+solver result : solved at move : 118, total boards : 3059, outstanding candidates : 464, tried candidates : 2594, max depth : 117
+miliseconds used : 45
+
+solving seed : 747
+solver result : solved at move : 232, total boards : 3273, outstanding candidates : 1020, tried candidates : 2252, max depth : 231
+miliseconds used : 22
+
+solving seed : 748
+solver result : solved at move : 86, total boards : 497, outstanding candidates : 355, tried candidates : 141, max depth : 85
+miliseconds used : 2
+
+solving seed : 749
+solver result : solved at move : 305, total boards : 14878, outstanding candidates : 1193, tried candidates : 13684, max depth : 454
+miliseconds used : 140
+
+solving seed : 750
+solver result : solved at move : 96, total boards : 531, outstanding candidates : 402, tried candidates : 128, max depth : 95
+miliseconds used : 2
+
+solving seed : 751
+solver result : solved at move : 80, total boards : 348, outstanding candidates : 252, tried candidates : 95, max depth : 79
+miliseconds used : 2
+
+solving seed : 752
+solver result : solved at move : 102, total boards : 2104, outstanding candidates : 327, tried candidates : 1776, max depth : 101
+miliseconds used : 18
+
+solving seed : 753
+solver result : solved at move : 101, total boards : 1373, outstanding candidates : 436, tried candidates : 936, max depth : 100
+miliseconds used : 9
+
+solving seed : 754
+solver result : solved at move : 135, total boards : 3159, outstanding candidates : 591, tried candidates : 2567, max depth : 134
+miliseconds used : 31
+
+solving seed : 755
+solver result : solved at move : 123, total boards : 706, outstanding candidates : 519, tried candidates : 186, max depth : 122
+miliseconds used : 3
+
+solving seed : 756
+solver result : solved at move : 86, total boards : 433, outstanding candidates : 309, tried candidates : 123, max depth : 85
+miliseconds used : 2
+
+solving seed : 757
+solver result : solved at move : 96, total boards : 593, outstanding candidates : 406, tried candidates : 186, max depth : 95
+miliseconds used : 2
+
+solving seed : 758
+solver result : solved at move : 153, total boards : 3831, outstanding candidates : 499, tried candidates : 3331, max depth : 197
+miliseconds used : 34
+
+solving seed : 759
+solver result : solved at move : 93, total boards : 563, outstanding candidates : 434, tried candidates : 128, max depth : 92
+miliseconds used : 2
+
+solving seed : 760
+solver result : solved at move : 162, total boards : 1924, outstanding candidates : 594, tried candidates : 1329, max depth : 161
+miliseconds used : 17
+
+solving seed : 761
+solver result : solved at move : 97, total boards : 462, outstanding candidates : 353, tried candidates : 108, max depth : 96
+miliseconds used : 2
+
+solving seed : 762
+solver result : solved at move : 129, total boards : 803, outstanding candidates : 447, tried candidates : 355, max depth : 128
+miliseconds used : 8
+
+solving seed : 763
+solver result : solved at move : 98, total boards : 523, outstanding candidates : 397, tried candidates : 125, max depth : 97
+miliseconds used : 3
+
+solving seed : 764
+solver result : solved at move : 142, total boards : 775, outstanding candidates : 539, tried candidates : 235, max depth : 141
+miliseconds used : 5
+
+solving seed : 765
+solver result : solved at move : 179, total boards : 1047, outstanding candidates : 705, tried candidates : 341, max depth : 178
+miliseconds used : 8
+
+solving seed : 766
+solver result : solved at move : 132, total boards : 776, outstanding candidates : 464, tried candidates : 311, max depth : 131
+miliseconds used : 4
+
+solving seed : 767
+solver result : solved at move : 306, total boards : 2716, outstanding candidates : 1058, tried candidates : 1657, max depth : 305
+miliseconds used : 19
+
+solving seed : 768
+solver result : solved at move : 116, total boards : 605, outstanding candidates : 367, tried candidates : 237, max depth : 115
+miliseconds used : 3
+
+solving seed : 769
+solver result : solved at move : 110, total boards : 615, outstanding candidates : 471, tried candidates : 143, max depth : 109
+miliseconds used : 3
+
+solving seed : 770
+solver result : solved at move : 141, total boards : 1700, outstanding candidates : 574, tried candidates : 1125, max depth : 140
+miliseconds used : 12
+
+solving seed : 771
+solver result : solved at move : 101, total boards : 459, outstanding candidates : 297, tried candidates : 161, max depth : 100
+miliseconds used : 2
+
+solving seed : 772
+solver result : solved at move : 103, total boards : 2265, outstanding candidates : 416, tried candidates : 1848, max depth : 102
+miliseconds used : 18
+
+solving seed : 773
+solver result : solved at move : 265, total boards : 2086, outstanding candidates : 975, tried candidates : 1110, max depth : 264
+miliseconds used : 15
+
+solving seed : 774
+solver result : solved at move : 99, total boards : 520, outstanding candidates : 399, tried candidates : 120, max depth : 98
+miliseconds used : 2
+
+solving seed : 775
+solver result : unsolvable, total boards : 35074, outstanding candidates : 0, tried candidates : 35074, max depth : 127
+miliseconds used : 415
+
+solving seed : 776
+solver result : solved at move : 123, total boards : 2268, outstanding candidates : 509, tried candidates : 1758, max depth : 122
+miliseconds used : 18
+
+solving seed : 777
+solver result : solved at move : 78, total boards : 370, outstanding candidates : 276, tried candidates : 93, max depth : 77
+miliseconds used : 2
+
+solving seed : 778
+solver result : solved at move : 127, total boards : 873, outstanding candidates : 499, tried candidates : 373, max depth : 126
+miliseconds used : 4
+
+solving seed : 779
+solver result : solved at move : 1116, total boards : 45094, outstanding candidates : 3847, tried candidates : 41246, max depth : 2447
+miliseconds used : 514
+
+solving seed : 780
+solver result : solved at move : 124, total boards : 1231, outstanding candidates : 462, tried candidates : 768, max depth : 123
+miliseconds used : 8
+
+solving seed : 781
+solver result : solved at move : 148, total boards : 835, outstanding candidates : 527, tried candidates : 307, max depth : 147
+miliseconds used : 4
+
+solving seed : 782
+solver result : solved at move : 99, total boards : 10532, outstanding candidates : 397, tried candidates : 10134, max depth : 133
+miliseconds used : 95
+
+solving seed : 783
+solver result : solved at move : 103, total boards : 542, outstanding candidates : 362, tried candidates : 179, max depth : 102
+miliseconds used : 3
+
+solving seed : 784
+solver result : solved at move : 111, total boards : 577, outstanding candidates : 375, tried candidates : 201, max depth : 110
+miliseconds used : 2
+
+solving seed : 785
+solver result : solved at move : 108, total boards : 578, outstanding candidates : 414, tried candidates : 163, max depth : 107
+miliseconds used : 3
+
+solving seed : 786
+solver result : solved at move : 123, total boards : 956, outstanding candidates : 452, tried candidates : 503, max depth : 122
+miliseconds used : 16
+
+solving seed : 787
+solver result : solved at move : 79, total boards : 415, outstanding candidates : 326, tried candidates : 88, max depth : 78
+miliseconds used : 2
+
+solving seed : 788
+solver result : solved at move : 213, total boards : 1612, outstanding candidates : 663, tried candidates : 948, max depth : 212
+miliseconds used : 14
+
+solving seed : 789
+solver result : solved at move : 109, total boards : 995, outstanding candidates : 330, tried candidates : 664, max depth : 108
+miliseconds used : 7
+
+solving seed : 790
+solver result : solved at move : 284, total boards : 10834, outstanding candidates : 1372, tried candidates : 9461, max depth : 283
+miliseconds used : 101
+
+solving seed : 791
+solver result : solved at move : 149, total boards : 1003, outstanding candidates : 554, tried candidates : 448, max depth : 148
+miliseconds used : 6
+
+solving seed : 792
+solver result : solved at move : 150, total boards : 2842, outstanding candidates : 584, tried candidates : 2257, max depth : 149
+miliseconds used : 22
+
+solving seed : 793
+solver result : solved at move : 139, total boards : 1280, outstanding candidates : 458, tried candidates : 821, max depth : 138
+miliseconds used : 8
+
+solving seed : 794
+solver result : solved at move : 92, total boards : 554, outstanding candidates : 389, tried candidates : 164, max depth : 91
+miliseconds used : 2
+
+solving seed : 795
+solver result : solved at move : 178, total boards : 9127, outstanding candidates : 707, tried candidates : 8419, max depth : 177
+miliseconds used : 83
+
+solving seed : 796
+solver result : solved at move : 105, total boards : 2305, outstanding candidates : 394, tried candidates : 1910, max depth : 104
+miliseconds used : 18
+
+solving seed : 797
+solver result : solved at move : 92, total boards : 478, outstanding candidates : 370, tried candidates : 107, max depth : 91
+miliseconds used : 2
+
+solving seed : 798
+solver result : solved at move : 101, total boards : 2315, outstanding candidates : 366, tried candidates : 1948, max depth : 100
+miliseconds used : 20
+
+solving seed : 799
+solver result : solved at move : 87, total boards : 447, outstanding candidates : 339, tried candidates : 107, max depth : 86
+miliseconds used : 2
+
+solving seed : 800
+solver result : solved at move : 99, total boards : 619, outstanding candidates : 361, tried candidates : 257, max depth : 98
+miliseconds used : 5
+
+solving seed : 801
+solver result : solved at move : 140, total boards : 748, outstanding candidates : 487, tried candidates : 260, max depth : 139
+miliseconds used : 7
+
+solving seed : 802
+solver result : solved at move : 109, total boards : 624, outstanding candidates : 438, tried candidates : 185, max depth : 108
+miliseconds used : 3
+
+solving seed : 803
+solver result : solved at move : 98, total boards : 512, outstanding candidates : 386, tried candidates : 125, max depth : 97
+miliseconds used : 2
+
+solving seed : 804
+solver result : solved at move : 103, total boards : 1800, outstanding candidates : 357, tried candidates : 1442, max depth : 102
+miliseconds used : 13
+
+solving seed : 805
+solver result : solved at move : 110, total boards : 951, outstanding candidates : 405, tried candidates : 545, max depth : 109
+miliseconds used : 5
+
+solving seed : 806
+solver result : solved at move : 106, total boards : 1110, outstanding candidates : 345, tried candidates : 764, max depth : 105
+miliseconds used : 8
+
+solving seed : 807
+solver result : solved at move : 91, total boards : 460, outstanding candidates : 357, tried candidates : 102, max depth : 90
+miliseconds used : 2
+
+solving seed : 808
+solver result : solved at move : 137, total boards : 5265, outstanding candidates : 460, tried candidates : 4804, max depth : 136
+miliseconds used : 46
+
+solving seed : 809
+solver result : solved at move : 109, total boards : 523, outstanding candidates : 405, tried candidates : 117, max depth : 108
+miliseconds used : 2
+
+solving seed : 810
+solver result : solved at move : 98, total boards : 496, outstanding candidates : 377, tried candidates : 118, max depth : 97
+miliseconds used : 2
+
+solving seed : 811
+solver result : solved at move : 107, total boards : 795, outstanding candidates : 323, tried candidates : 471, max depth : 106
+miliseconds used : 5
+
+solving seed : 812
+solver result : solved at move : 112, total boards : 626, outstanding candidates : 420, tried candidates : 205, max depth : 111
+miliseconds used : 3
+
+solving seed : 813
+solver result : solved at move : 100, total boards : 793, outstanding candidates : 434, tried candidates : 358, max depth : 99
+miliseconds used : 4
+
+solving seed : 814
+solver result : solved at move : 116, total boards : 727, outstanding candidates : 419, tried candidates : 307, max depth : 115
+miliseconds used : 4
+
+solving seed : 815
+solver result : solved at move : 95, total boards : 511, outstanding candidates : 287, tried candidates : 223, max depth : 94
+miliseconds used : 3
+
+solving seed : 816
+solver result : solved at move : 87, total boards : 14930, outstanding candidates : 271, tried candidates : 14658, max depth : 86
+miliseconds used : 144
+
+solving seed : 817
+solver result : solved at move : 115, total boards : 2630, outstanding candidates : 492, tried candidates : 2137, max depth : 114
+miliseconds used : 24
+
+solving seed : 818
+solver result : solved at move : 188, total boards : 1243, outstanding candidates : 816, tried candidates : 426, max depth : 187
+miliseconds used : 7
+
+solving seed : 819
+solver result : solved at move : 142, total boards : 1147, outstanding candidates : 578, tried candidates : 568, max depth : 141
+miliseconds used : 8
+
+solving seed : 820
+solver result : solved at move : 106, total boards : 1184, outstanding candidates : 385, tried candidates : 798, max depth : 105
+miliseconds used : 9
+
+solving seed : 821
+solver result : solved at move : 121, total boards : 1097, outstanding candidates : 480, tried candidates : 616, max depth : 120
+miliseconds used : 7
+
+solving seed : 822
+solver result : solved at move : 201, total boards : 2315, outstanding candidates : 823, tried candidates : 1491, max depth : 200
+miliseconds used : 15
+
+solving seed : 823
+solver result : solved at move : 84, total boards : 856, outstanding candidates : 310, tried candidates : 545, max depth : 83
+miliseconds used : 5
+
+solving seed : 824
+solver result : solved at move : 103, total boards : 612, outstanding candidates : 483, tried candidates : 128, max depth : 102
+miliseconds used : 3
+
+solving seed : 825
+solver result : solved at move : 80, total boards : 409, outstanding candidates : 289, tried candidates : 119, max depth : 79
+miliseconds used : 2
+
+solving seed : 826
+solver result : solved at move : 130, total boards : 979, outstanding candidates : 578, tried candidates : 400, max depth : 129
+miliseconds used : 5
+
+solving seed : 827
+solver result : solved at move : 132, total boards : 1613, outstanding candidates : 458, tried candidates : 1154, max depth : 131
+miliseconds used : 11
+
+solving seed : 828
+solver result : solved at move : 140, total boards : 3098, outstanding candidates : 626, tried candidates : 2471, max depth : 139
+miliseconds used : 24
+
+solving seed : 829
+solver result : unsolvable, total boards : 4123, outstanding candidates : 0, tried candidates : 4123, max depth : 42
+miliseconds used : 38
+
+solving seed : 830
+solver result : solved at move : 82, total boards : 386, outstanding candidates : 299, tried candidates : 86, max depth : 81
+miliseconds used : 1
+
+solving seed : 831
+solver result : solved at move : 95, total boards : 503, outstanding candidates : 378, tried candidates : 124, max depth : 94
+miliseconds used : 2
+
+solving seed : 832
+solver result : solved at move : 92, total boards : 525, outstanding candidates : 419, tried candidates : 105, max depth : 91
+miliseconds used : 2
+
+solving seed : 833
+solver result : solved at move : 242, total boards : 15613, outstanding candidates : 861, tried candidates : 14751, max depth : 241
+miliseconds used : 155
+
+solving seed : 834
+solver result : solved at move : 177, total boards : 1685, outstanding candidates : 648, tried candidates : 1036, max depth : 176
+miliseconds used : 12
+
+solving seed : 835
+solver result : solved at move : 101, total boards : 858, outstanding candidates : 423, tried candidates : 434, max depth : 100
+miliseconds used : 5
+
+solving seed : 836
+solver result : solved at move : 71, total boards : 354, outstanding candidates : 279, tried candidates : 74, max depth : 70
+miliseconds used : 2
+
+solving seed : 837
+solver result : solved at move : 84, total boards : 449, outstanding candidates : 338, tried candidates : 110, max depth : 83
+miliseconds used : 2
+
+solving seed : 838
+solver result : solved at move : 186, total boards : 1685, outstanding candidates : 669, tried candidates : 1015, max depth : 185
+miliseconds used : 10
+
+solving seed : 839
+solver result : solved at move : 154, total boards : 3568, outstanding candidates : 521, tried candidates : 3046, max depth : 153
+miliseconds used : 30
+
+solving seed : 840
+solver result : solved at move : 114, total boards : 593, outstanding candidates : 469, tried candidates : 123, max depth : 113
+miliseconds used : 3
+
+solving seed : 841
+solver result : solved at move : 95, total boards : 441, outstanding candidates : 259, tried candidates : 181, max depth : 94
+miliseconds used : 2
+
+solving seed : 842
+solver result : solved at move : 98, total boards : 649, outstanding candidates : 397, tried candidates : 251, max depth : 97
+miliseconds used : 4
+
+solving seed : 843
+solver result : solved at move : 120, total boards : 718, outstanding candidates : 512, tried candidates : 205, max depth : 119
+miliseconds used : 3
+
+solving seed : 844
+solver result : solved at move : 135, total boards : 1247, outstanding candidates : 644, tried candidates : 602, max depth : 134
+miliseconds used : 8
+
+solving seed : 845
+solver result : solved at move : 204, total boards : 2866, outstanding candidates : 808, tried candidates : 2057, max depth : 203
+miliseconds used : 19
+
+solving seed : 846
+solver result : solved at move : 113, total boards : 1817, outstanding candidates : 527, tried candidates : 1289, max depth : 112
+miliseconds used : 14
+
+solving seed : 847
+solver result : solved at move : 84, total boards : 567, outstanding candidates : 420, tried candidates : 146, max depth : 83
+miliseconds used : 2
+
+solving seed : 848
+solver result : solved at move : 85, total boards : 1116, outstanding candidates : 394, tried candidates : 721, max depth : 84
+miliseconds used : 7
+
+solving seed : 849
+solver result : solved at move : 286, total boards : 4814, outstanding candidates : 1156, tried candidates : 3657, max depth : 285
+miliseconds used : 48
+
+solving seed : 850
+solver result : solved at move : 158, total boards : 7600, outstanding candidates : 580, tried candidates : 7019, max depth : 157
+miliseconds used : 77
+
+solving seed : 851
+solver result : solved at move : 100, total boards : 600, outstanding candidates : 467, tried candidates : 132, max depth : 99
+miliseconds used : 2
+
+solving seed : 852
+solver result : solved at move : 72, total boards : 391, outstanding candidates : 294, tried candidates : 96, max depth : 71
+miliseconds used : 2
+
+solving seed : 853
+solver result : solved at move : 134, total boards : 813, outstanding candidates : 581, tried candidates : 231, max depth : 133
+miliseconds used : 3
+
+solving seed : 854
+solver result : solved at move : 103, total boards : 842, outstanding candidates : 423, tried candidates : 418, max depth : 102
+miliseconds used : 5
+
+solving seed : 855
+solver result : solved at move : 79, total boards : 361, outstanding candidates : 272, tried candidates : 88, max depth : 78
+miliseconds used : 1
+
+solving seed : 856
+solver result : solved at move : 93, total boards : 446, outstanding candidates : 322, tried candidates : 123, max depth : 92
+miliseconds used : 2
+
+solving seed : 857
+solver result : solved at move : 219, total boards : 7538, outstanding candidates : 791, tried candidates : 6746, max depth : 266
+miliseconds used : 86
+
+solving seed : 858
+solver result : solved at move : 96, total boards : 792, outstanding candidates : 348, tried candidates : 443, max depth : 95
+miliseconds used : 4
+
+solving seed : 859
+solver result : solved at move : 75, total boards : 386, outstanding candidates : 302, tried candidates : 83, max depth : 74
+miliseconds used : 2
+
+solving seed : 860
+solver result : solved at move : 119, total boards : 2791, outstanding candidates : 370, tried candidates : 2420, max depth : 118
+miliseconds used : 23
+
+solving seed : 861
+solver result : solved at move : 107, total boards : 627, outstanding candidates : 418, tried candidates : 208, max depth : 106
+miliseconds used : 3
+
+solving seed : 862
+solver result : solved at move : 69, total boards : 336, outstanding candidates : 261, tried candidates : 74, max depth : 68
+miliseconds used : 1
+
+solving seed : 863
+solver result : solved at move : 83, total boards : 470, outstanding candidates : 356, tried candidates : 113, max depth : 82
+miliseconds used : 2
+
+solving seed : 864
+solver result : solved at move : 98, total boards : 4381, outstanding candidates : 412, tried candidates : 3968, max depth : 97
+miliseconds used : 38
+
+solving seed : 865
+solver result : solved at move : 131, total boards : 3055, outstanding candidates : 439, tried candidates : 2615, max depth : 130
+miliseconds used : 26
+
+solving seed : 866
+solver result : solved at move : 244, total boards : 2065, outstanding candidates : 836, tried candidates : 1228, max depth : 243
+miliseconds used : 13
+
+solving seed : 867
+solver result : solved at move : 106, total boards : 1091, outstanding candidates : 328, tried candidates : 762, max depth : 105
+miliseconds used : 8
+
+solving seed : 868
+solver result : solved at move : 92, total boards : 825, outstanding candidates : 354, tried candidates : 470, max depth : 91
+miliseconds used : 6
+
+solving seed : 869
+solver result : solved at move : 79, total boards : 482, outstanding candidates : 394, tried candidates : 87, max depth : 78
+miliseconds used : 2
+
+solving seed : 870
+solver result : solved at move : 107, total boards : 1021, outstanding candidates : 502, tried candidates : 518, max depth : 106
+miliseconds used : 5
+
+solving seed : 871
+solver result : solved at move : 97, total boards : 3027, outstanding candidates : 296, tried candidates : 2730, max depth : 96
+miliseconds used : 23
+
+solving seed : 872
+solver result : solved at move : 202, total boards : 2654, outstanding candidates : 669, tried candidates : 1984, max depth : 201
+miliseconds used : 20
+
+solving seed : 873
+solver result : solved at move : 82, total boards : 343, outstanding candidates : 232, tried candidates : 110, max depth : 81
+miliseconds used : 1
+
+solving seed : 874
+solver result : solved at move : 147, total boards : 5068, outstanding candidates : 506, tried candidates : 4561, max depth : 146
+miliseconds used : 58
+
+solving seed : 875
+solver result : solved at move : 101, total boards : 642, outstanding candidates : 381, tried candidates : 260, max depth : 100
+miliseconds used : 3
+
+solving seed : 876
+solver result : solved at move : 71, total boards : 319, outstanding candidates : 209, tried candidates : 109, max depth : 70
+miliseconds used : 1
+
+solving seed : 877
+solver result : solved at move : 124, total boards : 13319, outstanding candidates : 403, tried candidates : 12915, max depth : 131
+miliseconds used : 160
+
+solving seed : 878
+solver result : solved at move : 90, total boards : 556, outstanding candidates : 414, tried candidates : 141, max depth : 89
+miliseconds used : 4
+
+solving seed : 879
+solver result : solved at move : 149, total boards : 749, outstanding candidates : 558, tried candidates : 190, max depth : 148
+miliseconds used : 5
+
+solving seed : 880
+solver result : solved at move : 116, total boards : 753, outstanding candidates : 437, tried candidates : 315, max depth : 115
+miliseconds used : 4
+
+solving seed : 881
+solver result : solved at move : 92, total boards : 468, outstanding candidates : 343, tried candidates : 124, max depth : 91
+miliseconds used : 2
+
+solving seed : 882
+solver result : solved at move : 97, total boards : 2140, outstanding candidates : 420, tried candidates : 1719, max depth : 96
+miliseconds used : 21
+
+solving seed : 883
+solver result : solved at move : 109, total boards : 1994, outstanding candidates : 475, tried candidates : 1518, max depth : 261
+miliseconds used : 16
+
+solving seed : 884
+solver result : solved at move : 135, total boards : 3503, outstanding candidates : 456, tried candidates : 3046, max depth : 134
+miliseconds used : 32
+
+solving seed : 885
+solver result : solved at move : 219, total boards : 3053, outstanding candidates : 930, tried candidates : 2122, max depth : 261
+miliseconds used : 26
+
+solving seed : 886
+solver result : solved at move : 147, total boards : 5222, outstanding candidates : 523, tried candidates : 4698, max depth : 146
+miliseconds used : 51
+
+solving seed : 887
+solver result : solved at move : 287, total boards : 29376, outstanding candidates : 1105, tried candidates : 28270, max depth : 692
+miliseconds used : 362
+
+solving seed : 888
+solver result : solved at move : 140, total boards : 2319, outstanding candidates : 509, tried candidates : 1809, max depth : 139
+miliseconds used : 19
+
+solving seed : 889
+solver result : solved at move : 124, total boards : 7926, outstanding candidates : 342, tried candidates : 7583, max depth : 143
+miliseconds used : 82
+
+solving seed : 890
+solver result : solved at move : 88, total boards : 448, outstanding candidates : 346, tried candidates : 101, max depth : 87
+miliseconds used : 1
+
+solving seed : 891
+solver result : solved at move : 109, total boards : 686, outstanding candidates : 343, tried candidates : 342, max depth : 108
+miliseconds used : 4
+
+solving seed : 892
+solver result : solved at move : 217, total boards : 1445, outstanding candidates : 918, tried candidates : 526, max depth : 216
+miliseconds used : 8
+
+solving seed : 893
+solver result : solved at move : 120, total boards : 1345, outstanding candidates : 551, tried candidates : 793, max depth : 119
+miliseconds used : 8
+
+solving seed : 894
+solver result : solved at move : 114, total boards : 13280, outstanding candidates : 399, tried candidates : 12880, max depth : 209
+miliseconds used : 145
+
+solving seed : 895
+solver result : solved at move : 238, total boards : 9574, outstanding candidates : 1055, tried candidates : 8518, max depth : 500
+miliseconds used : 84
+
+solving seed : 896
+solver result : solved at move : 122, total boards : 786, outstanding candidates : 442, tried candidates : 343, max depth : 121
+miliseconds used : 4
+
+solving seed : 897
+solver result : solved at move : 120, total boards : 1176, outstanding candidates : 494, tried candidates : 681, max depth : 119
+miliseconds used : 7
+
+solving seed : 898
+solver result : solved at move : 179, total boards : 1706, outstanding candidates : 756, tried candidates : 949, max depth : 178
+miliseconds used : 11
+
+solving seed : 899
+solver result : solved at move : 115, total boards : 601, outstanding candidates : 316, tried candidates : 284, max depth : 114
+miliseconds used : 3
+
+solving seed : 900
+solver result : solved at move : 325, total boards : 3906, outstanding candidates : 1065, tried candidates : 2840, max depth : 324
+miliseconds used : 33
+
+solving seed : 901
+solver result : solved at move : 101, total boards : 1191, outstanding candidates : 292, tried candidates : 898, max depth : 100
+miliseconds used : 8
+
+solving seed : 902
+solver result : solved at move : 132, total boards : 4469, outstanding candidates : 700, tried candidates : 3768, max depth : 131
+miliseconds used : 37
+
+solving seed : 903
+solver result : solved at move : 105, total boards : 1020, outstanding candidates : 448, tried candidates : 571, max depth : 105
+miliseconds used : 6
+
+solving seed : 904
+solver result : solved at move : 90, total boards : 535, outstanding candidates : 409, tried candidates : 125, max depth : 89
+miliseconds used : 2
+
+solving seed : 905
+solver result : solved at move : 118, total boards : 800, outstanding candidates : 485, tried candidates : 314, max depth : 117
+miliseconds used : 4
+
+solving seed : 906
+solver result : solved at move : 92, total boards : 600, outstanding candidates : 496, tried candidates : 103, max depth : 91
+miliseconds used : 2
+
+solving seed : 907
+solver result : solved at move : 119, total boards : 1479, outstanding candidates : 492, tried candidates : 986, max depth : 118
+miliseconds used : 11
+
+solving seed : 908
+solver result : solved at move : 114, total boards : 916, outstanding candidates : 586, tried candidates : 329, max depth : 113
+miliseconds used : 4
+
+solving seed : 909
+solver result : solved at move : 90, total boards : 442, outstanding candidates : 279, tried candidates : 162, max depth : 89
+miliseconds used : 2
+
+solving seed : 910
+solver result : solved at move : 663, total boards : 6966, outstanding candidates : 2248, tried candidates : 4717, max depth : 662
+miliseconds used : 65
+
+solving seed : 911
+solver result : solved at move : 103, total boards : 2073, outstanding candidates : 348, tried candidates : 1724, max depth : 102
+miliseconds used : 13
+
+solving seed : 912
+solver result : solved at move : 189, total boards : 2977, outstanding candidates : 772, tried candidates : 2204, max depth : 188
+miliseconds used : 21
+
+solving seed : 913
+solver result : solved at move : 105, total boards : 839, outstanding candidates : 443, tried candidates : 395, max depth : 104
+miliseconds used : 5
+
+solving seed : 914
+solver result : solved at move : 124, total boards : 1140, outstanding candidates : 426, tried candidates : 713, max depth : 123
+miliseconds used : 7
+
+solving seed : 915
+solver result : solved at move : 95, total boards : 13819, outstanding candidates : 355, tried candidates : 13463, max depth : 94
+miliseconds used : 158
+
+solving seed : 916
+solver result : solved at move : 103, total boards : 629, outstanding candidates : 490, tried candidates : 138, max depth : 102
+miliseconds used : 3
+
+solving seed : 917
+solver result : solved at move : 168, total boards : 3935, outstanding candidates : 716, tried candidates : 3218, max depth : 167
+miliseconds used : 30
+
+solving seed : 918
+solver result : solved at move : 195, total boards : 2961, outstanding candidates : 694, tried candidates : 2266, max depth : 194
+miliseconds used : 25
+
+solving seed : 919
+solver result : solved at move : 90, total boards : 449, outstanding candidates : 331, tried candidates : 117, max depth : 89
+miliseconds used : 2
+
+solving seed : 920
+solver result : solved at move : 133, total boards : 787, outstanding candidates : 546, tried candidates : 240, max depth : 132
+miliseconds used : 3
+
+solving seed : 921
+solver result : solved at move : 103, total boards : 8233, outstanding candidates : 389, tried candidates : 7843, max depth : 102
+miliseconds used : 90
+
+solving seed : 922
+solver result : solved at move : 127, total boards : 657, outstanding candidates : 463, tried candidates : 193, max depth : 126
+miliseconds used : 3
+
+solving seed : 923
+solver result : solved at move : 108, total boards : 470, outstanding candidates : 342, tried candidates : 127, max depth : 107
+miliseconds used : 2
+
+solving seed : 924
+solver result : solved at move : 75, total boards : 385, outstanding candidates : 291, tried candidates : 93, max depth : 74
+miliseconds used : 1
+
+solving seed : 925
+solver result : solved at move : 140, total boards : 4132, outstanding candidates : 545, tried candidates : 3586, max depth : 139
+miliseconds used : 40
+
+solving seed : 926
+solver result : solved at move : 146, total boards : 4784, outstanding candidates : 682, tried candidates : 4101, max depth : 145
+miliseconds used : 40
+
+solving seed : 927
+solver result : solved at move : 124, total boards : 2647, outstanding candidates : 436, tried candidates : 2210, max depth : 123
+miliseconds used : 21
+
+solving seed : 928
+solver result : solved at move : 157, total boards : 1438, outstanding candidates : 585, tried candidates : 852, max depth : 156
+miliseconds used : 9
+
+solving seed : 929
+solver result : solved at move : 131, total boards : 6080, outstanding candidates : 498, tried candidates : 5581, max depth : 130
+miliseconds used : 61
+
+solving seed : 930
+solver result : solved at move : 97, total boards : 546, outstanding candidates : 427, tried candidates : 118, max depth : 96
+miliseconds used : 3
+
+solving seed : 931
+solver result : solved at move : 104, total boards : 481, outstanding candidates : 369, tried candidates : 111, max depth : 103
+miliseconds used : 2
+
+solving seed : 932
+solver result : solved at move : 107, total boards : 18349, outstanding candidates : 353, tried candidates : 17995, max depth : 186
+miliseconds used : 218
+
+solving seed : 933
+solver result : solved at move : 97, total boards : 495, outstanding candidates : 346, tried candidates : 148, max depth : 96
+miliseconds used : 2
+
+solving seed : 934
+solver result : solved at move : 167, total boards : 1217, outstanding candidates : 639, tried candidates : 577, max depth : 166
+miliseconds used : 8
+
+solving seed : 935
+solver result : solved at move : 92, total boards : 897, outstanding candidates : 286, tried candidates : 610, max depth : 91
+miliseconds used : 5
+
+solving seed : 936
+solver result : solved at move : 170, total boards : 5023, outstanding candidates : 498, tried candidates : 4524, max depth : 169
+miliseconds used : 47
+
+solving seed : 937
+solver result : solved at move : 133, total boards : 18156, outstanding candidates : 445, tried candidates : 17710, max depth : 234
+miliseconds used : 206
+
+solving seed : 938
+solver result : solved at move : 107, total boards : 459, outstanding candidates : 320, tried candidates : 138, max depth : 106
+miliseconds used : 2
+
+solving seed : 939
+solver result : solved at move : 130, total boards : 982, outstanding candidates : 480, tried candidates : 501, max depth : 129
+miliseconds used : 5
+
+solving seed : 940
+solver result : solved at move : 112, total boards : 2435, outstanding candidates : 408, tried candidates : 2026, max depth : 111
+miliseconds used : 19
+
+solving seed : 941
+solver result : solved at move : 90, total boards : 508, outstanding candidates : 306, tried candidates : 201, max depth : 89
+miliseconds used : 2
+
+solving seed : 942
+solver result : solved at move : 82, total boards : 457, outstanding candidates : 244, tried candidates : 212, max depth : 81
+miliseconds used : 2
+
+solving seed : 943
+solver result : solved at move : 93, total boards : 686, outstanding candidates : 358, tried candidates : 327, max depth : 92
+miliseconds used : 4
+
+solving seed : 944
+solver result : solved at move : 113, total boards : 871, outstanding candidates : 459, tried candidates : 411, max depth : 112
+miliseconds used : 4
+
+solving seed : 945
+solver result : solved at move : 135, total boards : 4181, outstanding candidates : 406, tried candidates : 3774, max depth : 134
+miliseconds used : 41
+
+solving seed : 946
+solver result : solved at move : 196, total boards : 1240, outstanding candidates : 890, tried candidates : 349, max depth : 195
+miliseconds used : 6
+
+solving seed : 947
+solver result : solved at move : 122, total boards : 659, outstanding candidates : 422, tried candidates : 236, max depth : 121
+miliseconds used : 3
+
+solving seed : 948
+solver result : solved at move : 82, total boards : 370, outstanding candidates : 279, tried candidates : 90, max depth : 81
+miliseconds used : 2
+
+solving seed : 949
+solver result : solved at move : 213, total boards : 45760, outstanding candidates : 842, tried candidates : 44917, max depth : 444
+miliseconds used : 568
+
+solving seed : 950
+solver result : solved at move : 108, total boards : 742, outstanding candidates : 355, tried candidates : 386, max depth : 107
+miliseconds used : 5
+
+solving seed : 951
+solver result : solved at move : 126, total boards : 923, outstanding candidates : 402, tried candidates : 520, max depth : 125
+miliseconds used : 5
+
+solving seed : 952
+solver result : solved at move : 100, total boards : 746, outstanding candidates : 341, tried candidates : 404, max depth : 99
+miliseconds used : 4
+
+solving seed : 953
+solver result : solved at move : 105, total boards : 704, outstanding candidates : 486, tried candidates : 217, max depth : 104
+miliseconds used : 3
+
+solving seed : 954
+solver result : solved at move : 85, total boards : 436, outstanding candidates : 313, tried candidates : 122, max depth : 84
+miliseconds used : 2
+
+solving seed : 955
+solver result : solved at move : 179, total boards : 907, outstanding candidates : 692, tried candidates : 214, max depth : 178
+miliseconds used : 5
+
+solving seed : 956
+solver result : solved at move : 110, total boards : 2935, outstanding candidates : 354, tried candidates : 2580, max depth : 109
+miliseconds used : 25
+
+solving seed : 957
+solver result : solved at move : 124, total boards : 739, outstanding candidates : 380, tried candidates : 358, max depth : 123
+miliseconds used : 4
+
+solving seed : 958
+solver result : solved at move : 174, total boards : 1681, outstanding candidates : 636, tried candidates : 1044, max depth : 173
+miliseconds used : 11
+
+solving seed : 959
+solver result : solved at move : 82, total boards : 536, outstanding candidates : 349, tried candidates : 186, max depth : 81
+miliseconds used : 2
+
+solving seed : 960
+solver result : solved at move : 83, total boards : 525, outstanding candidates : 297, tried candidates : 227, max depth : 82
+miliseconds used : 3
+
+solving seed : 961
+solver result : solved at move : 174, total boards : 2334, outstanding candidates : 621, tried candidates : 1712, max depth : 173
+miliseconds used : 16
+
+solving seed : 962
+solver result : solved at move : 152, total boards : 1873, outstanding candidates : 526, tried candidates : 1346, max depth : 151
+miliseconds used : 15
+
+solving seed : 963
+solver result : solved at move : 155, total boards : 3151, outstanding candidates : 532, tried candidates : 2618, max depth : 154
+miliseconds used : 25
+
+solving seed : 964
+solver result : solved at move : 106, total boards : 702, outstanding candidates : 481, tried candidates : 220, max depth : 105
+miliseconds used : 3
+
+solving seed : 965
+solver result : solved at move : 97, total boards : 1490, outstanding candidates : 337, tried candidates : 1152, max depth : 96
+miliseconds used : 11
+
+solving seed : 966
+solver result : solved at move : 96, total boards : 468, outstanding candidates : 335, tried candidates : 132, max depth : 95
+miliseconds used : 2
+
+solving seed : 967
+solver result : solved at move : 93, total boards : 464, outstanding candidates : 268, tried candidates : 195, max depth : 92
+miliseconds used : 2
+
+solving seed : 968
+solver result : solved at move : 97, total boards : 610, outstanding candidates : 310, tried candidates : 299, max depth : 96
+miliseconds used : 3
+
+solving seed : 969
+solver result : solved at move : 79, total boards : 394, outstanding candidates : 308, tried candidates : 85, max depth : 78
+miliseconds used : 2
+
+solving seed : 970
+solver result : solved at move : 125, total boards : 1552, outstanding candidates : 585, tried candidates : 966, max depth : 124
+miliseconds used : 10
+
+solving seed : 971
+solver result : solved at move : 130, total boards : 817, outstanding candidates : 512, tried candidates : 304, max depth : 129
+miliseconds used : 4
+
+solving seed : 972
+solver result : solved at move : 161, total boards : 4172, outstanding candidates : 466, tried candidates : 3705, max depth : 160
+miliseconds used : 34
+
+solving seed : 973
+solver result : solved at move : 105, total boards : 925, outstanding candidates : 418, tried candidates : 506, max depth : 104
+miliseconds used : 5
+
+solving seed : 974
+solver result : solved at move : 152, total boards : 2116, outstanding candidates : 507, tried candidates : 1608, max depth : 151
+miliseconds used : 16
+
+solving seed : 975
+solver result : solved at move : 85, total boards : 524, outstanding candidates : 419, tried candidates : 104, max depth : 84
+miliseconds used : 2
+
+solving seed : 976
+solver result : solved at move : 86, total boards : 479, outstanding candidates : 294, tried candidates : 184, max depth : 85
+miliseconds used : 2
+
+solving seed : 977
+solver result : solved at move : 156, total boards : 2721, outstanding candidates : 560, tried candidates : 2160, max depth : 155
+miliseconds used : 18
+
+solving seed : 978
+solver result : solved at move : 147, total boards : 9075, outstanding candidates : 482, tried candidates : 8592, max depth : 146
+miliseconds used : 84
+
+solving seed : 979
+solver result : solved at move : 100, total boards : 5239, outstanding candidates : 367, tried candidates : 4871, max depth : 99
+miliseconds used : 51
+
+solving seed : 980
+solver result : solved at move : 103, total boards : 505, outstanding candidates : 340, tried candidates : 164, max depth : 102
+miliseconds used : 2
+
+solving seed : 981
+solver result : solved at move : 81, total boards : 364, outstanding candidates : 262, tried candidates : 101, max depth : 80
+miliseconds used : 1
+
+solving seed : 982
+solver result : solved at move : 431, total boards : 170702, outstanding candidates : 1607, tried candidates : 169094, max depth : 6026
+miliseconds used : 2700
+
+time used most : 2700 at seed : 982
+
+solving seed : 983
+solver result : solved at move : 131, total boards : 2507, outstanding candidates : 422, tried candidates : 2084, max depth : 130
+miliseconds used : 18
+
+solving seed : 984
+solver result : solved at move : 229, total boards : 8220, outstanding candidates : 1030, tried candidates : 7189, max depth : 228
+miliseconds used : 79
+
+solving seed : 985
+solver result : solved at move : 135, total boards : 1036, outstanding candidates : 414, tried candidates : 621, max depth : 134
+miliseconds used : 8
+
+solving seed : 986
+solver result : solved at move : 114, total boards : 705, outstanding candidates : 493, tried candidates : 211, max depth : 113
+miliseconds used : 3
+
+solving seed : 987
+solver result : solved at move : 102, total boards : 610, outstanding candidates : 334, tried candidates : 275, max depth : 101
+miliseconds used : 4
+
+solving seed : 988
+solver result : unsolvable, total boards : 10908, outstanding candidates : 0, tried candidates : 10908, max depth : 77
+miliseconds used : 121
+
+solving seed : 989
+solver result : solved at move : 88, total boards : 688, outstanding candidates : 275, tried candidates : 412, max depth : 87
+miliseconds used : 4
+
+solving seed : 990
+solver result : solved at move : 135, total boards : 1560, outstanding candidates : 462, tried candidates : 1097, max depth : 134
+miliseconds used : 11
+
+solving seed : 991
+solver result : solved at move : 106, total boards : 21284, outstanding candidates : 414, tried candidates : 20869, max depth : 582
+miliseconds used : 304
+
+solving seed : 992
+solver result : solved at move : 178, total boards : 1724, outstanding candidates : 602, tried candidates : 1121, max depth : 177
+miliseconds used : 11
+
+solving seed : 993
+solver result : solved at move : 98, total boards : 554, outstanding candidates : 386, tried candidates : 167, max depth : 97
+miliseconds used : 3
+
+solving seed : 994
+solver result : solved at move : 110, total boards : 1092, outstanding candidates : 417, tried candidates : 674, max depth : 109
+miliseconds used : 7
+
+solving seed : 995
+solver result : solved at move : 74, total boards : 486, outstanding candidates : 386, tried candidates : 99, max depth : 73
+miliseconds used : 2
+
+solving seed : 996
+solver result : solved at move : 121, total boards : 990, outstanding candidates : 434, tried candidates : 555, max depth : 120
+miliseconds used : 6
+
+solving seed : 997
+solver result : solved at move : 133, total boards : 795, outstanding candidates : 586, tried candidates : 208, max depth : 132
+miliseconds used : 3
+
+solving seed : 998
+solver result : solved at move : 120, total boards : 1403, outstanding candidates : 445, tried candidates : 957, max depth : 119
+miliseconds used : 11
+
+solving seed : 999
+solver result : solved at move : 97, total boards : 507, outstanding candidates : 401, tried candidates : 105, max depth : 96
+miliseconds used : 2
+
+solving seed : 1000
+solver result : solved at move : 89, total boards : 425, outstanding candidates : 324, tried candidates : 100, max depth : 88
+miliseconds used : 2
+

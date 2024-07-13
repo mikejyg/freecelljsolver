@@ -1,5 +1,10 @@
 freecelljsolver 
 
+VERSION 1.3.2
+- Realizing that the Freecell solution "standard notation" has a limitation, that it cannot specify the number of cards moving to an empty column.
+  To prevent this ambiguity, added a command line option to output a notation of number of cards following the move.
+- Making it easier to print out each boards between moves, by moving the option from the properties file to a command line option. 
+
 VERSION 1.3.1
 - BUG FIX: after reading in a board, normalize it so that it can be processed correctly ( -b option ).
 - ENHANCEMENT: enable the read board function to handle lower case suit representation ( -b option ).
